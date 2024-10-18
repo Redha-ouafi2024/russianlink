@@ -256,41 +256,6 @@ a:hover {
 
 
 
-    h4 {
-     position: relative;
-     font-size: 6em;
-     letter-spacing: 15px;
-     color: black;
-     text-transform: uppercase;
-     width: 100%;
-     text-align: center;
-     -webkit-box-reflect: below 1px linear-gradient(transparent, rgba(0, 0, 0, 0.5));
-     line-height: 0.74em
-     outline: none;
-     animation: animate 6s linear infinite;
-
-
-
-   }
-
-
-   h4 {
-
-     position: relative;
-     font-size: 8em;
-     letter-spacing: 20px;
-     color: black;
-     text-transform: uppercase;
-     width: 100%;
-     text-align: center;
-     -webkit-box-reflect: below 1px linear-gradient(transparent, rgba(0, 0, 0, 0.5));
-     line-height: 0.74em
-     outline: none;
-     animation: animate 6s linear infinite;
-
-   }
-
-
 
 
        .container6 {
@@ -316,150 +281,108 @@ a:hover {
 
 
 
-       .chat-container {
-            max-width: 500px;
-            margin: 6px auto;
+
+
+        
+
+
+
+
+  
+    
+  .chat-container {
             background-color: springgreen;
-            border-radius: 10px;
-            box-shadow: 0 0 20px #9999FF;
+            width: 360px;
+            max-width: 800px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px #9999FF;
             overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            padding: 10px;
         }
 
         .chat-box {
-            height: 100px;
-            overflow-y: scroll;
-            padding: 6px;
-             background-color: white;
-              box-shadow: 0 0 20px #9999FF;
+            background-color: white;
+            padding: 3px;
+            height: 300px;
+            overflow-y: auto;
+            border: 1px solid #9999FF;
+            margin-bottom: 10px;
+             box-shadow: 0 0 4px #9999FF;
         }
 
         .message {
-            background-color: white;
-            margin-bottom: 6px;
-            border: 1px solid black;
-             box-shadow: 0 0 20px #9999FF;
-             padding: 6px;
-
-
-        }
-
-        .avatar {
-           width: 40px;
-    height: 40px;
-    margin-right: 6px;
-    border-radius: 50%;
-     border: 1px solid #9999FF;
-    background-color: #9999FF;
-    background-image: url('Russia1234.png');
-        }
-
-        .user-message {
             display: flex;
             align-items: center;
-               background-color: white;
-                border: 1px solid black;
-        }
-
-        .virtual-message {
-            display: flex;
-            align-items: center;
-            justify-content: flex-end;
-        }
-
-         .virtual1-message {
-               width: 150px;
-    height: 100px;
-            display: flex;
-            align-items: center;
-            justify-content: flex-end;
-               background-repeat: repeat;
-   background-size: 100% 100%;
-             background-image: url('rus11.jpg');
-              border: 1px solid #9999FF;
-        }
-
-        .input-container {
-            display: flex;
-            padding: 6px;
-            background-color: springgreen;
-        }
-
-        .user-input {
-            flex-grow: 1;
-            border: 1px solid green;
-            border-radius: 20px;
-            padding: 6px;
-            margin-right: 6px;
-        }
-
-        .send-button {
-            border: none;
-            background-color: white;
-            color: black;
-            border: 1px solid #9999FF;
+            padding: 3px;
+            margin: 3px;
             border-radius: 10px;
-            padding: 6px;
-            cursor: pointer;
-
-
+            width: fit-content;
+            max-width: 80%;
         }
-          .send-button:hover {
-  background-color: #9999FF; /* Button color on hover */
-}
-            button:hover {
-  background-color: #9999FF; /* Button color on hover */
-}
 
+        .bot {
+            background-color: springgreen;
+            color: black;
+            align-self: flex-start;
+        }
 
-         /* Basic styling for the container */
-        .avatar-container {
+        .user {
+            background-color: violet;
+            color: black;
+            align-self: flex-end;
+            flex-direction: row-reverse;
+        }
+
+        .message img {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            margin: 0 10px;
+        }
+
+        input {
+            padding: 10px;
+            border: 1px solid #9999FF;
+            border-radius: 4px;
+            width: calc(100% - 70px);
+            box-sizing: border-box;
+        }
+
+        button {
+            width:60px;
+            padding: 10px;
+            background-color: white;
+            border: 1px solid #9999FF;
+            color: black;
+            
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #9999FF;
+            color:white;
+        }
+
+        .user-info {
             display: flex;
             flex-direction: column;
-            align-items: center;
-            padding: 6px;
+            margin-bottom: 10px;
         }
 
-           .container {
-    width: 300px;
-    margin: 100px auto;
-    text-align: center;
-}
+        .user-info input {
+            margin-bottom: 5px;
+        }
 
-input[type="text"] {
-    width: 100%;
-    padding: 10px;
-    margin-bottom: 6px;
-     border-radius: 20px;
-}
 
-button {
-   border: none;
-            background-color: white;
-            color: black;
-             border: 1px solid #9999FF;
-            border-radius: 10px;
-            padding: 6px;
-            cursor: pointer;
-}
+      
 
-.username-display {
 
-    margin-top: 10px;
-    text-align: center;
-    font-size: 40px;
-     border: 1px solid #9999FF;
-}
 
-  .profile-container {
-        text-align: center;
-    }
-    #profile-img {
-        width: 80px;
-        height: 80px;
-        border-radius: 50%;
-        margin-bottom: 10px;
-         border: 1px solid #9999FF;
-    }
+
+      
 
 
 
