@@ -177,70 +177,60 @@ Riva.ouafi.romanov
         </div>
 
 
-         <br>
+     
 
-  <div class="row">
+     
+     
 
-   <div class="image-container"alt="image-container" style="width:80%; height:100%;">
 
-<div class="chat-container">
+     
 
-       <img src="placeholder.jpg" alt="Profile Image" id="profile-img">
-          <div class="virtual1-message">
-                    <div class="text">
-                <img src="riva.jpg" alt="virtual1-message" class="avatar">
-                <p>RussianLink.netlify.app</p>
+    
+
+<br>
+
+
+
+
+
+	  <div class="row"style="width:80%;margin:auto;">
+
+ 
+<br>
+   
+     <div class="chat-container">
+       
+        <div class="chat-box" id="chat-box">
+            <div class="message bot">
+                <img src="bot.jpg" alt="Bot Image">
+             مرحبا / hello
             </div>
-           </div>
-    <div class="chat-box" id="chat-box">
-
-         </div>
-
-
-    <div class="input-container">
-        <input type="text" id="user-input" class="user-input" placeholder="Type your message...">
-
-
-
-
-        <!-- Button to trigger speech -->
+        </div>
+          <button onclick="sendMessage()">Send</button>   <!-- Button to trigger speech -->
         <button onclick="speakText()">Speak</button>
-       <button id="speakText()" class="send-button">Send</button>
-
-    </div>
+        <input type="text" id="user-input" placeholder="اكتب رسالتك هنا..." onkeypress="checkEnter(event)">
+      
+        
+         <div class="user-info">
+            <input type="text" id="user-name" placeholder="ادخل اسمك">
+            <input type="file" id="user-image" accept="image/*">
+            
+         
 
           <!-- Dropdown to select voice -->
         <select id="voice-select">
             <option value="male">Male Voice</option>
             <option value="female">Female Voice</option>
-        </select>
-        <div class="profile-container">
-
-
-    <input type="file" id="image-upload" accept="image/*" style="display: none;">
-
-
-</div>
-           <div class="text">
-
-             <p style="font-size: 20px;">...Login</p>
-                     </div>
-
-                <input type="text" id="usernameInput" placeholder="Enter your username">
-                <button onclick="displayUsername()">Login</button>
-                <button onclick="document.getElementById('image-upload').click()">Choose Image</button>
-
-
-        <div class="username-display" id="usernameDisplay"></div>
-
-
-         </div>
-
-    </div>
-
-</div>
-     </div>
+        </select>      
+           
         </div>
+        
+    </div>
+   
+   
+   
+        
+         </div>   
 
 
 
@@ -350,7 +340,7 @@ http://russianpilot.netlify.app
  <div class="footer" style=" color: white;">
   Riva.russia.2023
 
-         <a href="."><img src="1russia.png" alt="image1" style="position: absolute; bottom: 0%; left: 0px; width:100px;height:150px;z-index:0;">
+         <a href=""><img src="1russia.png" alt="image1" style="position: absolute; bottom: 0%; left: 0px; width:100px;height:150px;z-index:0;">
   </a>
 
      <div class="carousel-container">
@@ -443,11 +433,224 @@ http://russianpilot.netlify.app
 
 
 
+ <script>
+        var responses = {
+
+            "مرحبا": ["أهلاً وسهلاً", "مرحبًا بك", "كيف حالك؟", "مابك ياهذا؟"],
+            
+        
+            "من أنت": ["program-bot 01", "Riva.", "أنا روبوت افتراضي."],
+
+            "كيف حالك": ["أنا بخير، شكرًا لسؤالك", "بخير", "لابأس"],
+
+            "ما اسمك": ["اسمي ballonline.", "Riva.", "ballonline"],
 
 
+            
+    "hello": ["Welcome", "Hello", "How are you?", "What's wrong with you?"],
+      "hi": ["hi", "Hello", "How are you?", "What's wrong with you?"],
+
+"who are you": ["program-bot 01", "Riva", "I'm a virtual bot"],
+
+"how are you": ["I'm fine, thanks for asking", "Fine", "Okay"],
+
+"What's your name": ["My name is ballonline", "Riva", "ballonline"],        
+            
+
+
+    "صباح الخير": ["مرحبا", "صباح الخير!", "نعم ماهو سؤالك"],
+
+            "مساء الخير": ["مساء الخير!", "مرحبا!", "نعم ماهو سؤالك"],
+
+            "كيف الأحوال": ["أنا بخير، شكرًا لسؤالك!", "أشعر أنني في أفضل حالاتي!",  "لابأس"],
+
+            "ماذا تفعل": ["لا شيء", "إذا كان لديك سؤال لتطرحه فسوف نحاول الإجابة عيه" ,"مابك يا هذا ", "ماهو سؤالك",],
+
+
+
+"good morning": ["Hello", "Good morning!", "Yes, what's your question?"],
+
+"good evening": ["Good evening!", "Hello!", "Yes, what's your question?"],
+
+"how are you?": ["I'm fine, thanks for asking!", "I'm feeling great!", "It's okay"],
+
+"what are you doing?": ["Nothing", "If you have a question to ask, we'll try to answer it" ,"What's wrong with you?", "What's your question?", ],
+
+
+
+
+    "ما الجديد": ["بخصوص ماذا", "ابحث في google", "سوف أحاول الإتصال بمحركات البحث"],
+    
+       "ماهو الجديد": ["بخصوص ماذا", "ابحث في google", "سوف أحاول الإتصال بمحركات البحث"],
+
+         "ماالجديد": ["بخصوص ماذا", "ابحث في google", "سوف أحاول الإتصال بمحركات البحث"],
+
+            "كم الساعة": ["2024", "ربما 2024", "تقريبا 2024"],
+            
+                "كم الساعة الأن": ["2024", "ربما 2024", "تقريبا 2024"],
+                
+                 "كم الساعة الآن": ["2024", "ربما 2024", "تقريبا 2024"], 
+                 
+                       "كم الوقت الآن": ["2024", "ربما 2024", "تقريبا 2024"], 
+                       
+                           "ماهو الوقت الآن": ["2024", "ربما 2024", "تقريبا 2024"], 
+
+            "هل أنت إنسان": ["iam program-bot 01", "ربما", "أنا روبوت افتراضي."],
+            
+               "هل أنت انسان": ["iam program-bot 01", "ربما", "أنا روبوت افتراضي."],
+               
+                 "هل انت انسان": ["iam program-bot 01", "ربما", "أنا روبوت افتراضي."],
+                 
+                    "هل انت ربوت": ["iam program-bot 01", "نعم", "أنا روبوت افتراضي."],
+      "هل أنت ربوت": ["iam program-bot 01", "نعم", "أنا روبوت افتراضي."],
+                    
+            "كم هو عمرك": ["ليس لديا جواب في الوقت الحاضر", "ليس لديا جواب",],
+
+
+            
+           "What's new": ["What about", "Search on google", "I'll try to contact the search engines"],
+
+"what's new": ["What about", "Search on google", "I'll try to contact the search engines"],
+
+
+"what time is it": ["2024", "Maybe 2024", "Approximately 2024"],
+
+"what time is it now ": ["2024", "Maybe 2024", "Approximately 2024"],
+
+"are you human": ["iam program-bot 01", "Maybe", "I am a virtual robot."],
+
+
+
+
+
+"are you a robot": ["iam program-bot 01", "Yes", "I am a virtual robot."],
+
+
+
+"how old are you": ["I have no answer at the moment", "I have no answer",], 
+
+
+
+
+    "إلى اللقاء": ["مع السلامة",],
+    
+      "الى اللقاء": ["مع السلامة",],
+      
+         "مع السلامة": ["إلى اللقاء",],
+
+            "تصبح على خير": ["و أنت من أهل الخير",],
+            
+                 "ليلة سعيدة": ["تصبحون على خير",],
+
+            "أراك لاحق": ["إلى اللقاء", "لا مشكلة"],
+            
+                "آراك لاحق": ["إلى اللقاء", "لا مشكلة"],
+                   "اراك لاحق": ["إلى اللقاء", "لا مشكلة"],
+
+         
+
+"see you later": ["see you","Bye bye","ok see you",],
+
+"good night": ["Good night",],
+
+
+
+
+            "افتراضي": ["عذرًا، لم أفهم سؤالك. هل يمكنك التوضيح؟"]
+        };
+
+        var questionCount = {};
+        var repeatedMessage = "توقف عن تكرار الكلام!";
+        var userName = '';
+        var userImage = '';
+
+        function sendMessage() {
+            var userInput = document.getElementById("user-input").value;
+            if (userInput.trim() === "") return;
+
+            // الحصول على اسم المستخدم وصورته
+            if (!userName) {
+                userName = document.getElementById("user-name").value || 'مستخدم';
+            }
+
+            if (!userImage) {
+                var fileInput = document.getElementById("user-image");
+                if (fileInput.files.length > 0) {
+                    var reader = new FileReader();
+                    reader.onload = function(e) {
+                        userImage = e.target.result;
+                        addMessage(userInput, 'user');
+                    };
+                    reader.readAsDataURL(fileInput.files[0]);
+                } else {
+                    userImage = 'you.jpg';  // صورة افتراضية إذا لم يتم رفع صورة
+                    addMessage(userInput, 'user');
+                }
+            } else {
+                addMessage(userInput, 'user');
+            }
+
+            document.getElementById("user-input").value = "";
+
+            setTimeout(function () {
+                var botResponse = getBotResponse(userInput);
+                addMessage(botResponse, 'bot');
+            }, 1000);
+        }
+
+      function addMessage(message, sender) {
+            var chatBox = document.getElementById("chat-box");
+            var messageElement = document.createElement("div");
+            messageElement.className = "message " + sender;
+
+            var img = document.createElement("img");
+            img.src = sender === 'bot' ? 'bot.jpg' : userImage;
+            img.alt = sender === 'bot' ? 'Bot' : userName;
+
+            var textNode = document.createTextNode(sender === 'bot' ? message : userName + ": " + message);
+            messageElement.appendChild(img);
+            messageElement.appendChild(textNode);
+
+            chatBox.appendChild(messageElement);
+            chatBox.scrollTop = chatBox.scrollHeight;
+        }
+
+        function getBotResponse(userInput) {
+            var matches = Object.keys(responses).filter(key => userInput.toLowerCase().includes(key));
+            var responseMessages = [];
+
+            if (matches.length === 0) {
+                matches = ["افتراضي"];
+            }
+
+            matches.forEach(match => {
+                if (!questionCount[match]) {
+                    questionCount[match] = 0;
+                }
+
+                if (questionCount[match] < 4) {
+                    var responseArray = responses[match];
+                    var response = responseArray[questionCount[match] % responseArray.length];
+                    responseMessages.push(response);
+                    questionCount[match]++;
+                }
+            });
+
+            if (responseMessages.length > 0) {
+                return responseMessages.join(" ");
+            } else {
+                return repeatedMessage;
+            }
+        }
+
+        function checkEnter(event) {
+            if (event.key === "Enter") {
+                sendMessage();
+            }
+        }
+    </script>
 </body>
 </html>
-
 
 
 
