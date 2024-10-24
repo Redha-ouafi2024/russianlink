@@ -7137,7 +7137,7 @@
                     questionCount[match] = 0;
                 }
 
-                if (questionCount[match] < 4) {
+                if (questionCount[match] < 8) {
                     var responseArray = responses[match];
                     var response = responseArray[questionCount[match] % responseArray.length];
                     responseMessages.push(response);
