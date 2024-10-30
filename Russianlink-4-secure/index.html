@@ -176,61 +176,53 @@ Riva.ouafi.romanov
       </div>
         </div>
 
+      
 
-     
-
-     
-     
+<br>
 
 
-     
+  <div class="chat-container"style="margin:auto;margin-top:40px;">
 
     
-
-<br>
-
-
-
-
-
-	  <div class="row"style="width:80%;margin:auto;">
-
- 
-<br>
-   
-     <div class="chat-container">
-       
+       <div id="user-info"style="margin:auto;">
+            <input type="text" class="input4" id="user-name" placeholder="أدخل اسمك">
+            <input type="file" class="input4" id="user-image" accept="image/*">
+            <button class="button4" onclick="startChat()">ابدأ الدردشة</button>
+        </div>
+        
+        <div id="chat-section" style="display:yes;">
+    
         <div class="chat-box" id="chat-box">
+        
+        <div class="date-container">
+    <div class="date" id="dateDisplay"></div>
+</div>
+        
             <div class="message bot">
-                <img src="bot.jpg" alt="Bot Image">
-             مرحبا / hello
+                <img src="bot.jpg" alt="Bot Image" width="30" height="30">
+                مرحبا / hello
             </div>
         </div>
-          <button onclick="sendMessage()">Send</button>   <!-- Button to trigger speech -->
-        <button onclick="speakText()">Speak</button>
-        <input type="text" id="user-input" placeholder="اكتب رسالتك هنا..." onkeypress="checkEnter(event)">
-      
-        
-         <div class="user-info">
-            <input type="text" id="user-name" placeholder="ادخل اسمك">
-            <input type="file" id="user-image" accept="image/*">
-            
-         
+        <input type="text" class="input4" id="user-input" placeholder="اكتب رسالتك هنا..." onkeypress="checkEnter(event)">
+        <button class="button4" onclick="sendMessage()">Send</button> <!-- Button to trigger speech -->
+        <button class="button4" onclick="speakText()">Speak</button>
 
-          <!-- Dropdown to select voice -->
-        <select id="voice-select">
-            <option value="male">Male Voice</option>
-            <option value="female">Female Voice</option>
-        </select>      
-           
-        </div>
+
+          
+            <select id="voice-select">
+                <option value="male">Male Voice</option>
+                <option value="female">Female Voice</option>
+            </select>
         
     </div>
-   
-   
-   
-        
-         </div>   
+    
+     </div>
+
+
+
+	 
+
+ 
 
 
 
