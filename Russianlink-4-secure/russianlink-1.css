@@ -379,6 +379,38 @@ a:hover {
 
       
 
+ 
+         /* تنسيق الوقت */
+        .time-container {
+            background-color: transparent;
+            padding: 3px ;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            color: #333333;
+            font-size: 2em;
+        }
+      
+
+       
+
+
+   .date-container {
+            text-align: center;
+            padding: 3px;
+            border-radius: 8px;
+            background-color: transparent;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .date {
+            font-size: 14px;
+            color: black;
+        }
+
+
+
+      
 
 
 
