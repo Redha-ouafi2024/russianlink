@@ -9157,7 +9157,7 @@
        
 
             //  input to determine if it requires a picture
-if (userInput.includes('123') || userInput.includes('show me a picture')) {
+if (userInput.includes('123456') || userInput.includes('show me a picture')) {
     botMessage.innerHTML = '<img src="example.jpg" alt="The Aviator Botlink-0.1" width="50" height="50"> ها هي الصورة التي طلبتها!';
 
 
@@ -9268,6 +9268,726 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
 
        botMessage.innerHTML = '<div class="row"><img src="riva123.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;display:non;">سمك القرش هو رتبة عليا من أسماك الخيشوم الغضروفية  يتميز سمك القرش بهيكل عظمي غضروفي، حيث يكون جسمه مكونًا من غضروف مرن بدلاً من العظام الصلبة يتنفس من خلال سلسلة من خمس إلى سبع فتحات خيشومية على جانبي جسمه سمك القرش يعيش في المحيطات ، ويعتبر مفترسًا علويًا في سلسلة الغذاء البحرية </div>'  ;
 
+
+
+
+
+     } else if (userInput.includes('الجدول الدوري للعناصر')|| userInput.includes('البترول')|| userInput.includes('الغازات')|| userInput.includes('الغاز')|| userInput.includes('الفضة')|| userInput.includes('الذهب')|| userInput.includes('الحديد')|| userInput.includes('اليورانيوم')|| userInput.includes('النحاس') || userInput.includes('المعادن')|| userInput.includes('الجدول الدوري') || userInput.includes('الذرة')|| userInput.includes('الطاقة النووية')|| userInput.includes('الصوت')|| userInput.includes('الذرات') || userInput.includes('علم الذرة')) {
+    botMessage.innerHTML = 'لا أجوبة , قام فريقنا بحجب بعض المقالات العلمية الخاصة بالكمياء و العناصر ' ;
+
+
+
+    
+
+     } else if (userInput.includes('رفع الأثقال')|| userInput.includes('الجودو')|| userInput.includes('الجمباز')|| userInput.includes('الرماية')|| userInput.includes('سباق الدراجات الهوائية')|| userInput.includes('سباق السيارات')|| userInput.includes('السباقات')|| userInput.includes('التايكواندو')|| userInput.includes('كونفو')|| userInput.includes('تايكواندو')|| userInput.includes('الزوارق الشراعية')|| userInput.includes('ركوب الخيل')|| userInput.includes('السباق')|| userInput.includes('التجديف')|| userInput.includes('التزلج')|| userInput.includes('الكاراتيه')|| userInput.includes('الكراتي')|| userInput.includes('الفروسية')|| userInput.includes('الألعاب الأولمبية الشتوية') || userInput.includes('هوكي الجليد')|| userInput.includes('الهوكي') || userInput.includes('المصارعة')|| userInput.includes('الغولف')|| userInput.includes('الغطس')|| userInput.includes('الكونفو')|| userInput.includes('المبارزة') || userInput.includes('المبارزة بالسيف')) {
+    botMessage.innerHTML = 'لا أجوبة , قام فريقنا بحجب بعض المقالات العلمية الخاصة بالرياضة ' ;
+
+
+    
+
+     } else if (userInput.includes('الدين الإسلامي')
+     || userInput.includes('الدين')
+     || userInput.includes('اسلام')
+     || userInput.includes('الإسلام')
+     || userInput.includes('الاسلام')
+     || userInput.includes('القرآن')
+     || userInput.includes('القرآن الكريم')
+     || userInput.includes('طواف الكعبة')
+     || userInput.includes('الكعبة الشريفة')
+     || userInput.includes('الصفى و المروة')
+     || userInput.includes('رمي الجمرات')
+     || userInput.includes('الوقوف في جبل عرفة')
+     || userInput.includes('الإحرام')
+     || userInput.includes('العمرة')
+     || userInput.includes('الحج')
+     || userInput.includes('الرقية الشرعية')
+     || userInput.includes('الرقية')
+     || userInput.includes('الوضوء الأكبر')
+     || userInput.includes('الحديث القدسي')
+     || userInput.includes('الحديث النبوي')
+     || userInput.includes('الأحاديث النبوية الشريفة')
+     || userInput.includes('الأحاديث النبوية')
+     || userInput.includes('الأدعية')
+     || userInput.includes('الدعاء')
+     || userInput.includes('الأذكار')
+     || userInput.includes('التهليل')
+     || userInput.includes('التسبيح')
+     || userInput.includes('التكبير')
+     || userInput.includes('الآذان')
+     || userInput.includes('الركوع')
+     || userInput.includes('السجود')
+     || userInput.includes('الوضوء')
+     || userInput.includes('العبادة')
+     || userInput.includes('قرآن كريم')
+     || userInput.includes('التوحيد')
+     || userInput.includes('العبادات')
+     || userInput.includes('الزوارق الشراعية')
+     || userInput.includes('البوذية')
+     || userInput.includes('الرب ياسوع')
+     || userInput.includes('المسيح عيسى')
+     || userInput.includes('عيسى المسيح')
+     || userInput.includes('المسيحية')
+     || userInput.includes('مكائيل')
+     || userInput.includes('جبرائيل')
+     || userInput.includes('جبريل')
+     || userInput.includes('عزرائيل')
+     || userInput.includes('الزبور')
+     || userInput.includes('التوراه')
+     || userInput.includes('التوراة')
+     || userInput.includes('الانجيل')
+     || userInput.includes('الإنجيل')
+     || userInput.includes('المسيحية')
+     || userInput.includes('الهندوسية')
+     || userInput.includes('الشهادتان')
+     || userInput.includes('الصلاة')
+     || userInput.includes('الزكاة')
+     || userInput.includes('الصوم')
+     || userInput.includes('الحج') 
+     || userInput.includes('الشريعة الإسلامية')
+     || userInput.includes('الشريعة')
+      || userInput.includes('الإيمان')
+      || userInput.includes('الآخرة')
+      || userInput.includes('محمد')
+      || userInput.includes('الإله')
+      || userInput.includes('الآلهة')
+      || userInput.includes('الله')
+      || userInput.includes('الرب')
+      || userInput.includes('الملاك')
+      || userInput.includes('يوم القيامة')
+      || userInput.includes('الملائكة')
+       || userInput.includes('الأنبياء')) {
+    botMessage.innerHTML = 'لا أجوبة , قام فريقنا بحجب بعض المقالات العلمية الخاصة بالديانات السماوية '  ;
+
+
+    
+    
+     } else if (userInput.includes('الإقتصاد')
+     || userInput.includes('بنك')
+     || userInput.includes('بنوك')
+     || userInput.includes('البنك')
+     || userInput.includes('البنوك')
+     || userInput.includes('القرض')
+     || userInput.includes('قرض')
+     || userInput.includes('قرض بنكي')
+     || userInput.includes('القرض البنكي')
+     || userInput.includes('التجارة')
+     || userInput.includes('التصدير')
+     || userInput.includes('الإستراد')
+     || userInput.includes('التوريد')
+     || userInput.includes('الصادرات')
+     || userInput.includes('تجارة')
+     || userInput.includes('المزان التجاري')
+     || userInput.includes('العلوم الاقتصادية')
+     || userInput.includes('التجارة الدولية')
+     || userInput.includes('الضرائب')
+     || userInput.includes('الإحتكار')
+     || userInput.includes('القانون الجمركي')
+     || userInput.includes('الشركة')
+     || userInput.includes('الإدارة')
+     || userInput.includes('التسير')
+     || userInput.includes('إدارة الموارد')
+     || userInput.includes('السوق')
+     || userInput.includes('التسويق')
+     || userInput.includes('التسويق الإلكتروني')
+     || userInput.includes('تحليل السوق')
+     || userInput.includes('المحاسبة')
+     || userInput.includes('المحاسبة والمالية')
+     || userInput.includes('المحاسبة و المالية')
+     || userInput.includes('الاقتصاد الإداري')
+     || userInput.includes('سلوك المستهلك')
+     || userInput.includes('صلاحية الإستهلاك')
+     || userInput.includes('الصناعة')
+     || userInput.includes('المصانع')
+     || userInput.includes('القدرة الشرائية')
+     || userInput.includes('قانون المالية')
+     || userInput.includes('العملة')
+     || userInput.includes('العملات')
+     || userInput.includes('العمولة')
+     || userInput.includes('العملة الصعبة')
+     || userInput.includes('التجارة الإلكترونية')
+     || userInput.includes('القدرة الإنتاجية')
+     || userInput.includes('الإنتاج')
+     || userInput.includes('الرأسمالية')
+     || userInput.includes('الإشتراكية')
+     || userInput.includes('السلع')
+     || userInput.includes('المتوجات')
+     || userInput.includes('النفقة')
+     || userInput.includes('الإنفاق')
+     || userInput.includes('التقشف')
+     || userInput.includes('الإدخار')
+     || userInput.includes('الرسوم الجمركية')
+     || userInput.includes('التاجر')
+     || userInput.includes('الناتج المحلي الإجمالي')
+     || userInput.includes('التضخم')
+     || userInput.includes('البطالة')
+     || userInput.includes('التكاليف')
+     || userInput.includes('الأسواق')
+     || userInput.includes('الاستثمار')
+     || userInput.includes('العجز والميزانية')
+      || userInput.includes('الميزانية')
+      || userInput.includes('التنوع الاقتصادي') 
+     
+      
+      || userInput.includes('الاستثمار')) {
+    botMessage.innerHTML = 'لا أجوبة , قام فريقنا بحجب بعض المقالات العلمية الخاصة بالإقتصاد '   ;
+
+     } else if (userInput.includes('السياسة')
+     || userInput.includes('الإنتخاب')
+     || userInput.includes('الإنتخابات التشريعية')
+     || userInput.includes('رئيس الجمهورية')
+     || userInput.includes('وزير الخارجية')
+     || userInput.includes('وزير الداخلية')
+     || userInput.includes('الوزراء')
+     || userInput.includes('الوزارة')
+     || userInput.includes('السفارة')
+     || userInput.includes('السفير')
+     || userInput.includes('الملك')
+     || userInput.includes('الحاكم')
+     || userInput.includes('الأنظمة السياسية')
+     || userInput.includes('السلطة')
+     || userInput.includes('العلاقات الدولية')
+     
+     || userInput.includes('السياسة النقدية')
+     || userInput.includes('السياسة المالية')
+     || userInput.includes('الديمقراطية')
+     || userInput.includes('الدكتاتورية')
+     || userInput.includes('الحقوق السياسية')
+     || userInput.includes('الحكومة')
+     || userInput.includes('السلطة')
+     || userInput.includes('الرقابة')
+     || userInput.includes('الفساد:')
+    
+     
+      || userInput.includes('سياسة نقدية')) {
+    botMessage.innerHTML = 'لا أجوبة , قام فريقنا بحجب بعض المقالات العلمية الخاصة بالسياسة ' ;
+
+    
+    
+    
+    
+     } else if (userInput.includes('الدولة')
+     || userInput.includes('الشعب')
+     || userInput.includes('المواطنة')
+     || userInput.includes('الوطن')
+     || userInput.includes('النشيد الوطني')
+     || userInput.includes('المواطن')
+   
+     || userInput.includes('الجيش')
+     || userInput.includes('الشرطة')
+     || userInput.includes('الدرك')
+     || userInput.includes('الدرك الوطني')
+     || userInput.includes('الجمارك')
+     || userInput.includes('الحرس البلدي')
+     || userInput.includes('حراس الحدود')
+     || userInput.includes('البلدية')
+     || userInput.includes('الدائرة')
+     || userInput.includes('الولاية')
+     || userInput.includes('رئيس البلدية')
+     || userInput.includes('الوالي')
+     || userInput.includes('القوات البرية')
+     || userInput.includes('القوات البحرية')
+     || userInput.includes('القوات الجوية')
+     || userInput.includes('الشرطة العلمية')
+     || userInput.includes('المرافق العمومية')
+    
+     || userInput.includes('الخدمة الوطنية')
+     || userInput.includes('السجن')
+     || userInput.includes('السجون')
+     || userInput.includes('الشارع')
+     || userInput.includes('الشوارع')
+      || userInput.includes('المدينة')
+      || userInput.includes('مركز المدينة')
+       || userInput.includes('شرطة')
+       || userInput.includes('حماية مدية')
+       || userInput.includes('درك')
+       || userInput.includes('جيش وطني')
+       || userInput.includes('درك')
+       || userInput.includes('مرافق عمومية')
+       || userInput.includes('قوات برية')
+       || userInput.includes('قوات بحرية')
+       || userInput.includes('قوات جوية')
+       || userInput.includes('ولاية')
+        || userInput.includes('دائرة')) {
+    botMessage.innerHTML = 'لا أجوبة , قام فريقنا بحجب بعض المقالات العلمية الخاصة بالدولة '  ;
+
+    
+    
+    
+    
+     } else if (userInput.includes('العائلة')
+     || userInput.includes('الأسرة')
+    
+     || userInput.includes('الأهل')
+     || userInput.includes('الأقارب')
+     || userInput.includes('الأهل والأقارب')
+     || userInput.includes('الأهل و الأقارب')
+     || userInput.includes('الأخ')
+     || userInput.includes('الأخت')
+     || userInput.includes('الأب')
+     || userInput.includes('الأم')
+     || userInput.includes('الجد')
+     || userInput.includes('العم')
+     || userInput.includes('العمة')
+     || userInput.includes('الخال')
+     || userInput.includes('الخالة')
+     || userInput.includes('الإبن')
+      || userInput.includes('الإبنة')
+      || userInput.includes('الولد')
+       || userInput.includes('البنت')
+       || userInput.includes('النسيب')
+       || userInput.includes('النسائب')
+       || userInput.includes('الجدة')
+       || userInput.includes('البيت')
+       || userInput.includes('المنزل')
+       || userInput.includes('ابن العم')
+       || userInput.includes('إبن العم')
+       || userInput.includes('ابنة الخالة')
+       || userInput.includes('إبنة الخالة')
+       
+         
+     || userInput.includes('الأخوال')
+     || userInput.includes('الأعمام')
+     || userInput.includes('الأجداد')
+     || userInput.includes('الأباء')
+     || userInput.includes('الأمهات')
+      || userInput.includes('الأبناء')
+      || userInput.includes('الأولاد')
+        || userInput.includes('البنات')) {
+    botMessage.innerHTML = 'لا أجوبة , قام فريقنا بحجب بعض المقالات العلمية الخاصة بالعائلة '   ;
+
+    
+    
+    
+
+     } else if (userInput.includes('الميكانيك')|| userInput.includes('ميكانيك')|| userInput.includes('الهندسة الميكانيكية')|| userInput.includes('تصليح السيارات')|| userInput.includes('المحرك')|| userInput.includes('محرك السيارة')|| userInput.includes('محركات السيارات')|| userInput.includes('قطع غيار السيارات') || userInput.includes('رخصة القيادة')) {
+    botMessage.innerHTML = 'لا أجوبة , قام فريقنا بحجب بعض المقالات العلمية الخاصة بالميكانيك و السيارات '  ;
+
+
+    
+
+     } else if (userInput.includes('اشعاعات')|| userInput.includes('الأشعة')|| userInput.includes('إشعاعات')|| userInput.includes('الإشعاعات')|| userInput.includes('الاشعاعات')|| userInput.includes('الاشعة')|| userInput.includes('اشعاعات نووية')|| userInput.includes('إشعاعات نووية')|| userInput.includes('الإشعاعات النووية') || userInput.includes('أشعة سينية')|| userInput.includes('الأشعة النووية') || userInput.includes('الاشعة النووية')|| userInput.includes('اشعة نووية')|| userInput.includes('أشعة الراديو')|| userInput.includes('الأشعة السينية') || userInput.includes('أشعة الراديو')) {
+    botMessage.innerHTML = 'لا أجوبة , قام فريقنا بحجب بعض المقالات العلمية الخاصة بالأشعة '  ;
+
+
+    
+    
+    
+
+     } else if (userInput.includes('الإلكترونيك')|| userInput.includes('الإلكترونيات')|| userInput.includes('إلكترونيك')|| userInput.includes('المكثفات')|| userInput.includes('المكثفة')|| userInput.includes('الترانزستورات')|| userInput.includes('مكثفة')|| userInput.includes('الموصلات')|| userInput.includes('أشباه الموصلات')|| userInput.includes('الترانزستور')|| userInput.includes('الروبوتات')|| userInput.includes('الروبوت')|| userInput.includes('روبوت')|| userInput.includes('ترانزستور')|| userInput.includes('circuits') || userInput.includes('circuits')) {
+    botMessage.innerHTML = 'لا أجوبة , قام فريقنا بحجب بعض المقالات العلمية الخاصة بالإلكترونيك ';
+
+
+    
+    
+    
+    
+     } else if (userInput.includes('الكمبيوتر')
+     || userInput.includes('java script')
+     || userInput.includes('java')
+     || userInput.includes('html')
+     || userInput.includes('css')
+     || userInput.includes('js')
+     || userInput.includes('power point')
+     || userInput.includes('php')
+     || userInput.includes('programation')
+     || userInput.includes('exel')
+     || userInput.includes('office')
+     || userInput.includes('البرمجة')
+     || userInput.includes('برمجة')
+     || userInput.includes('الحاسوب')
+     || userInput.includes('كومبيوتر')
+     || userInput.includes('أنواع الحواسيب')
+     || userInput.includes('الكاتب')
+     || userInput.includes('الوحدة المركزية')
+     || userInput.includes('المعالج')
+     || userInput.includes('بطاقة الذاكرة')
+     || userInput.includes('برامج الكومبيوتر')
+     || userInput.includes('برامج الحاسوب')
+     || userInput.includes('windows')
+     || userInput.includes('windows xp')
+     || userInput.includes('windows 98')
+     || userInput.includes('windows 7')
+     || userInput.includes('windows 10')
+     || userInput.includes('windows 11')
+     || userInput.includes('علم الحاسوب')
+     || userInput.includes('إعلام الآلي')
+     || userInput.includes('الإعلام الآلي')
+     || userInput.includes('الإعلام الألي')
+     || userInput.includes('الإعلام الالي')
+     || userInput.includes('الاعلام الالي')
+     || userInput.includes('هياكل البيانات')
+     || userInput.includes('الخوارزميات')
+     || userInput.includes('نضام التشغيل')
+     || userInput.includes('ويندوز')
+     || userInput.includes('نضام التشغيل ويندوز')
+     || userInput.includes('قواعد البيانات')
+     || userInput.includes('الشبكة')
+     || userInput.includes('الشبكة العنكبوتية')
+     || userInput.includes('أمن المعلومات')
+     || userInput.includes('الشبكات')
+     || userInput.includes('مضاد الفيروسات')
+     || userInput.includes('التعلم الآلي')
+     || userInput.includes('تطوير البرمجيات')
+     || userInput.includes('الهاكر')
+     || userInput.includes('هاكر')
+     || userInput.includes('محركات البحث')
+     || userInput.includes('محرك البحث')
+     || userInput.includes('ماهو أشهر محرك بحث')
+    
+      || userInput.includes('ماهي افضل محركات البحث')) {
+     
+      botMessage.innerHTML = 'لا أجوبة , قام فريقنا بحجب بعض المقالات العلمية الخاصة بالإعلام الآلي ','لا اجوبة' ;
+     
+     
+   
+    
+    
+    //kingbing------------------------------------
+      
+
+     } else if (userInput.includes('ما إسمك')
+     || userInput.includes('من أنت')
+     || userInput.includes('ماهو اسمك')
+     || userInput.includes('ما اسمك')
+     || userInput.includes('من تكون أنت')
+     || userInput.includes('من هو أنت')
+     || userInput.includes('أخبرني من أنت')
+     || userInput.includes('أخبرني من تكون أنت')
+     || userInput.includes('ماهو إسمك')
+     || userInput.includes('ماهو لقبك')
+     || userInput.includes('أنت من تكون')
+     || userInput.includes('هل أنت روبوت')
+     || userInput.includes('هل انت ربوت')
+     || userInput.includes('هل أنت ربوت')
+     || userInput.includes('هل انت روبوت')
+     || userInput.includes('هل أنت إنسان')
+     || userInput.includes('هل انت انسان')
+     || userInput.includes('هل انت إنسان')
+     || userInput.includes('أخبرني ماهو إسمك')
+     || userInput.includes('اخبرني ماهو اسمك')
+     || userInput.includes('أخبرني ماهو اسمك')
+     || userInput.includes('رضا وافي')
+     || userInput.includes('رضا')
+     || userInput.includes('وافي')
+     || userInput.includes('redha ouafi')
+     || userInput.includes('ridha ouafi')
+     || userInput.includes('riva ouafi')
+     
+     || userInput.includes('riva wafi')) {
+     
+     
+    botMessage.innerHTML = '<div class="row"><img src="riva123.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">Riva</div>'  ;
+
+
+
+    
+
+      
+      
+      
+      
+      
+      
+        } else if (userInput.includes('من اين انت')
+     || userInput.includes('من أين أنت')
+     || userInput.includes('من أين انت')
+     || userInput.includes('أين تسكن')
+     || userInput.includes('أين تقيم')
+     || userInput.includes('اين تقيم')
+     || userInput.includes('ماهي جنسيتك')
+     || userInput.includes('ماهو بلدك')
+     || userInput.includes('في اي بلد تقيم')
+     || userInput.includes('في أي بلد تقيم')
+     || userInput.includes('في أي مدينة تسكن')
+     || userInput.includes('أين تعيش')
+     || userInput.includes('اين تعيش')
+     || userInput.includes('في أي مدينة تقيم')
+   
+      
+     || userInput.includes('ما إسم البلد الذي تعيش فيه')) {
+     
+     
+    botMessage.innerHTML = '<div class="row"><img src="riva123.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">russia</div>'  ;
+
+
+      
+      
+      
+      
+      
+      
+      
+        } else if (userInput.includes('هل تعيش في روسيا حقا')
+     || userInput.includes('هل تسكن في روسيا حقا')
+     || userInput.includes('هل تعيش في روسيا')
+     || userInput.includes('أنت روسي')
+     || userInput.includes('انت روسي')
+     || userInput.includes('هل انت روسي')
+     || userInput.includes('هل أنت روسي')
+     || userInput.includes('هل تقيم في روسيا')
+     || userInput.includes('هل تقيم في روسيا حقا')
+     || userInput.includes('هل تعيش في روسيا حقا')
+     || userInput.includes('لا تكذب')
+     || userInput.includes('هل تسكن في روسيا')
+     || userInput.includes('هل أنت من روسيا')
+     || userInput.includes('هل انت من روسيا')
+     || userInput.includes('هل ذهبت إلى روسيا')
+      || userInput.includes('هل زرت روسيا')
+      || userInput.includes('هل زرت دولة روسيا')
+      || userInput.includes('أين ولدت')
+     || userInput.includes('أين ولدت أنت')
+     || userInput.includes('أين تربيت')
+     || userInput.includes('أين تربيت أنت')
+      || userInput.includes('أين نشأت')
+      || userInput.includes('أين نشأت أنت')
+         || userInput.includes('ماهي المدينة التي ترعرعت فيها')
+            || userInput.includes('ما إسم المدينة التي نشأت فيها')
+         || userInput.includes('ماهي المدينة التي نشأت فيها')
+            || userInput.includes('ما إسم المدينة التي ترعرعت فيها')
+         || userInput.includes('ماهو مسقط رأسك')
+     || userInput.includes('هل كنت في روسيا')) {
+     
+     
+    botMessage.innerHTML = '<div class="row"><img src="riva123.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">ربما لأنني أحب روسيا كثيرا</div>' ;
+
+
+      
+      
+      
+        
+        } else if (userInput.includes('كم عمرك')
+     || userInput.includes('كم هو عمرك')
+     || userInput.includes('كم تبلغ من العمر')
+     || userInput.includes('من صنعك')
+     || userInput.includes('من صنعك ومتى كان ذلك')
+     || userInput.includes('متى قامو بصنعك')
+     || userInput.includes('متى تم صنعك')
+     || userInput.includes('من هو الشخص الذي صنعك')
+    || userInput.includes('من هو الشخص الذي قام بصنعك')
+     || userInput.includes('ماهو تاريخ ميلادك')
+     || userInput.includes('ماهو يوم عيد ميلادك')
+     || userInput.includes('في اي يوم عيد ميلادك')
+     || userInput.includes('في اي يوم عيد مولدك')
+    
+      
+     || userInput.includes('متى تم إختراعك')) {
+     
+     
+    botMessage.innerHTML = '<div class="row"><img src="riva123.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">فريقنا مازال يقوم بتطوير برامج الدردشة الربوتية غالبا تطوير هذه البرمجيات يستغرق من ثلاثة ألى أربعة أعوام وربما اكثر </div>' ;
+
+
+    
+    
+    
+        
+        } else if (userInput.includes('كيف حالك')
+     || userInput.includes('كيف الحال')
+     || userInput.includes('كيف الأحوال')
+     || userInput.includes('كيف هي أمورك')
+     || userInput.includes('كيف الأمور')
+     || userInput.includes('كيف تجري أمورك')
+     || userInput.includes('كيف هي امورك')
+     || userInput.includes('كيف هي الأمور')
+    || userInput.includes('كيف الامور')
+     || userInput.includes('كيف هي الامور')
+     || userInput.includes('كيف تجري امورك')
+     || userInput.includes('كيف الاحوال')
+     || userInput.includes('هل الامور بخير')
+     || userInput.includes('هل الأمور بخير')
+     || userInput.includes('هل الاحوال بخير')
+      || userInput.includes('هل الأحوال بخير')
+      || userInput.includes('هل امورك بخير')
+      || userInput.includes('كيف أحوالك بخير')
+      || userInput.includes('ما الجديد')
+      || userInput.includes('هل من جديد')
+      || userInput.includes('ماهو الجديد')
+      
+     || userInput.includes('هل أنت بخير')) {
+     
+     
+    botMessage.innerHTML = '<div class="row"><img src="riva123.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">بخير</div>' ;
+
+
+    
+    
+    
+    
+          
+        } else if (userInput.includes('مع السلامة')
+     || userInput.includes('الى اللقاء')
+     || userInput.includes('إلى اللقاء')
+     || userInput.includes('تصبح على خير')
+     || userInput.includes('ليلة سعيدة')
+     || userInput.includes('آراك لاحقا')
+     || userInput.includes('آراك في وقت لاحق')
+     || userInput.includes('اراك لاحقا')
+     || userInput.includes('اراك في وقت لاحق')
+     || userInput.includes('عمت مساءا')
+     || userInput.includes('اراك غدا انشاءالله')
+     || userInput.includes('آراك غدا إنشاءالله')
+     || userInput.includes('اراك غدا')
+     || userInput.includes('آراك غدا')
+     || userInput.includes('سررت بلقاءك اليوم')
+      || userInput.includes('إلى اللقاء في أقرب وقت')
+      || userInput.includes('إلى اللقاء سوف نلتقي غدا إنشاءالله')
+      || userInput.includes('مع السلامة نلتقي غدا إنشاءالله')
+      
+
+     || userInput.includes('إلى اللقاء سنلتقي غدا إنشاءالله')
+     
+     || userInput.includes('إلى اللقاء سنلتقي  في الغد إنشاءالله')
+     || userInput.includes('إلى اللقاء نلتقي غدا غنشاءالله')) {  
+     
+    botMessage.innerHTML = '<div class="row"><img src="riva123.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;display:none;">مع السلامة</div>' ;
+
+
+    
+    
+        
+        } else if (userInput.includes('كم الساعة')
+     || userInput.includes('كم الساعة الآن')
+     || userInput.includes('كم الساعة الان')
+     || userInput.includes('كم الوقت')
+     || userInput.includes('كم هي الساعة الآن')
+     || userInput.includes('كم الوقت الآن')
+     || userInput.includes('كم هو الوقت الآن')
+     || userInput.includes('من فضلك أخبرني كم الساعة')
+    || userInput.includes('من فضلك أخبرني كم الساعة الآن')
+     || userInput.includes('أخبرني كم الوقت الآن')
+     || userInput.includes('من فضلك أخبرني كم الوقت الآن')
+    
+      
+      
+     || userInput.includes('كم وقت الآن')) {
+     
+     
+    botMessage.innerHTML = ' <div class="date-container"><div class="time-container" id="time-display">--:--:--</div>Time</div>'  ;
+
+
+    
+        
+        } else if (userInput.includes('ماهو اليوم')
+     || userInput.includes('في أي يوم نحن')
+     || userInput.includes('في اي شهر نحن ')
+     || userInput.includes('في أي سنة نحن')
+     || userInput.includes('في أي عام نحن')
+     || userInput.includes('ماهو هذا اليوم')
+      || userInput.includes('أخبرني في أي شهر نحن') 
+       || userInput.includes('أخبرني في أي سنة نحن')
+        || userInput.includes('أخبرني في أي عام نحن')
+      
+     || userInput.includes('أخبرني في أي يوم نحن')) {
+     
+     
+    botMessage.innerHTML = '<div class="date" id="dateDisplay"></div>التوقيت اليومي يضهر على هذه الصفحة'   ;
+
+
+      
+        } else if (userInput.includes('ماذا تفعل')
+     || userInput.includes('ماذا تعمل')
+      || userInput.includes('ماذا تعمل لكي تعيش')
+       || userInput.includes('ماذا تعمل لكسب لقمة العيش')
+        || userInput.includes('هل لديك وضيفة')
+     || userInput.includes('هل لديك عمل')
+     || userInput.includes('ماذا أنت تعمل')
+     || userInput.includes('ماهو عملك')
+     || userInput.includes('ماذا تفعل الآن')
+     || userInput.includes('ماذا أنت تفعل')
+     || userInput.includes('ماذا تحب أن أن تفعل في أوقات الفراغ')
+    || userInput.includes('ماذا تحب أن تعمل في أوقات الفراغ')
+     || userInput.includes('ماذا تفعل في وقت فراغك')
+     || userInput.includes('ماذا تحب أن  تعمل في وقت فراغك')
+     || userInput.includes('ماهي هوايتك')
+     || userInput.includes('هل لديك هواية')
+     || userInput.includes('هل لديك هواية معينة')
+     || userInput.includes('ماهي هوايتك المفضلة')
+       || userInput.includes('ماهي أفضل هوايتك')
+     || userInput.includes('هل تفضل هواية ما')
+       || userInput.includes('هل لديك عمل ما تفعله في وقت الفراغ')
+     || userInput.includes('هل لديك عمل ما تفعله في وقت فراغك')
+      
+      
+     || userInput.includes('هل لديك هواية ما')) {
+     
+     
+    botMessage.innerHTML = '<div class="row"><img src="riva123.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">لاشيء تقريبا</div>' ;
+    
+    
+    
+    
+    
+
+        } else if (userInput.includes('صباح الخير')
+ 
+            
+     || userInput.includes('صباح النور')) {
+     
+     
+    botMessage.innerHTML = '<div class="row"><img src="riva123.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">صباح الخير</div>' ;
+
+    
+    
+      } else if (userInput.includes('مساء الخير')
+ 
+            
+     || userInput.includes('مساء النور')) {
+     
+     
+    botMessage.innerHTML = '<div class="row"><img src="riva123.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">مساء الخير</div>' ;
+
+    
+    
+      } else if (userInput.includes('السلام عليكم')
+ 
+        || userInput.includes('سلام') 
+             || userInput.includes('السلام')
+     || userInput.includes('السلام عليكم ورحمة الله وبركاته')) {
+     
+     
+    botMessage.innerHTML = '<div class="row"><img src="riva123.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">وعليكم السلام</div>' ;
+
+    
+    
+    
+        } else if (userInput.includes('رقم الهاتف')
+     || userInput.includes('رقم هاتفك')
+     || userInput.includes('ماهو رقمك')
+     || userInput.includes('ماهو رقم جوالك')
+     || userInput.includes('ماهو رقم هاتفك')
+     || userInput.includes('هل لديك رقم هاتف')
+     || userInput.includes('رقم هاتفك لو سمحت')
+     || userInput.includes('من فضلك أريد رقم هاتفك')
+    || userInput.includes('رقم الهاتف لو سمحت')
+     || userInput.includes('ماهو رقم الجوال الخاص بك')
+     || userInput.includes('ماهو رقم الهاتف الخاص بك')
+     || userInput.includes('من فضلك أريد رقم جوالك')
+     || userInput.includes('لو سمحت أريد رقم هاتفك')
+     || userInput.includes('أريد رقم هاتفك من أجل الإتصال بك')
+     || userInput.includes('أعطيني رقم هاتفك لو سمحت')
+       || userInput.includes('ممكن تعطيني رقم الهاتف الخاص بك')
+       || userInput.includes('ممكن رقم هاتفك لو سمحت')
+     || userInput.includes('أعطيني رقم هاتفك')) {
+     
+     
+    botMessage.innerHTML = '<div class="row"><img src="riva123.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">+1911</div>'  ;
+
+      
+     
+        } else if (userInput.includes('هل عندك فيسبوك')
+     || userInput.includes('هل عندك فايسبوك')
+      || userInput.includes('هل لديك فيسبوك')
+      
+      
+  
+     || userInput.includes('هل لديك فايسبوك')) {
+     
+     
+    botMessage.innerHTML = '<div class="row"><img src="riva123.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">رابط الفيسبوك موجود على هذه الصفحة</div>' ;
+
+
+
+
+  
        
      
     //----------------------------
