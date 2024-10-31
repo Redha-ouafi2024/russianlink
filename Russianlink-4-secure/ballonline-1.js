@@ -11010,8 +11010,7 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
        
        
        
-
-    
+     
        
            
           } else if (userInput.includes('مجرة قزم الأسد')
@@ -11027,7 +11026,7 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
     
        || userInput.includes('مجرة قزم قوس')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="sagittaruis.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">مجرة القزم القوس: تقع على بعد حوالي 70,000 سنة ضوئية، وهي في عملية اندماج مع درب التبانة، مكونة تدفق نجمي طويل نتيجة لهذا الاندماج </div>'  ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/sagittaruis.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">مجرة القزم القوس: تقع على بعد حوالي 70,000 سنة ضوئية، وهي في عملية اندماج مع درب التبانة، مكونة تدفق نجمي طويل نتيجة لهذا الاندماج </div>'  ;
  
        
        
@@ -11055,7 +11054,7 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
     
        || userInput.includes('ماهو قمر الأرض')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="earth1.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">قمر الأرض حجم  قطره حوالي 3,474 كيلومتر (2,159 ميل  يتكون من الصخور والمعادن، ويوجد على سطحه العديد من الفوهات الناتجة عن الاصطدامات النيزكية  يبعد حوالي 384,400 كيلومتر (238,855 ميل) عن الأرض قوة الجاذبية على سطح القمر حوالي 1/6 من جاذبية الأرض القمر هو الجسم السماوي الوحيد الذي يدور حول  الكوكب  بشكل دائم </div>'  ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/earth1.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">قمر الأرض حجم  قطره حوالي 3,474 كيلومتر (2,159 ميل  يتكون من الصخور والمعادن، ويوجد على سطحه العديد من الفوهات الناتجة عن الاصطدامات النيزكية  يبعد حوالي 384,400 كيلومتر (238,855 ميل) عن الأرض قوة الجاذبية على سطح القمر حوالي 1/6 من جاذبية الأرض القمر هو الجسم السماوي الوحيد الذي يدور حول  الكوكب  بشكل دائم </div>'  ;
  
        
        
@@ -11076,7 +11075,7 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
     
        || userInput.includes('أكتب معلومات عن قمر يوروبا')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="europamoon.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">يوروبا هو أحد الأقمار الجليدية الأربعة الكبرى لكوكب المشتري، ويعد واحدًا من أكثر الأماكن إثارة في النظام الشمسي. إليك بعض المعلومات الأساسية عنه:  قطر يوروبا يبلغ حوالي 3,122 كيلومتر ,1,940 ميل, مما يجعله رابع أكبر قمر في المجموعة الشمسية  </div>'   ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/europamoon.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">يوروبا هو أحد الأقمار الجليدية الأربعة الكبرى لكوكب المشتري، ويعد واحدًا من أكثر الأماكن إثارة في النظام الشمسي. إليك بعض المعلومات الأساسية عنه:  قطر يوروبا يبلغ حوالي 3,122 كيلومتر ,1,940 ميل, مما يجعله رابع أكبر قمر في المجموعة الشمسية  </div>'   ;
  
        
        
@@ -11091,7 +11090,7 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
     
        || userInput.includes('بيغ بانغ')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="bigbang.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">نظرية البداية الكبيرة (Big Bang Theory) هي النظرية العلمية الأكثر شهرة والتي تشرح بداية الكون. وفقًا لهذه النظرية، الكون كان في حالة مادة مكثفة وساخنة جدًا في البداية، واستمرت هذه الحالة لمدة ضئيلة قبل أن يبدأ الانتقال نحو حالة أكثر هدوءًا وتوزيعًا </div>'    ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/bigbang.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">نظرية البداية الكبيرة (Big Bang Theory) هي النظرية العلمية الأكثر شهرة والتي تشرح بداية الكون. وفقًا لهذه النظرية، الكون كان في حالة مادة مكثفة وساخنة جدًا في البداية، واستمرت هذه الحالة لمدة ضئيلة قبل أن يبدأ الانتقال نحو حالة أكثر هدوءًا وتوزيعًا </div>'    ;
  
        
        
@@ -11110,7 +11109,7 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
     || userInput.includes('ماذا تعرف عن نشأة الكون')
        || userInput.includes('كيف نشأة الكون')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="thespace.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الانفجار الكبير: النظرية السائدة حاليًا تقول بأن الكون بدأ بانفجار هائل يسمى الانفجار الكبير قبل حوالي 13.8   مليار سنة. هذا الانفجار أطلق كل المادة والطاقة في الكون لمعلومات أكثر أكتب نشأة الكون  </div>'  ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/thespace.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الانفجار الكبير: النظرية السائدة حاليًا تقول بأن الكون بدأ بانفجار هائل يسمى الانفجار الكبير قبل حوالي 13.8   مليار سنة. هذا الانفجار أطلق كل المادة والطاقة في الكون لمعلومات أكثر أكتب نشأة الكون  </div>'  ;
  
        
        
@@ -11131,7 +11130,7 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
     || userInput.includes('أكتب أهم المعلومات حول توسع الكون')
        || userInput.includes('أكتب معلومات حول توسع الكون')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="nasa.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">بعد الانفجار الكبير، بدأ الكون في التوسع بسرعة كبيرة. وما زال يتوسع حتى يومنا هذا مع توسع الكون، بدأ في التبريد، وبدأت الذرات في التشكل، مما أدى إلى تكوين النجوم والمجرات الأولى  </div>'   ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/nasa.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">بعد الانفجار الكبير، بدأ الكون في التوسع بسرعة كبيرة. وما زال يتوسع حتى يومنا هذا مع توسع الكون، بدأ في التبريد، وبدأت الذرات في التشكل، مما أدى إلى تكوين النجوم والمجرات الأولى  </div>'   ;
  
        
        
@@ -11152,7 +11151,7 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
     
        || userInput.includes('أخبرني ماذا تعرف عن النجوم النيترونية')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="neutron.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">تتكون النجوم النيترونية من نواة نيوترونية متوازنة تتكون من النيوترونات والباريونات، وتحيط بها طبقة من الباريونات والإلكترونات تكون النجوم النيترونية كبيرة جدًا، وتتراوح مساحتها بين 10 إلى 50 مرة مساحة الشمس.  </div>'  ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/neutron.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">تتكون النجوم النيترونية من نواة نيوترونية متوازنة تتكون من النيوترونات والباريونات، وتحيط بها طبقة من الباريونات والإلكترونات تكون النجوم النيترونية كبيرة جدًا، وتتراوح مساحتها بين 10 إلى 50 مرة مساحة الشمس.  </div>'  ;
  
        
        
@@ -11178,7 +11177,7 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
    
        || userInput.includes('أكتب أهم المعلومات حول الثقوب الدودية')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="nasa123.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الثقوب الدودية، أو الجسور أينشتاين-روزن، هي فكرة نظرية في الفيزياء تشير إلى وجود ممرات عبر الزمان والمكان تتكون من فمّين وممر يتصل بهما. يمكن تصورها كأنها نفق يربط بين نقطتين مختلفتين في الزمان والمكان  </div>' ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/nasa123.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الثقوب الدودية، أو الجسور أينشتاين-روزن، هي فكرة نظرية في الفيزياء تشير إلى وجود ممرات عبر الزمان والمكان تتكون من فمّين وممر يتصل بهما. يمكن تصورها كأنها نفق يربط بين نقطتين مختلفتين في الزمان والمكان  </div>' ;
  
        
        
@@ -11202,7 +11201,7 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
     
        || userInput.includes('ماهي سرعة الضوء')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="speedlight.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">سرعة الضوء هي واحدة من أهم الثوابت الأساسية في الفيزياء تبلغ سرعة الضوء في الفراغ حوالي 300,000 كيلومتر في الثانية </div>'   ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/speedlight.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">سرعة الضوء هي واحدة من أهم الثوابت الأساسية في الفيزياء تبلغ سرعة الضوء في الفراغ حوالي 300,000 كيلومتر في الثانية </div>'   ;
  
        
         
@@ -11218,7 +11217,7 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
              
        || userInput.includes('كون')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="space.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الكون هو كل ما يوجد من الفضاء والمادة والطاقة.  يُعتقد أن الكون بدأ بانفجار هائل يُعرف بالانفجار الكبير (Big Bang) منذ حوالي 13.8 مليار سنة </div>'   ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/space.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الكون هو كل ما يوجد من الفضاء والمادة والطاقة.  يُعتقد أن الكون بدأ بانفجار هائل يُعرف بالانفجار الكبير (Big Bang) منذ حوالي 13.8 مليار سنة </div>'   ;
  
        
        
@@ -11235,7 +11234,7 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
           
        || userInput.includes('أكتب معلومات عن الكواكب')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="planet.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الكواكب هي أجسام سماوية تدور حول النجوم </div>'   ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/planet.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الكواكب هي أجسام سماوية تدور حول النجوم </div>'   ;
  
        
        
@@ -11252,7 +11251,7 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
     
        || userInput.includes('ماهو النجم')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="nasa1234.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">النجوم هي كرات ضخمة من الغاز الساخن تنتج الضوء والحرارة من خلال تفاعلات نووية تحدث في   نواتها  </div>'    ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/nasa1234.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">النجوم هي كرات ضخمة من الغاز الساخن تنتج الضوء والحرارة من خلال تفاعلات نووية تحدث في   نواتها  </div>'    ;
  
        
        
@@ -11269,7 +11268,7 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
         
        || userInput.includes('جاذبية')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="gravity.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الجاذبية هي القوة التي تجذب الأجسام نحو بعضها البعض قانون الجذب العام: صاغ إسحاق نيوتن قانون الجاذبية الذي ينص على أن كل جسمين في الكون يجذبان بعضهما بقوة تتناسب مع كتلتيهما وتتناسب عكسياً مع مربع المسافة بينهما </div>'   ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/gravity.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الجاذبية هي القوة التي تجذب الأجسام نحو بعضها البعض قانون الجذب العام: صاغ إسحاق نيوتن قانون الجاذبية الذي ينص على أن كل جسمين في الكون يجذبان بعضهما بقوة تتناسب مع كتلتيهما وتتناسب عكسياً مع مربع المسافة بينهما </div>'   ;
  
        
        
@@ -11288,7 +11287,7 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
     || userInput.includes('ماهو النيزك')
    || userInput.includes('ماهو نيزك')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="meteorite.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">النيازك هي أجزاء من الصخور أو المعادن التي تسقط من الفضاء الخارجي إلى سطح الأرض. معظم النيازك تأتي من الكويكبات، لكنها قد تأتي أيضًا من المذنبات أو حتى من القمر أو المريخ </div>'  ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/meteorite.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">النيازك هي أجزاء من الصخور أو المعادن التي تسقط من الفضاء الخارجي إلى سطح الأرض. معظم النيازك تأتي من الكويكبات، لكنها قد تأتي أيضًا من المذنبات أو حتى من القمر أو المريخ </div>'  ;
  
        
        
@@ -11307,7 +11306,7 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
     || userInput.includes('ماهو الشهاب')
        || userInput.includes('ماهو شهاب')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="meteorite123.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الشهب هي ظاهرة تحدث عندما تدخل قطع من الحطام الفضائي، مثل النيازك، الغلاف الجوي للأرض وتحترق بسبب الاحتكاك مع الهواء تأتي الشهب من النيازك أو الحطام الفضائي الذي يدخل الغلاف الجوي للأرض </div>'   ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/meteorite123.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الشهب هي ظاهرة تحدث عندما تدخل قطع من الحطام الفضائي، مثل النيازك، الغلاف الجوي للأرض وتحترق بسبب الاحتكاك مع الهواء تأتي الشهب من النيازك أو الحطام الفضائي الذي يدخل الغلاف الجوي للأرض </div>'   ;
  
        
          
@@ -11318,7 +11317,7 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
     || userInput.includes('ماهو السديم')
        || userInput.includes('ماهو سديم')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="nebula.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">السديم هو تجمع ضخم من الغاز والغبار في الفضاء بين النجوم </div>'    ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/nebula.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">السديم هو تجمع ضخم من الغاز والغبار في الفضاء بين النجوم </div>'    ;
  
        
        
@@ -11336,7 +11335,7 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
    
        || userInput.includes('أكتب معلومات حول المجرة')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="galaxy.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">المجرة هي نظام ضخم من النجوم، الغبار، والغاز مرتبطة معًا بواسطة الجاذبية. مجرتنا تُعرف باسم درب التبانة (Milky Way)وهي واحدة من مليارات المجرات في الكون </div>'   ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/galaxy.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">المجرة هي نظام ضخم من النجوم، الغبار، والغاز مرتبطة معًا بواسطة الجاذبية. مجرتنا تُعرف باسم درب التبانة (Milky Way)وهي واحدة من مليارات المجرات في الكون </div>'   ;
  
        
        
@@ -11355,7 +11354,7 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
      || userInput.includes('ماهي فاكهة التفاح')
        || userInput.includes('تفاح')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="appel.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">التفاح هو نوع نباتي يتبع جنس التفاح ويُعدّ من الفواكه الشائعة حول العالم. يحتوي على مضادات أكسدة، مركبات فلافونويد، وألياف، ويُعتبر منخفض السعرات الحرارية. يمكن تناوله طازجًا أو استخدامه في العديد من الوصفات والعصائر </div>'  ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/appel.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">التفاح هو نوع نباتي يتبع جنس التفاح ويُعدّ من الفواكه الشائعة حول العالم. يحتوي على مضادات أكسدة، مركبات فلافونويد، وألياف، ويُعتبر منخفض السعرات الحرارية. يمكن تناوله طازجًا أو استخدامه في العديد من الوصفات والعصائر </div>'  ;
  
        
        
@@ -11372,7 +11371,7 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
     || userInput.includes('ماهي فاكهة الموز')
        || userInput.includes('فاكهة الموز')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="banan.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الموز هو نوع من الفواكه الشهيرة حول العالم. يُعدّ موز من الفواكه الكشيدة والقابلة للأكل، وينتمي من الناحية النباتية إلى جنس السَته، ويتم زراعته بواسطة أنواع مختلفة من النباتات في تيره الموزا. يتفاوت حجمه ولونه وقوامه، لكنه عادة ما يكون مكشوفًا ومنحنيًا، ولحمه ناعم وغني بالنشا، وقد يكون أخضرًا، أصفرًا، أحمرًا، بنفسجيًا أو بنيًا عند النضوج. يُعتبر الموز منخفض السعرات الحرارية ويحتوي على العديد من الفيتامينات والمعادن، مثل فيتامين C، فيتامين B6، الريبوفلافين، الفولات، البانتوثينيك أسيد، والنياسين. بالإضافة إلى ذلك، يحتوي على معادن مثل البوتاسيوم، المنغنيز، المغنيسيوم، والنحاس. يُعتبر الموز مصدرًا رائعًا للألياف الغذائية، ويمكن تناوله كاملًا أو استخدامه في العديد من الوصفات. بالنسبة للطعم، يمكن أن يكون الموز حلوًا أو نشاطًا، حسب درجة نضوجه. بالإضافة إلى ذلك، يُستخدم الموز في تحضير العديد من الأطعمة والحلويات </div>'  ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/banan.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الموز هو نوع من الفواكه الشهيرة حول العالم. يُعدّ موز من الفواكه الكشيدة والقابلة للأكل، وينتمي من الناحية النباتية إلى جنس السَته، ويتم زراعته بواسطة أنواع مختلفة من النباتات في تيره الموزا. يتفاوت حجمه ولونه وقوامه، لكنه عادة ما يكون مكشوفًا ومنحنيًا، ولحمه ناعم وغني بالنشا، وقد يكون أخضرًا، أصفرًا، أحمرًا، بنفسجيًا أو بنيًا عند النضوج. يُعتبر الموز منخفض السعرات الحرارية ويحتوي على العديد من الفيتامينات والمعادن، مثل فيتامين C، فيتامين B6، الريبوفلافين، الفولات، البانتوثينيك أسيد، والنياسين. بالإضافة إلى ذلك، يحتوي على معادن مثل البوتاسيوم، المنغنيز، المغنيسيوم، والنحاس. يُعتبر الموز مصدرًا رائعًا للألياف الغذائية، ويمكن تناوله كاملًا أو استخدامه في العديد من الوصفات. بالنسبة للطعم، يمكن أن يكون الموز حلوًا أو نشاطًا، حسب درجة نضوجه. بالإضافة إلى ذلك، يُستخدم الموز في تحضير العديد من الأطعمة والحلويات </div>'  ;
  
        
        
@@ -11390,7 +11389,7 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
          
        || userInput.includes('فاكهة البرتقال')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="orange.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">البرتقال هو نوع من الحمضيات ينتجه شجرة البرتقال  يُعد مصدرًا ممتازًا لفيتامين C، ويساعد في امتصاص الكالسيوم في الجسم. بالإضافة إلى ذلك، يحتوي على فيتامين أ ويعد مصدرًا للصوديوم، البوتاسيوم، المغنيسيوم، النحاس، الكبريت، والكلورين. يُعتبر البرتقال من الأطعمة التي تشكل القلويات، مما يعزز مقاومة الجسم ويحسنها. في عام 2019، زُرِع 79 مليون طن من البرتقال حول العالم، حيث تنتج البرازيل 22% من الإجمالي، تليها الصين والهند. تاريخيًا، يُعود أقدم إشارة موثقة للبرتقال الحلو في الأدب الصيني إلى عام 314 قبل الميلاد. في أوروبا، أدخل المغاربة البرتقال إلى شبه الجزيرة الأيبيرية في القرن العاشر، وبدأت زراعته على نطاق واسع في الأندلس. البرتقال الحلو أصبح معروفًا في جميع أنحاء أوروبا في القرن الخامس عشر. يُستخدم البرتقال في العديد من الأطعمة والحلويات، وكان يُزرع في القصور الملكية في فرنسا وأماكن أخرى </div>'  ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/orange.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">البرتقال هو نوع من الحمضيات ينتجه شجرة البرتقال  يُعد مصدرًا ممتازًا لفيتامين C، ويساعد في امتصاص الكالسيوم في الجسم. بالإضافة إلى ذلك، يحتوي على فيتامين أ ويعد مصدرًا للصوديوم، البوتاسيوم، المغنيسيوم، النحاس، الكبريت، والكلورين. يُعتبر البرتقال من الأطعمة التي تشكل القلويات، مما يعزز مقاومة الجسم ويحسنها. في عام 2019، زُرِع 79 مليون طن من البرتقال حول العالم، حيث تنتج البرازيل 22% من الإجمالي، تليها الصين والهند. تاريخيًا، يُعود أقدم إشارة موثقة للبرتقال الحلو في الأدب الصيني إلى عام 314 قبل الميلاد. في أوروبا، أدخل المغاربة البرتقال إلى شبه الجزيرة الأيبيرية في القرن العاشر، وبدأت زراعته على نطاق واسع في الأندلس. البرتقال الحلو أصبح معروفًا في جميع أنحاء أوروبا في القرن الخامس عشر. يُستخدم البرتقال في العديد من الأطعمة والحلويات، وكان يُزرع في القصور الملكية في فرنسا وأماكن أخرى </div>'  ;
  
        
        
@@ -11406,7 +11405,7 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
     
        || userInput.includes('ماهي فاكهة الفراولة')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="strowbery.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">لة الوردية. تُعدّ الفراولة مصدرًا غنيًا بمضادات الأكسدة، مثل الأنثوسيانين، التي تحمي الجسم من الجذور الحرة الضارة. كما تحتوي على الألياف، وفيتامين C، والمعادن مثل المنغنيز والبوتاسيوم. يُفضل تناولها طازجة للاستفادة القصوى من فوائدها </div>'  ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/strowbery.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">لة الوردية. تُعدّ الفراولة مصدرًا غنيًا بمضادات الأكسدة، مثل الأنثوسيانين، التي تحمي الجسم من الجذور الحرة الضارة. كما تحتوي على الألياف، وفيتامين C، والمعادن مثل المنغنيز والبوتاسيوم. يُفضل تناولها طازجة للاستفادة القصوى من فوائدها </div>'  ;
  
        
        
@@ -11424,7 +11423,7 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
     
        || userInput.includes('توت بري')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="berries.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">التوت البري  هو نوع من الفواكه الغنية بالفوائد الصحية. ينتمي إلى عائلة الخلنجية ويُعتبر مصدرًا جيدًا للعديد من المركبات النباتية المفيدة بعض فوائده تشمل </div>'  ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/berries.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">التوت البري  هو نوع من الفواكه الغنية بالفوائد الصحية. ينتمي إلى عائلة الخلنجية ويُعتبر مصدرًا جيدًا للعديد من المركبات النباتية المفيدة بعض فوائده تشمل </div>'  ;
  
        
        
@@ -11440,7 +11439,7 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
     
        || userInput.includes('ماهي فاكهة الخوخ')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="peach.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الخوخ بالإنجليزية: Plum هو نوع من الفواكه يعود أصله إلى شمال غرب الصين ويزرع الآن في جميع أنحاء العالم، خاصةً في المناطق ذات المناخ الدافئ. ينتمي الخوخ إلى عائلة الورديات، وهي نفس عائلة البرقوق والمشمش والكرز واللوز </div>'  ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/peach.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الخوخ بالإنجليزية: Plum هو نوع من الفواكه يعود أصله إلى شمال غرب الصين ويزرع الآن في جميع أنحاء العالم، خاصةً في المناطق ذات المناخ الدافئ. ينتمي الخوخ إلى عائلة الورديات، وهي نفس عائلة البرقوق والمشمش والكرز واللوز </div>'  ;
  
        
        
@@ -11463,7 +11462,7 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
              
        || userInput.includes('ماهو الإجاص')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="pear.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الإجاص بالإنجليزية: Pear هو نوع من الفواكه يتبع جنس الكمثرى من الفصيلة الوردية. يتميز بشكله المقوس وألوانه المتنوعة من الأخضر والأصفر إلى الأحمر، مشابهًا لألوان غروب الشمس. يتغير طعمه مع تقدم مراحل نضجه. يُستخدم الإجاص في تحضير السلطات والأطباق الرئيسية والحلويات. يُعتبر مصدرًا مهمًا للفيتامين C حيث يوفر 10% من الحاجة اليومية للإنسان، ويحتوي أيضًا على 24% من الألياف التي يحتاجها الجسم </div>'  ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/pear.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الإجاص بالإنجليزية: Pear هو نوع من الفواكه يتبع جنس الكمثرى من الفصيلة الوردية. يتميز بشكله المقوس وألوانه المتنوعة من الأخضر والأصفر إلى الأحمر، مشابهًا لألوان غروب الشمس. يتغير طعمه مع تقدم مراحل نضجه. يُستخدم الإجاص في تحضير السلطات والأطباق الرئيسية والحلويات. يُعتبر مصدرًا مهمًا للفيتامين C حيث يوفر 10% من الحاجة اليومية للإنسان، ويحتوي أيضًا على 24% من الألياف التي يحتاجها الجسم ,<img src="pear1.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"></div>'  ;
  
        
        
@@ -11482,7 +11481,7 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
     
        || userInput.includes('فاكهة التين')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="fig.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> هو ثمرةٌ ذات طعمٍ حلوٍ بشكل طبيعيّ، ومفيدة للصحة من خصائصه الحفاظ على صحة الجهاز الهضمي يحتوي على الألياف الغذائية التي تساهم في تحسين حركة الأمعاء وتعزيز نمو البكتيريا النافعة في القولون  الوقاية من الإمساك يساعد في تليين البراز وتنظيم حركة الأمعاء </div>'  ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/fig.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> هو ثمرةٌ ذات طعمٍ حلوٍ بشكل طبيعيّ، ومفيدة للصحة من خصائصه الحفاظ على صحة الجهاز الهضمي يحتوي على الألياف الغذائية التي تساهم في تحسين حركة الأمعاء وتعزيز نمو البكتيريا النافعة في القولون  الوقاية من الإمساك يساعد في تليين البراز وتنظيم حركة الأمعاء </div>'  ;
  
        
        
@@ -11501,7 +11500,7 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
       
        || userInput.includes('فاكهة عنب')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="grapes.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">العنب من الفواكه اللذيذة والمغذية يحتوي على نسبة جيدة من المواد السكرية سريعة الامتصاص وسهلة الهضم ، مثل سكر الجلوكوز وسكر الفركتوز. كما يحتوي على فيتامين ج والعناصر المعدنية مثل البوتاسيوم والكالسيوم والصوديوم  </div>'  ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/grapes.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">العنب من الفواكه اللذيذة والمغذية يحتوي على نسبة جيدة من المواد السكرية سريعة الامتصاص وسهلة الهضم ، مثل سكر الجلوكوز وسكر الفركتوز. كما يحتوي على فيتامين ج والعناصر المعدنية مثل البوتاسيوم والكالسيوم والصوديوم  </div>'  ;
  
        
        
@@ -11519,7 +11518,7 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
     
        || userInput.includes('فاكهة كيوي')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="kiwi.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">فاكهة الكيوي، المعروفة أيضًا باسم العنب الصيني، تعتبر من الثمار اللذيذة والمغذية تحتوي على  مضادات الأكسدة تحمي الجسم من الجذور الحرة وتقلل من خطر الأمراض  و الألياف تساهم في تنظيم مستويات السكر وتعزز صحة القولون </div>'  ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/kiwi.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">فاكهة الكيوي، المعروفة أيضًا باسم العنب الصيني، تعتبر من الثمار اللذيذة والمغذية تحتوي على  مضادات الأكسدة تحمي الجسم من الجذور الحرة وتقلل من خطر الأمراض  و الألياف تساهم في تنظيم مستويات السكر وتعزز صحة القولون </div>'  ;
  
        
        
@@ -11538,7 +11537,7 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
     
        || userInput.includes('فاكهة تمر')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="dates.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">التمر يساهم في علاج فقر الدم يحتوي على مضادات الأكسدة ويقلل من خطر الإصابة بأمراض عصبية والتمر ينتشر في الوطن العربي ويحظى بشعبية كبيرة </div>'  ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/dates.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">التمر يساهم في علاج فقر الدم يحتوي على مضادات الأكسدة ويقلل من خطر الإصابة بأمراض عصبية والتمر ينتشر في الوطن العربي ويحظى بشعبية كبيرة </div>'  ;
  
        
        
@@ -11554,7 +11553,7 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
      
              
       || userInput.includes('فاكهة الشمام')) {
-       botMessage.innerHTML = '<div class="row"><img src="mellon.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الشمام، المعروف أيضًا باسم البطيخ الأصفر أو عبد اللاوي، هو نبتة وخضار كروية أو بيضاوية الشكل. يختلف لونه من الأخضر إلى الأصفر إلى الأبيض، وينتمي إلى الفصيلة القرعية. يُعتبر الشمام سكري المذاق وذو رائحة زكية </div>'  ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/mellon.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الشمام، المعروف أيضًا باسم البطيخ الأصفر أو عبد اللاوي، هو نبتة وخضار كروية أو بيضاوية الشكل. يختلف لونه من الأخضر إلى الأصفر إلى الأبيض، وينتمي إلى الفصيلة القرعية. يُعتبر الشمام سكري المذاق وذو رائحة زكية </div>'  ;
  
        
            } else if (userInput.includes('البطيخ')
@@ -11567,13 +11566,9 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
  
              
       || userInput.includes('فاكهة بطيخ')) {
-       botMessage.innerHTML = '<div class="row"><img src="watermellon.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> البطيخ هو فاكهة مميزة تتميز بنكهتها اللذيذة وقدرتها على إرواء العطش في أيام الصيف الحارة وهو يحتوي البطيخ على مضادات الأكسدة مثل الليكوبين وفيتامين البطيخ يحتوي على البوتاسيوم والستيرولين، مما يساعد في تقليل ضغط الدم وتحسين </div>'  ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/watermellon.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> البطيخ هو فاكهة مميزة تتميز بنكهتها اللذيذة وقدرتها على إرواء العطش في أيام الصيف الحارة وهو يحتوي البطيخ على مضادات الأكسدة مثل الليكوبين وفيتامين البطيخ يحتوي على البوتاسيوم والستيرولين، مما يساعد في تقليل ضغط الدم وتحسين </div>'  ;
  
        
-       
-       
-
-  
 
   
 
