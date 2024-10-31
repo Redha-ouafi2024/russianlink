@@ -11013,12 +11013,7 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
      
        
            
-          } else if (userInput.includes('مجرة قزم الأسد')
-    
-       || userInput.includes('مجرة قزم الاسد')) {
-     
-       botMessage.innerHTML = '<div class="row"><img src="riva123.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">مجرة قزم الأسد: تقع على بعد حوالي 820,000 سنة ضوئية، وهي واحدة من المجرات القزمة السبع التي تتبع مجرة درب التبانة. تحتوي على نجوم قديمة وتظهر علامات على التفاعل الجاذبي مع مجرتنا</div> '   ;
- 
+       
        
          
         
