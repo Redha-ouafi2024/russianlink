@@ -415,6 +415,27 @@ a:hover {
 
 
       
+    .music-player {
+
+        margin: auto;
+         width: 98%;
+         height: 40px;
+        background-color: rgba(0, 0, 0, 0.4);
+        padding: 3px;
+        border-radius: 6px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    audio {
+        width: 100%;
+    }
+
+    .controls {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+    }
 
 
 
