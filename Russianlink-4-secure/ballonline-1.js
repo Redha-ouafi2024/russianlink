@@ -11567,6 +11567,520 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
 
   
 
+
+
+
+       
+           } else if (userInput.includes('التوت')
+    
+      
+        || userInput.includes('توت')
+         || userInput.includes('فاكهة التوت')
+          || userInput.includes('ماهو التوت')
+           || userInput.includes('ماهي فاكهة التوت')
+   
+             
+      || userInput.includes('فاكهة توت')) {
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/berries.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">التوت هو نوع من الفاكهة المعمرة ينتمي إلى جنس الشليك. يأتي بأشكال وألوان متنوعة يحتوي التوت على مركبات مضادة للأكسدة مثل الأنثوسيانين، التي تحمي الجسم من الجذور يُعدُّ التوت مصدرًا جيدًا للألياف الغذائية، ويساهم في تقليل الإمساك ودعم صحة الجهاز الهضمي </div>'  ;
+ 
+       
+       
+       
+           } else if (userInput.includes('المشمش')
+    
+      
+        || userInput.includes('مشمش')
+         || userInput.includes('فاكهة مشمش')
+          || userInput.includes('ماهو المشمش')
+           || userInput.includes('ماهي فاكهة المشمش')
+         
+             || userInput.includes('فاكهة مشمش')
+             
+      || userInput.includes('معجون المشمش')) {
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/apricot.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> ثمرة المشمش تأتي شجرة مثمرة ذات حجم متوسط، يصل طولها إلى 2-3 مترًا وتصل الأشجار المعمرة منها إلى أكثر من ثمانية أمتار. أوراقها ذات شكل قلبي مع أطراف مدببة. تزهر في الربيع وتنضج ثمارها في الصيف ثمار المشمش تشبه ثمار الخوخ والنكتارين وهي تحتوي على مضادات الأكسدة، مثل البيتا كاروتين </div>'  ;
+ 
+       
+       
+       
+           } else if (userInput.includes('البرقوق')
+    
+      
+        || userInput.includes('برقوق')
+         || userInput.includes('ماهو البرقوق')
+          || userInput.includes('فاكهة البرقوق')
+           || userInput.includes('ماهي فاكهة البرقوق')
+   
+             
+      || userInput.includes('فاكهة برقوق')) {
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/plum.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">البرقوق هو نوع من الفواكه يتبع نفس العائلة التي تضم فواكه المشمش والنكتارين والخوخ تأتي ثمار البرقوق بأشكال وأحجام وألوان متنوعة يُعتبر البرقوق مصدرًا جيدًا للألياف الغذائية، ويُستخدم غالبًا لعلاج الإمساك  </div>'  ;
+ 
+       
+       
+       
+       
+         
+          } else if (userInput.includes('الكسوف')
+          
+          || userInput.includes('كسوف')
+          || userInput.includes('الكسوف الشمسي')
+          || userInput.includes('كسوف الشمس')
+          || userInput.includes('ماهو الكسوف')
+          || userInput.includes('ماهو كسوف الشمس')
+          
+         
+     || userInput.includes('ظاهرة كسوف الشمس')
+       || userInput.includes('ظاهرة الكسوف')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/eclipse.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">كسوف الشمس هو ظاهرة فلكية تحدث عندما يكون القمر هلالًا أثناء مروره بين الأرض والشمس. يتسبب القمر في حجب الشمس جزئيًا أو كليًا عن كوكب الأرض. يحدث الكسوف الكلي للشمس مرتين على الأقل في العام، ويمكن مشاهدته بالعين المجردة من مناطق قليلة على سطح الأرض. يبلغ امتداد هذه النقاط حوالي 150 كيلومترًا فقط²³. يُنصح بعدم النظر مباشرة إلى الشمس أثناء الكسوف لتجنب الإصابة بأذية دائمة للعينين أو العمى. يمكن استخدام تقنيات خاصة لحماية العينين أو الاستمتاع بمشاهدة الكسوف بطرق غير مباشرة  </div>'  ;
+ 
+       
+       
+         } else if (userInput.includes('خسوف القمر')
+          
+          || userInput.includes('الخسوف')
+          || userInput.includes('الخسوف القمري')
+          || userInput.includes('ماهو الخسوف')
+          || userInput.includes('ماهو خسوف القمر')
+          || userInput.includes('ظاهرة الخسوف')
+          || userInput.includes('ظاهرة الخسوف القمري')
+            || userInput.includes('ظاهرة خسوف القمر')
+            
+                || userInput.includes('ماهي  ظاهرة خسوف القمر')
+          || userInput.includes('ظاهرة الخسوف')
+          || userInput.includes('ظاهرة الخسوف')
+    
+       || userInput.includes('خسوف')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/eclipse2.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">خسوف القمر هو ظاهرة فلكية تحدث عندما يحجب ظل الأرض ضوء الشمس المنعكس على القمر في الأوضاع العادية. يحدث خسوف القمر عندما يكون القمر في طور البدر، ويتواجد القمر على استقامة واحدة مع الشمس والأرض. هذا الاصطفاف يجعل القمر يدخل منطقة ظل الأرض، مما يؤدي إلى حجب ضوء الشمس عن القمر. يحدث خسوف القمر بشكل كامل كسوفًا كليًا أو جزئيًا حسب موقع القمر والأرض والشمس. يعتبر خسوف القمر ظاهرة مثيرة ومثيرة للاهتمام للمراقبين الفلكيين والمهتمين بالظواهر الفلكية </div>'  ;
+ 
+       
+       
+         } else if (userInput.includes('الفواكه')
+          
+          || userInput.includes('فواكه')
+          || userInput.includes('الفاكهة')
+          || userInput.includes('فاكهة')
+            || userInput.includes('ماهي الفواكه')
+              || userInput.includes('ماهي الفاكهة')
+          || userInput.includes('ثمرة')
+          || userInput.includes('الثمار')
+    
+       || userInput.includes('أنواع الفواكه')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/fruits.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الفواكه هي الثمار النباتية التي تحملها النباتات كغطاء لبذورها. تتميز عادة بأنها حلوة أو حامضة الطعم ومكتنزة بالمياه  </div>'  ;
+ 
+       
+       
+         } else if (userInput.includes('الكرز')
+          
+          || userInput.includes('كرز')
+          || userInput.includes('فاكهة الكرز')
+          || userInput.includes('ماهو الكرز')
+          || userInput.includes('ماهي فاكهة الكرز')
+         
+    
+       || userInput.includes('فاكهة كرز')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/cherry.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الكرز هو نبات معمر ينتمي إلى جنس الأناناس، وهو مشهور بثماره اللذيذة والملونة يتميز بلونه الأحمر </div>وطعمه الحلو. يحتوي على مضادات الأكسدة فوائد الكرز تشمل تحسين الأداء الرياضي، وتقليل خطر الإصابة بسرطان القولون'  ;
+ 
+       
+       
+       
+         } else if (userInput.includes('أناناس')
+          
+          || userInput.includes('اناناس')
+          || userInput.includes('الاناناس')
+          || userInput.includes('الآناناس')
+          || userInput.includes('آناناس')
+          || userInput.includes('فاكهة الآناناس')
+          || userInput.includes('ماهو الآناناس')
+          || userInput.includes('ماهو الأناناس')
+    
+          || userInput.includes('ماهي فاكهة الآناناس')
+          
+       || userInput.includes('ماهي فاكهة الاناناس')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/pineapple.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الأنناس من الفصيلة البروميلية يحتوي الأناناس على إنزيم البروميلين، الذي يساهم في هضم البروتين وتحسين عملية الهضم يحتوي على مركبات مثل الفينولات ومركبات الفلافونويد وفيتامين يحتوي على البوتاسيوم، الذي يساهم في تنظيم ضغط الدم </div>'  ;
+ 
+       
+         } else if (userInput.includes('جوز الهند')
+          
+          || userInput.includes('جوزة الهند')
+          || userInput.includes('فاكهة جوز الهند')
+          || userInput.includes('ماهو جوز الهند')
+          || userInput.includes('ماهي فاكهة جوز الهند')
+         
+    
+       || userInput.includes('فاكهة الجوز')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/coconut.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">هو نوع نباتي يتبع جنس النارجيل من الفصيلة الفوفلية من فوائده يحتوي جوز الهند على كمية كبيرة من الألياف، مما يساعد في تحسين حركة الأمعاء والوقاية يحتوي على حمض اللاريك، الذي يعزز مستويات الكوليسترول الجيد ويحمي القلب  </div>'  ;
+ 
+       
+       
+       
+          } else if (userInput.includes('الصيف')
+          
+          || userInput.includes('ماهو الصيف')
+          || userInput.includes('ماهو فصل الصيف')
+          
+     || userInput.includes('صيف')
+     
+       || userInput.includes('فصل الصيف')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/summer.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الصيف هو أحد فصول السنة الأربعة في المناطق المعتدلة والقطبية من الكوكب. يتبع الصيف فصل الربيع ويليه فصل الخريف. يبدأ فصل الصيف في شهر حزيران ويمتد إلى آب. خلال هذا الفصل، تكون درجات الحرارة مرتفعة، ويكون النهار أطول من الليل. يعود ذلك لميل محور الأرض عن الشمس بزاوية تصل إلى 23.5 درجة، مما يجعل الأشعة الشمسية تصل بكثافة أكبر إلى مناطق خط الاستواء. يُعرف يوم الانقلاب الصيفي بأنه أطول يوم في السنة. في فصل الصيف، يمكن الاستمتاع بالأجواء الدافئة والقيام بالأنشطة المفضلة </div>'  ;
+ 
+       
+       
+       
+           } else if (userInput.includes('الربيع')
+          
+          || userInput.includes('ماهو الربيع')
+          || userInput.includes('ماهو فصل الربيع')
+     || userInput.includes('ربيع')
+     
+       || userInput.includes('فصل الربيع')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/spring.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">فصل الربيع هو أحد فصول السنة الأربعة ويتميز بالخضرة، ونمو الأزهار الملونة وتفتحها، إلى جانب اعتدال الجو أو درجات الحرارة، بالمقارنة مع فصل الشتاء، كما تنخفض قليلاً عند مقارنتها أيضاً بفصل الصيف، ويمكن القيام بالعديد من الأنشطة السياحية خلال فصل الربيع، حيثُ يصفه البعض بأنه فصل مصادقة البيئة، والاستمتاع بجمالها الطبيعي. يبدأ فصل الربيع في نصف الكرة الشمالي في مارس ويستمر حتى مايو، بينما يبدأ في نصف الكرة الجنوبي في سبتمبر ويستمر حتى نوفمبر </div>'  ;
+ 
+       
+       
+       
+           } else if (userInput.includes('الخريف')
+          
+          || userInput.includes('ماهو الخريف')
+          || userInput.includes('ماهو فصل الخريف')
+     || userInput.includes('خريف')
+     
+       || userInput.includes('فصل الخريف')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/autumn.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">فصل الخريف هو الفصل الذي يقع بين فصلي الصيف والشتاء. يبدأ في نصف الكرة الشمالي عندما يتساوى طول الليل والنهار معروفًا بالاعتدال الخريفي في 22 أو 23 سبتمبر، ويستمر حتى الانقلاب الشتوي في 21 أو 22 ديسمبر¹. خلال هذا الفصل، تنخفض درجات الحرارة تدريجيًا، وتتغير ألوان أوراق الأشجار من الأخضر إلى الأصفر والبرتقالي. يُعرف فصل الخريف أيضًا بموسم الشفق، حيث تكون السماء صافية في المساء</div>'  ;
+ 
+       
+       
+       
+           } else if (userInput.includes('الشتاء')
+          
+          
+     || userInput.includes('شتاء')
+     
+       || userInput.includes('فصل الشتاء')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/winter.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> فصل الشتاء هو أحد فصول العام الأربعة، ويتلو الخريف مباشرةً. يبدأ عند حدوث الظاهرة الفلكية المعروفة بالانقلاب الشتوي في الحادي والعشرين من ديسمبر من كل عام، ويستمر حتى اليوم العشرين من مارس من السنة التي تليها. يتميز فصل الشتاء بتدني درجات الحرارة وزيادة هطول الأمطار أو الثلوج في دوائر العرض العليا حسب الموقع الجغرافي للمنطقة. كما يكون وقت الشتاء متعاكسًا بين نصفي الكرة الأرضية الشمالي والجنوبي </div>'  ;
+ 
+       
+       
+       
+          } else if (userInput.includes('الرعد')
+          
+          || userInput.includes('رعد')
+          
+          || userInput.includes('ماهو الرعد')
+          
+          || userInput.includes('ماهي ظاهرة الرعد')
+          
+          || userInput.includes('ظاهرة الرعد')
+    
+       || userInput.includes('صوت الرعد')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/lightning.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الرعد هو الصوت الذي يصدر مصاحبًا للمعان البرق. يختلف صوت الرعد من فرقعة حادة إلى دوي منخفض وذلك اعتمادًا على طبيعة البرق وبعد السامع عن المصدر. صوت الرعد يحدث بسبب تفريغ كهربائي يحدث بين غيمتين مشحونتين أو من سحابة عاصفة إلى سطح الأرض. يسخن هذا التفريغ الهواء حوله لدرجة تفوق 30,000 درجة مئوية، مما يولد موجة صدمية مسموعة. يمكن سماع صوت الرعد عادةً على مسافة تصل حتى 15 كيلومتر من البرق،</div>'  ;
+ 
+       
+       
+       
+         
+          } else if (userInput.includes('البرق')
+          
+          
+          || userInput.includes('برق')
+          
+          || userInput.includes('ماهو البرق')
+          
+          || userInput.includes('ماهي ظاهرة البرق')
+          
+          || userInput.includes('ظاهرة البرق')
+    
+       || userInput.includes('سرعة البرق')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/lightning.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">البرق هو ظاهرة طبيعية بصرية تظهر في السماء عندما تكون السحب مملوءة بالغيوم. ينشأ البرق عن تفريغ مفاجئ وعنيف للشحنات الكهربائية داخل الغلاف الجوي المشحون¹. عادةً، يحدث البرق أثناء العواصف الرعدية، حيث يكون الرعد صوت موجة الصدمة الناتجة عن ازدياد الضغط المفاجئ للجزيئات الغازية. يمكن أن يكون البرق على شكل خطوط أو تصريفات رئيسية وفروع ثانوية يمكن رؤيتها بالعين المجردة². يحدث البرق داخل السحابة، بين السحب، أو بين السحابة والأرض. هناك أشكال مختلفة للبرق، منها البرق الجاف الذي يسبب حرائق الغابات. لتحدوث عملية التفريغ الكهربائي، يجب وجود فرق جهد كبير بين منطقتين في الفضاء ووجود وسط عازل يحول دون معادلة الشحنة </div>'  ;
+ 
+       
+       
+       
+         
+          } else if (userInput.includes('قوس القزح')
+          
+          || userInput.includes('قوس قزح')
+          
+          || userInput.includes('ماهو قوس القزح')
+          
+          || userInput.includes('ماهي ظاهرة قوس القزح')
+          
+             || userInput.includes('ظاهرة قوس قزح')
+    
+       || userInput.includes('ظاهرة قوس القزح')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/rainbow.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">قوس القزح هو ظاهرة طبيعية فيزيائية تحدث نتيجة لانكسار وتحليل ضوء الشمس خلال قطرة ماء المطر. يظهر قوس المطر بعد سقوط المطر أو خلال سقوط المطر والشمس مشرقة. الألوان في القوس تتراوح من اللون الأحمر من الخارج إلى البرتقالي والأصفر والأخضر والأزرق والنيلي وأخيرًا البنفسجي من الداخل يظهر قوس القزح عادة بشكل نصف دائري، ويمكن أن يكون قمريًا في حالات نادرة عندما يكون انكسار ضوء القمر ملائمًا مع مكان وجود القمر في تلك اللحظات. زاوية قوس القزح تكون عند رؤيته في اتجاه معاكس للشمس، وتكون زاوية الرؤية حوالي 84 درجة </div>'  ;
+ 
+       
+       
+       
+         
+          } else if (userInput.includes('التسونامي')
+          
+          || userInput.includes('تسونامي')
+          || userInput.includes('ظاهرة التسونامي')
+          || userInput.includes('ماهو التسونامي')
+          || userInput.includes('ماهي ظاهرة التسونامي')
+    
+       || userInput.includes('ظاهرة تسونامي')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/tsunami.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">التسونامي هو سلسلة من الموجات التي تحدث في جسم مائي بسبب إزاحة كمية كبيرة من الماء عادة في محيط أو بحيرة شاسعة. ينشأ التسونامي من الزلازل والانفجارات البركانية في أعماق المحيط، حيث يتم نقل الطاقة الهائلة إلى الماء، مما يؤدي إلى تشكيل موجات ضخمة. على عكس موجات المحيط العادية، تكون موجات التسونامي طويلة جدًا وتتراكم في ارتفاعات أعلى كلما انخفض عمق المحيط  يُعتبر تسونامي المحيط الهندي عام 2004 أحد أكثر الكوارث الطبيعية فتكًا في تاريخ البشرية، حيث قتل أو فقد ما لا يقل عن 230 ألف شخص في 14 دولة متاخمة للمحيط الهندي للتعرف على علامات التحذير والبقاء آمنًا من موجات التسونامي، يُفضل متابعة التعليمات الصادرة عن السلطات المحلية </div>'  ;
+ 
+       
+       
+         
+          } else if (userInput.includes('الضباب')
+          
+         || userInput.includes('ضباب') 
+    || userInput.includes('ماهو الضباب')
+    || userInput.includes('ماهي ظاهرة الضباب')
+       || userInput.includes('ظاهرة الضباب')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/fog.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الضباب هو ظاهرة طبيعية تتمثل في سحابة منخفضة تلامس سطح الأرض. يحدث عندما يتكاثف بخار الماء قرب سطح الأرض، وتتجمع جزيئات الماء حول ذرات الغبار أو الملوثات الهوائية، مما يؤدي إلى تشكيل قطرات مائية صغيرة تعلق في الهواء. يمكن أن يكون الضباب خفيفًا أو كثيفًا، وفي بعض الظروف، يمكن أن يحدث استحالة للرؤية³. يتشكل الضباب عندما يكون الجو رطبًا جدًا ويحتوي على الكثير من بخار الماء، ويكون هناك ذرات غبار أو ملوثات في الهواء لتكوينه. يمكن أن يظهر ويختفي بسرعة اعتمادًا على درجة الرطوبة ودرجة الحرارة. يُعرّف الضباب بأنه سحابة تقلل من الرؤية إلى أقل من 1 كم. هناك أنواع مختلفة من الضباب، مثل ضباب اليابسة الذي يحدث فوق اليابسة نتيجة فقدان سطح الأرض لحرارته ووجود الرطوبة في الجو، وضباب البحار الذي يتشكل نتيجة هبوب تيارات بحرية دافئة إلى مناطق باردة. يعتبر الضباب خطرًا على السلامة العامة، حيث يزيد من حوادث السير نتيجة انخفاض الرؤية أثناء حدوثه، خاصةً الكثيف منه </div>'  ;
+ 
+       
+       
+         
+          } else if (userInput.includes('الزلازل')
+          
+           || userInput.includes('الزلزال')
+            || userInput.includes('زلازل')
+             || userInput.includes('زلزال')
+             
+     || userInput.includes('ماهو الزلزال')
+      || userInput.includes('ماهي الزلازل')
+       || userInput.includes('ظاهرة الزلزال')
+        || userInput.includes('ظاهرة الزلازل')
+         || userInput.includes('متى تحدث ظاهرة الزلازل')
+          || userInput.includes('متى تحدث الزلازل')
+           || userInput.includes('متى يقع الزلزال')
+       || userInput.includes('متى يحدث الزلزال')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/earthquake.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الزلزال هو اهتزاز أرضي سريع يحدث نتيجة لتكسر الصخور وإزاحتها بسبب تراكم الإجهادات داخل الأرض . يتم توليد هذه الطاقة من باطن الأرض، وتنتج عن حركة الصفائح الصخرية في القشرة الأرضية. يتبع الزلزال بارتدادات تسمى أمواج زلزالية. تؤدي الزلازل إلى تشقق الأرض وظهور الينابيع الجديدة وحدوث أمواج عالية تحت سطح البحر التسونامي، فضلاً عن آثارها التخريبية للمباني والمنشآت. درجة الزلزال تُقاس من 1 إلى 10، حيث تتفاوت الأضرار من زلازل قد لا تحدث أية أضرار ,درجة 1-4, إلى زلازل قد تدمر المدينة بأكملها ,درجة 7-10, </div>'  ;
+ 
+       
+       
+        } else if (userInput.includes('الفيضانات')
+          
+           || userInput.includes('الفيضان')
+            || userInput.includes('فيضانات')
+             || userInput.includes('فيضان')
+             
+     || userInput.includes('ماهو الفيضان')
+      || userInput.includes('ظاهرة الفيضان')
+       || userInput.includes('ظاهرة الفيضانات')
+        || userInput.includes('ماهي ظاهرة الفيضان')
+       || userInput.includes('ماهي ظاهرة الفيضان')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/flood.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الفيضانات هي أكثر أنواع الكوارث الطبيعية شيوعًا، وتحدث عندما يغمر فائض المياه الأراضي التي عادةً ما تكون جافة. غالبًا ما تنتج الفيضانات عن هطول الأمطار الغزيرة أو ذوبان الثلوج السريع أو موجة العواصف الناجمة عن إعصار مداري أو تسونامي في المناطق الساحلية. يمكن أن تتسبب الفيضانات بدمار واسع النطاق، مما يؤدي إلى خسائر في الأرواح وأضرار في الممتلكات الشخصية والبنية التحتية الأساسية في مجال الصحة العامة. للبقاء آمنًا من الفيضانات، يُفضل أن تتبع تحذيرات السلطات المحلية وتتخذ الإجراءات الضرورية </div>'  ;
+       
+       
+        } else if (userInput.includes('الأعاصير')
+          
+           || userInput.includes('اعصار')
+            || userInput.includes('إعصار')
+             || userInput.includes('الإعصار')
+             
+     || userInput.includes('الآعاصير')
+      || userInput.includes('الاعاصير')
+       || userInput.includes('ماهو الإعصار')
+        || userInput.includes('ماهو الاعصار')
+        || userInput.includes('ظاهرة الإعصار')
+        || userInput.includes('ظاهرة الآعاصير')
+        || userInput.includes('ظاهرة الأعاصير')
+        || userInput.includes('متى تحدث الأعاصير')
+        || userInput.includes('متى تحدث الاعاصير')
+        || userInput.includes('متى تحدث الآعاصير')
+       || userInput.includes('متى يحدث الإعصار')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/thehurricane.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الأعاصير هي عواصف هوائية دوارة حلزونية عنيفة، وتتشكل من مجموعة من العواصف الرعدية. تمثل أكبر أنواع العواصف المدارية أو الاستوائية. يُطلق على العاصفة اسم إعصار عندما تزيد سرعة الرياح عن 119 كم/الساعة. تحدث الأعاصير في فصل الصيف وفصل الخريف فوق البحار والمحيطات الاستوائية. تتحرك الأعاصير في خطوط منحنية أو خطوط مستقيمة، وتختلف اتجاه دورانها بين نصفي الكرة الأرضية³. للبقاء آمنًا من الأعاصير، يُفضل أن تتبع تحذيرات السلطات المحلية وتتخذ الإجراءات الوقائية  </div>'  ;
+       
+       
+       
+       
+        } else if (userInput.includes('العواصف')
+          
+           || userInput.includes('عواصف')
+            || userInput.includes('العاصفة')
+             || userInput.includes('عاصفة')
+             
+     || userInput.includes('ماهي العاصفة')
+      || userInput.includes('ماهي العواصف')
+       || userInput.includes('ظاهرة العواصف')
+        || userInput.includes('متى تحدث العواصف')
+       || userInput.includes('متى تحدث ظاهرة العواصف')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/storm.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">العواصف هي ظواهر جوية ترتبط بحركة سريعة للرياح وتحمل معها عادة إما المطر أو الثلوج أو الرمال. تتفاوت العواصف في حجمها وفي مدة استمرارها. يمكن تقسيمها إلى ثلاثة أنواع رئيسية العواصف الرعدية و العواصف الرملية و الأعاصير </div>'  ;
+       
+       
+       
+        } else if (userInput.includes('الرياح')
+          
+           || userInput.includes('الريح')
+            || userInput.includes('ريح')
+             || userInput.includes('رياح')
+             
+     || userInput.includes('ماهو الريح')
+      || userInput.includes('ماهي الرياح')
+ 
+       || userInput.includes('طاقة الرياح')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/storm.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الرياح هي حركة كميات كبيرة من الهواء. وعلى الرغم من أننا لا نستطيع أن نرى الهواء، إلا أننا نعلم أنه يتكون من جزيئات من أنواع مختلفة من الغازات، ومعظمه من النيتروجين والأكسجين. عندما تتحرك الكتل الهوائية من منطقة إلى أخرى، تحدث الرياح. تتأثر حركة الجزيئات الهوائية بحركة ودوران الأرض حول نفسها وحول الشمس، مما يؤدي إلى تشكل الرياح بسرعات واتجاهات متنوعة </div>'  ;
+       
+       
+       
+        } else if (userInput.includes('المطر')
+          
+           || userInput.includes('مطر')
+            || userInput.includes('أمطار')
+             || userInput.includes('الأمطار')
+             
+     || userInput.includes('متى ينزل المطر')
+
+       || userInput.includes('الامطار')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/rain.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">المطر هو تساقط الماء من السحابة إلى سطح الأرض في شكل قطرات صغيرة. يتكون المطر عندما يتجمع البخار المائي في السحب ويتكاثف ليشكل قطرات مائية ثقيلة تقع على الأرض. يعتبر المطر مصدرًا هامًا للمياه العذبة، حيث يمتصها الأرض وتتجمع في الجداول المائية والأنهار. تتأثر كمية المطر بعوامل مثل المناخ والمنطقة الجغرافية والتضاريس </div>'  ;
+       
+       
+       
+        } else if (userInput.includes('الثلج')
+          
+           || userInput.includes('الثلوج')
+            || userInput.includes('ثلج')
+             || userInput.includes('ماهو الثلج')
+              || userInput.includes('متى يتساقط الثلج')  
+
+       || userInput.includes('متى تسقط الثلوج')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/snow.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> الثلج هو شكل الماء في حالته الصلبة، ويتكون عندما ينخفض درجة حرارة الماء عن الصفر مئوية جزيئات الماء في الحالة السائلة تمتلك طاقة أكبر من جزيئات الثلج الصلبة، مما يجعلها تتحرك بسرعة أكبر. عندما ينخفض درجة حرارة الماء، تقل طاقة الجزيئات وتصبح حركتها أبطأ، وعندما تصل درجة حرارة الماء إلى الصفر مئوية تقريبًا، تلتصق الجزيئات معًا لتشكيل الثلج. يحتاج الثلج إلى نواة بلورية للتكون حولها، مثل الشوائب في الماء أو من وعاء الماء نفسه. تتأثر عملية تكوين الثلج بالعوامل المختلفة مثل محتوى الماء وكثافته والضغط وحركة الأيونات </div>'  ;
+       
+       
+       
+        } else if (userInput.includes('الشلالات')
+          
+           || userInput.includes('الشلال')
+            || userInput.includes('شلالات')
+             || userInput.includes('شلال')
+             
+     || userInput.includes('ماهو الشلال')
+      || userInput.includes('ماهي الشلالات')
+ || userInput.includes('أين تتواجد الشلالات')
+       || userInput.includes('أين توجد الشلالات')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/waterfall.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الشلالات هي مواقع طبيعية رائعة حيث يسقط الماء من مكان مرتفع على صخور صلبة أو رخوة. تتشكل الشلالات عندما يكون النهر في بدايته ويحدث التآكل ببطء، وتزيد سرعة المجرى المائي عند حافة الشلال. هناك العديد من الشلالات حول العالم مثل شلال أنجل آويان في فنزويلا و شلالات فيكتوريا في زامبيا وزيمبابوي و شلالات أوزود في المغرب و شلالات إجوازو في الأرجنتين والبرازيل </div>'  ;
+       
+       
+       
+       
+       
+        } else if (userInput.includes('جزيرة')
+          
+           || userInput.includes('الجزيرة')
+            || userInput.includes('ماهي الجزيرة')
+            
+       || userInput.includes('كيف تتشكل الجزيرة')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/island.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> تتشكل الجزر بأشكال مختلفة. بعضها ينشأ نتيجة الانفجارات البركانية في المحيط، حيث يتحرك الصفائح التكتونية وتحدث نشاطات بركانية. مثال على ذلك هو تشكل الجزر اليابانية يُعرف المحيط الهادئ بأنه أكبر مساحة من المياه على وجه الأرض، ويحتوي على العديد من الجزر المتنوعة. هذه الجزر تنقسم إلى ثلاث مجموعات رئيسية: ميلانيزيا  وميكرونيسيا وبولينيزيا </div>'   ;
+       
+       
+       
+         
+          } else if (userInput.includes('النهار')
+    || userInput.includes('ماهو النهار')
+       || userInput.includes('نهار')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/daylight.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> الليل والنهار كلمتان متضادتان، حيث يشير الليل دائمًا إلى الظلمة، بينما يرمز النهار إلى النور والضياء. تعتبر هذه الظاهرة من أبرز العجائب الطبيعية التي نشهدها يوميًا. فكيف يحدث تعاقب الليل والنهار دوران الأرض  الليل والنهار ناتجان عن دوران الأرض حول نفسها. يوجد محور وهمي يصل بين القطبين الشمالي والجنوبي للأرض، وعندما تدور الأرض حول هذا المحور، يكون النهار في الجهة المقابلة للشمس، بينما يكون الليل في الجهة الأخرى </div>'  ;
+ 
+       
+       
+         
+          } else if (userInput.includes('الليل')
+    
+          || userInput.includes('ماهو الليل')
+          
+       || userInput.includes('ليل')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/night.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الليل والنهار كلمتان متضادتان، حيث يشير الليل دائمًا إلى الظلمة، بينما يرمز النهار إلى النور والضياء. تعتبر هذه الظاهرة من أبرز العجائب الطبيعية التي نشهدها يوميًا. فكيف يحدث تعاقب الليل والنهار دوران الأرض  الليل والنهار ناتجان عن دوران الأرض حول نفسها. يوجد محور وهمي يصل بين القطبين الشمالي والجنوبي للأرض، وعندما تدور الأرض حول هذا المحور، يكون النهار في الجهة المقابلة للشمس، بينما يكون الليل في الجهة الأخرى </div>'  ;
+ 
+       
+       
+         
+          } else if (userInput.includes('شروق الشمس')
+      || userInput.includes('شروق')
+       || userInput.includes('ظاهرة الشروق')
+        || userInput.includes('ماهو الشروق')
+         || userInput.includes('ماهي ظاهرة شروق الشمس')
+       || userInput.includes('الشروق')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/sunrise.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">يحدث في الصباح عندما تظهر الشمس من وراء الأفق الشرقي تبقى الشمس في السماء وتزداد إشراقًا حتى تصل إلى أعلى نقطة في الظاهرة السماوية </div>'  ;
+ 
+       
+       
+         
+          } else if (userInput.includes('الغروب')
+    
+          
+          || userInput.includes('غروب')
+          
+          || userInput.includes('ظاهرة الغروب')
+          || userInput.includes('غروب الشمس')
+          
+          || userInput.includes('ماهو غروب الشمس')
+          
+          || userInput.includes('ماهو الغروب')
+          
+       || userInput.includes('ماهي ظاهرة غروب الشمس')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/sunset.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">يحدث في المساء عندما تختفي الشمس وتنزلق وراء الأفق الغربي تصبح السماء مظلمة تمامًا بعد غروب الشمس </div>'  ;
+ 
+       
+       
+       
+         
+          } else if (userInput.includes('أضواء الشفق القطبي')
+          
+           || userInput.includes('الشفق القطبي')
+            || userInput.includes('ظاهرة الشفق القطبي')
+            
+     || userInput.includes('ماهو الشفق القطبي')
+      || userInput.includes('ماهي ظاهرة الشفق القطبي')
+       || userInput.includes('شفق قطبي')
+    
+        
+       || userInput.includes('متى تحدث ظاهرة الشفق القطبي')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/aurora.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الشفق القطبي، المعروف أيضًا بأضواء الشمال أو الجنوب، هو ظاهرة طبيعية ساحرة تحدث قرب قطبي الأرض. يتكون هذا المنظر المذهل من تفاعل بين جسيمات شمسية مشحونة كهربائيًا وغلاف الجو الأرضي. تتنوع ألوان أضواء الشفق القطبي من الأخضر إلى الوردي والأزرق والبنفسجي، مما يجعلها تبهر الناظرين </div>'  ;
+ 
+       
+       
+         
+          } else if (userInput.includes('الفصول الأربعة')
+          
+          
+          || userInput.includes('ماهي فصول السنة الأربعة')
+          || userInput.includes('ماهي الفصول الأربعة')
+    || userInput.includes('ماهي فصول السنة')
+       || userInput.includes('فصول السنة الأربعة')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/seasons.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">في معظم الثقافات، بما في ذلك جميع البلدان الغربية، ينقسم العام عادة إلى أربعة مواسم وهي الربيع و الصيف و الخريفو الشتاء </div>'  ;
+ 
+       
+       
+       
+       
+
+
+          
   
      
     //----------------------------
