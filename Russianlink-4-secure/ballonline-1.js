@@ -9758,119 +9758,19 @@
        
 
             //  input to determine if it requires a picture
-if (userInput.includes('123') || userInput.includes('show me a picture')) {
+if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
     botMessage.innerHTML = '<img src="example.jpg" alt="The Aviator Botlink-0.1" width="50" height="50"> ها هي الصورة التي طلبتها!';
 
 
     
-           } else if (userInput.includes('سمك')
-          
-          
-         || userInput.includes('السمك')
-          || userInput.includes('أسماك')
-          || userInput.includes('سمكة')
-          || userInput.includes('الأسماك')
-          || userInput.includes('ماهو السمك')
-          || userInput.includes('ماهي الأسماك')
-          
-           || userInput.includes('أكتب أهم المعلومات حول السمك')
-                || userInput.includes('أكتب أهم المعلومات عن السمك')
-                
-                    || userInput.includes('أكتب المعلومات حول السمك')
-                || userInput.includes('أكتب المعلومات عن السمك')
-                
-          || userInput.includes('أكتب أهم المعلومات حول الأسماك')
-                || userInput.includes('أكتب أهم المعلومات عن الأسماك')
-                
-                    || userInput.includes('أكتب المعلومات حول الأسماك')
-                || userInput.includes('أكتب المعلومات عن الأسماك')
-    
-       || userInput.includes('ماهي فوائد تناول السمك')) {
-     
-     botMessage.innerHTML = '<img src="example.jpg" alt="The Aviator Botlink-0.1" width="50" height="50"> ها هي الصورة التي طلبتها!';
-    
+   
      
      
-       } else if (userInput.includes('التونة')
+
           
-          
-         || userInput.includes('تونة')
-          || userInput.includes('ماهي التونة')
-          || userInput.includes('أسماك التونة')
-          || userInput.includes('ماهي أسماك التونة')
-          || userInput.includes('ماهو سمك التونة')
-          || userInput.includes('أكتب معلومات حول سمك التونة')
-           || userInput.includes('أكتب معلومات عن سمك التونة')
-             || userInput.includes('أكتب أهم معلومات حول سمك التونة')
-           || userInput.includes('أكتب أهم معلومات عن سمك التونة')
-    
-             || userInput.includes('أكتب معلومات حول أسماك التونة')
-           || userInput.includes('أكتب معلومات عن أسماك التونة')
-             || userInput.includes('أكتب أهم معلومات حول أسماك التونة')
-           || userInput.includes('أكتب أهم معلومات عن أسماك التونة')
-           
-       || userInput.includes('أسماك تونة')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="riva123.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">التونة هي ؟؟؟؟؟؟؟؟ظ</div>'  ;
-     
-     
-     
-          
-          } else if (userInput.includes('سلمون')
-          
-          
-         || userInput.includes('أسماك السلمون')
-          || userInput.includes('سمك السلمون')
-          || userInput.includes('سمكة السلمون')
-          || userInput.includes('فوائد السلمون')
-          || userInput.includes('ماهو السلمون')
-          || userInput.includes('ماهي أسماك السلمون')
-           || userInput.includes('ماهو سمك السلمون')
-          || userInput.includes('أكتب معلومات حول السلمون')
-          || userInput.includes('أكتب معلومات حول سمك السلمون')
-          
-           || userInput.includes('أكتب معلومات عن السلمون')
-          || userInput.includes('أكتب معلومات عن سمك السلمون')
-       
-          
-    
-       || userInput.includes('سمكة سلمون')) {
-     
-       botMessage.innerHTML = '<div class="row"><img src="riva123.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">  يحتوي على الأوميغا-3 بكميات كبيرة، بالإضافة إلى الكالسيوم والفيتامين د</div>'  ;
- 
-       
-       
 
-          } else if (userInput.includes('سمكة القرش')
-
-
-         || userInput.includes('القرش')
-          || userInput.includes('القروش')
-          || userInput.includes('قرش')
-          || userInput.includes('قروش')
-          || userInput.includes('أسماك القرش')
-          || userInput.includes('ماهي سمكة القرش')
-             || userInput.includes('ماهو القرش')
-                || userInput.includes('أكتب أهم المعلومات حول أسماك القرش')
-                  || userInput.includes('أكتب أهم المعلومات حول  القرش')
-                    || userInput.includes('أكتب  المعلومات حول أسماك القرش')
-                      || userInput.includes('أكتب  المعلومات حول  القرش')
-                        || userInput.includes('أكتب أهم المعلومات حول  القروش')
-                          || userInput.includes('أكتب  المعلومات حول  القروش')
-
-            || userInput.includes('أكتب أهم المعلومات عن أسماك القرش')
-                  || userInput.includes('أكتب أهم المعلومات عن  القرش')
-                    || userInput.includes('أكتب  المعلومات حول عن القرش')
-                      || userInput.includes('أكتب  المعلومات عن  القرش')
-                        || userInput.includes('أكتب أهم المعلومات عن القروش')
-                          || userInput.includes('أكتب  المعلومات عن  القروش')
-
-       || userInput.includes('ماهي سمكة القرش')) {
-
-       botMessage.innerHTML = '<div class="row"><img src="riva123.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;display:non;">سمك القرش هو رتبة عليا من أسماك الخيشوم الغضروفية  يتميز سمك القرش بهيكل عظمي غضروفي، حيث يكون جسمه مكونًا من غضروف مرن بدلاً من العظام الصلبة يتنفس من خلال سلسلة من خمس إلى سبع فتحات خيشومية على جانبي جسمه سمك القرش يعيش في المحيطات ، ويعتبر مفترسًا علويًا في سلسلة الغذاء البحرية </div>'  ;
-
-
-
+      
 
 
      } else if (userInput.includes('الجدول الدوري للعناصر')|| userInput.includes('البترول')|| userInput.includes('الغازات')|| userInput.includes('الغاز')|| userInput.includes('الفضة')|| userInput.includes('الذهب')|| userInput.includes('الحديد')|| userInput.includes('اليورانيوم')|| userInput.includes('النحاس') || userInput.includes('المعادن')|| userInput.includes('الجدول الدوري') || userInput.includes('الذرة')|| userInput.includes('الطاقة النووية')|| userInput.includes('الصوت')|| userInput.includes('الذرات') || userInput.includes('علم الذرة')) {
@@ -12131,6 +12031,626 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
  
        
 
+
+
+ 
+       
+           } else if (userInput.includes('أنواع الأشجار')
+          
+          
+         || userInput.includes('الأشجار')
+          || userInput.includes('الاشجار')
+          || userInput.includes('الشجرة')
+          || userInput.includes('ماهي الأشجار')
+          || userInput.includes('ماهي الشجرة')
+          || userInput.includes('ماهي أنواع الأشجار')
+          
+          || userInput.includes('أكتب معلومات حول الأشجار')
+         || userInput.includes('أكتب معلومات عن الأشجار')
+          || userInput.includes('ماهي الاشجار')
+    
+       || userInput.includes('ماهي أنواع الاشجار')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/tree.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">هناك العديد من أنواع الأشجار المثيرة والمتنوعة في العالم مثل شجرة البرتقال ,شجرة الليمون ,شجرة البن ,شجرة الليمون البردقان ,  وهناك العديد من الأشجار الأخرى مثل الليمون والمانجو والشمام والمشمش والنكتارين والبابايا  </div>'  ;
+ 
+       
+       
+       
+       
+           
+          } else if (userInput.includes('الزهور')
+          
+          
+         || userInput.includes('زهرة')
+          || userInput.includes('زهور')
+          || userInput.includes('ورد')
+          || userInput.includes('الورود')
+          || userInput.includes('الورد')
+          || userInput.includes('ورود')
+          
+    || userInput.includes('ماهي الزهور')
+          || userInput.includes('ماهي الزهرة')
+          || userInput.includes('ماهي الورود')
+          
+          || userInput.includes('أكتب معلومات عن الزهور')
+          || userInput.includes('أكتب معلومات حول الزهور')
+          || userInput.includes('أكتب معلومات حول الورود')
+    
+    
+       || userInput.includes('ماهي الوردة')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/flowers.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الورد هو رمز للحب والجمال. يأتي بألوان متعددة، والورد الأبيض يرمز إلى النقاء والبراءة و يعتبر الياسمين من أجمل الزهور العطرية. يُستخدم في صناعة العطور وهذه أشهر أنواع الزهور زهرة الجاردينيا ,زهرة الفريزيا  ,زهرة العسلة , زهرة الليلك ,زهرة الفاوانيا  ,زهرة الكاميليا  ,زهرة اللافندر   </div>'  ;
+ 
+       
+       
+       
+           
+          } else if (userInput.includes('الألماس')
+          
+          
+         || userInput.includes('ألماس')
+         
+          || userInput.includes('ماهو الألماس')
+          || userInput.includes('ألماسة')
+          || userInput.includes('الماسة')
+          || userInput.includes('ماهي الألماسة')
+          || userInput.includes('ماهو الماس')
+          || userInput.includes('أكتب معلومات حول الألماس')
+          || userInput.includes('أكتب معلومات عن الألماس')
+        
+    
+       || userInput.includes('ماسة')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/diamond.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الألماس هو معدن نادر يتكون من الكربون الخالص يتميز الألماس بصلابته الفائقة يتكون الألماس من الكربون تحت ضغط عالٍ وحرارة مرتفعة في أعماق الكرة الأرضية يتميز بصفاته البصرية، حيث يكون شفافًا ويمر الضوء من خلاله و الألماس يستخدم في صناعة المجوهرات والأجهزة الإلكترونية </div>'  ;
+ 
+       
+       
+            
+          } else if (userInput.includes('حجر كريم')
+          
+          || userInput.includes('الأحجار الكريمة')
+           || userInput.includes('ماهي الأحجار الكريمة')
+            || userInput.includes('ماهو الحجر الكريم')
+
+          || userInput.includes('أكتب معلومات حول الأحجار الكريمة')
+          || userInput.includes('أكتب معلومات عن الأحجار الكريمة')
+
+        
+    
+       || userInput.includes('الحجر الكريم')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/diamond1.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">هذه أمثلة عن أشهر الأحجار الكريمة ومنها نذكر الياقوت الأزرق ,الزفير الوردي ,الفيروز الأزرق ,التورمالين الأزرق ,التنزانيت  </div> '  ;
+       
+       
+        
+          } else if (userInput.includes('تنين الكومودو')
+          
+          
+         || userInput.includes('تنين كومودو')
+          || userInput.includes('حيوان تنين الكومودو')
+          || userInput.includes('ماهو تنين الكومودو')
+          || userInput.includes('أين يعيش تنين الكومودو')
+          || userInput.includes('أكتب معلومات حول تنين الكومودو')
+       
+    
+       || userInput.includes('أكتب معلومات عن تنين الكومودو')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/komodo.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">تنين الكومودو هو نوع من السحالي الكبيرة يُعتبر أحد أكبر الزواحف المفترسة على وجه الأرض يمكن أن يصل طول تنين الكومودو إلى حوالي 3 أمتار يتميز بجلده الخشن والدائم، ويكون مقوى بألواح عظمية لديه مخالب طويلة وذيل عضلي كبير يصطاد تنين الكومودو فرائسه بنصب كمائن، وتشمل الطائفة الواسعة من اللافقاريات والطيور والثدييات </div>'  ;
+ 
+       
+       
+       
+           
+          } else if (userInput.includes('الحرباء')
+          
+          
+         || userInput.includes('حرباء')
+          || userInput.includes('حيوان الحرباء')
+          || userInput.includes('ماهي الحرباء')
+          || userInput.includes('ماهو حيوان الحرباء')
+          || userInput.includes('أكتب معلومات حول الحرباء')
+          || userInput.includes('أكتب معلومات عن الحرباء')
+    
+       || userInput.includes('ماهي حرباء')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/chameleon.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الحرباء هي نوع من الزواحف تنتمي إلى عائلة الحرباء ويوجد منها 160 نوعًا تتميز الحرباء بقدرتها على تغيير لون جسدها في مدة زمنية قصيرة جدًا، تقدر بعشرين إلى ثلاثين ثانية ، وذلك عن طريق بعض الخلايا الصبغية الخاصة المنتشرة في طبقات ثلاث تحت جلدها الخارجي الشفاف يُعتقد أن هذه القدرة تساعدها في الاختباء والتواصل. تتغذى الحرباء بشكل أساسي على الحشرات، باستخدام ألسنتها الطويلة والملتصقة لصيد الفريسة. تعيش في موائل متنوعة تتراوح من الغابات المطيرة إلى الصحارى </div>'  ;
+ 
+       
+       
+       
+           
+          } else if (userInput.includes('البقرة')
+          
+          
+         || userInput.includes('بقرة')
+          || userInput.includes('الأبقار')
+          || userInput.includes('أبقار')
+          || userInput.includes('الابقار')
+          || userInput.includes('ابقار')
+          || userInput.includes('ماهي الأبقار')
+           || userInput.includes('ماهي البقرة')
+            || userInput.includes('أكتب معلومات حول البقرة')
+               || userInput.includes('أكتب معلومات عن البقرة')
+               || userInput.includes('أكتب معلومات حول الأبقار')
+      || userInput.includes('أكتب معلومات عن الأبقار')
+       || userInput.includes('ماهي بقرة')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/cow.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">البقرة والثور ينتميان إلى نفس العائلة الحيوانية، وهي عائلة البوفينا. البقرة هي الأنثى، في حين أن الثور هو الذكر. ببساطة، يُعرف البقرة الذكر باسم الثور. البقرة هي حيوان كبير يُربى للحصول على اللحم والحليب في المزارع³. أما الثور، فيُخصّب ويُستخدم في أعمال الجر والأغراض الزراعية. يُعتبر الثور قويًا وقادرًا على التحمل، مما يجعله مناسبًا للأعمال الشاقة مثل الحرث وسحب العربات </div>'  ;
+ 
+       
+       
+       
+           
+          } else if (userInput.includes('الثور')
+          
+          
+         || userInput.includes('ثور')
+           || userInput.includes('الثيران')
+          || userInput.includes('حيوان الثور')
+          || userInput.includes('ماهو الثور')
+          || userInput.includes('ماهو حيوان الثور')
+          || userInput.includes('أكتب معلومات حول الثور')
+         || userInput.includes('أكتب معلومات عن الثور')
+        
+    
+       || userInput.includes('حيوان ثور')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/bull.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">البقرة والثور ينتميان إلى نفس العائلة الحيوانية، وهي عائلة البوفينا. البقرة هي الأنثى، في حين أن الثور هو الذكر. ببساطة، يُعرف البقرة الذكر باسم الثور. البقرة هي حيوان كبير يُربى للحصول على اللحم والحليب في المزارع³. أما الثور، فيُخصّب ويُستخدم في أعمال الجر والأغراض الزراعية. يُعتبر الثور قويًا وقادرًا على التحمل، مما يجعله مناسبًا للأعمال الشاقة مثل الحرث وسحب العربات </div>'  ;
+ 
+       
+       
+       
+       
+       
+           
+          } else if (userInput.includes('حيوان القرد')
+          
+          
+         || userInput.includes('القرد')
+          || userInput.includes('القرود')
+          || userInput.includes('ماهو القرد')
+          || userInput.includes('القردة')
+          || userInput.includes('ماهي القردة')
+          || userInput.includes('ماهي القرود')
+     || userInput.includes('قرد')
+      || userInput.includes('قردة')
+       || userInput.includes('قرود')
+        || userInput.includes('أكتب معلومات حول القرود')
+        || userInput.includes('أكتب معلومات عن القرود')
+         || userInput.includes('أكتب معلومات حول القردة')
+          || userInput.includes('أكتب معلومات عن القردة')
+          
+       || userInput.includes('حيوان قرد')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/monkey.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> القرود هي كائنات حية تنتمي لفصيلة الحيوانات الرئيسية ذات الذيل تتميز بهيكلها العظمي الضيق في الصدر والوجه القصير والمسطح تعيش القرود في الغابات الاستوائية، وتتنقل من مكان لآخر للبحث عن الطعام ، وتعيش في الغابات الاستوائية في آسيا وإفريقيا وأمريكا الوسطى والجنوبية </div>'  ;
+ 
+       
+       
+       
+       
+       
+           
+          } else if (userInput.includes('حيوان السنجاب')
+          
+          
+         || userInput.includes('السنجاب')
+          || userInput.includes('السناجب')
+          || userInput.includes('سنجاب')
+          || userInput.includes('سناجب')
+          || userInput.includes('حيوان السنجاب')
+          || userInput.includes('ماهو السنجاب')
+            || userInput.includes('ماهو حيوان السنجاب')
+          || userInput.includes('أكتب معلومات حول السنجاب')
+               || userInput.includes('أكتب معلومات عن السنجاب')
+          || userInput.includes('أكتب معلومات حول السناجب')
+            || userInput.includes('أكتب معلومات عن السناجب')
+
+    
+       || userInput.includes('حيوان سنجاب')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/squirrel.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">هو حيوان من القوارض ينتمي إلى فصيلة السنجابيات أجسامهم رفيعة، ويمتلكون أطرافًا خلفية أطول من الأمامية بعضهم يجمع المكسرات والجوز ويخزنها لفصل الشتاء داخل الأشجار أو في الأرض تتواجد السناجيب في قارة آسيا وأوروبا يتغذون على الجوز والبندق والبلوط والفواكه </div>'  ;
+ 
+       
+       
+          } else if (userInput.includes('الثعبان')
+          
+          
+         || userInput.includes('ثعبان')
+          || userInput.includes('الثعابن')
+          || userInput.includes('ثعابن')
+          || userInput.includes('الأفعى')
+          || userInput.includes('الآفعى')
+          || userInput.includes('الآفاعي')
+             
+         || userInput.includes('ماهو الثعبان')
+          || userInput.includes('ماهي الأفعى')
+          || userInput.includes('ماهي الثعابن')
+          || userInput.includes('أكتب معلومات حول الثعبان')
+          || userInput.includes('أكتب معلومات عن الثعابن')
+          || userInput.includes('أكتب معلومات حول الثعابن')
+             
+         || userInput.includes('أكتب معلومات عن الثعبان')
+       
+    
+       || userInput.includes('حيوان الثعبان')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/snake.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الثعبان هو حيوان زاحف من ذوات الدم البارد له جسم متطاول، مغطى بحراشف ، وجفون ولكن ثمة حواف في جسمه، يعتقد أنها كانت تمثل أطرافه التي تلاشت. الثعابين تنزلق على بطنها عادة للحركة على الأرض يوجد حوالي 2700 نوع من الثعابين على الأرض يتراوح طول الثعابين من 10 سم للأنواع الصغيرة إلى عدة أمتار للأنواع الكبيرة مثل الأصلة والأناكوندا. معظم الثعابين غير سامة</div>'  ;
+ 
+       
+       
+       
+          } else if (userInput.includes('الفأر')
+          
+          
+         || userInput.includes('الفئران')
+          || userInput.includes('فأر')
+          || userInput.includes('فئران')
+          || userInput.includes('حيوان الفأر')
+          || userInput.includes('ماهو الفأر')
+          || userInput.includes('ماهي الفئران')
+            || userInput.includes('الجرذ')
+          || userInput.includes('الجرذان')
+            || userInput.includes('جرذ')
+          || userInput.includes('جرذان')
+          
+            || userInput.includes('أكتب معلومات حول الفأر')
+          || userInput.includes('أكتب معلومات حول الفئران')
+          
+           
+             || userInput.includes('أكتب معلومات عن الفأر')
+          || userInput.includes('أكتب معلومات عن الفئران')
+     
+          
+          || userInput.includes('أكتب معلومات حول الفئران')
+       || userInput.includes('ماهي الجرذان')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/mouse.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الفأر هو حيوان ثديي صغير ينتمي إلى النظام من القوارض لديه خطم مدبب مميز، آذان صغيرة مدورة، وذيل طويل وتمتلك حاسة شم متطورة تساعدها في البحث عن الغذاء </div>'  ;
+ 
+       
+       
+       
+          } else if (userInput.includes('السلحفاة')
+          
+          
+         || userInput.includes('سلحفاة')
+          || userInput.includes('سلاحف')
+          || userInput.includes('السلاحف')
+          || userInput.includes('حيوان السلحفاة')
+          || userInput.includes('ماهي السلحفاة')
+          || userInput.includes('ماهو حيوان السلحفاة')
+    
+            || userInput.includes('ماهي السلاحف')
+          || userInput.includes('أكتب معلومات حول السلاحف')
+          || userInput.includes('أكتب معلومات حول السلحفاة')
+               || userInput.includes('أكتب معلومات عن السلاحف')
+          || userInput.includes('أكتب معلومات عن السلحفاة')
+      
+         
+    
+       || userInput.includes('حيوان سلحفاة')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/turtle.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">السلحفاة هي طائفة من الزواحف تتميز بترس عظمي ينمو من أضلاعها تعيش السلاحف في جميع قارات العالم باستثناء القارة القطبية الجنوبية يُربِّي البشر عدة أنواع من السلاحف للزينة والاستئناس </div>'  ;
+ 
+       
+           
+          } else if (userInput.includes('ماهو السلطعون')
+          
+          
+         || userInput.includes('السلطعون')
+          || userInput.includes('ماهو السلطعون')
+          || userInput.includes('حيوان السلطعون')
+          || userInput.includes('ماهو حيوان السلطعون')
+          || userInput.includes('أكتب معلومات حول السلطعون')
+          || userInput.includes('أكتب معلومات عن السلطعون')
+          
+      
+       || userInput.includes('سلطعون')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/crab.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">السلطعون هو كائن بحري ينتمي إلى القشريات، وهو معروف بأقدامه العشرة وذيله القصير. يتميز بهيكل صلب خارجي يغطي جسمه، ولديه قدمين على شكل كماشات. يعيش السلطعون في المحيطات والبحار، ويتغذى على الحيوانات والأسماك والنباتات. يمتلك حاسة شم قوية تساعده على العثور على الطعام والفرائس. هناك أنواع متعددة من السلطعون، بما في ذلك سلطعون الطين وسلطعون البحر الناسك والسرطان الياباني </div>'  ;
+ 
+       
+       
+       
+       
+       
+           
+          } else if (userInput.includes('حصان البحر')
+          
+          
+         || userInput.includes('ماهو حصان البحر')
+          || userInput.includes('أكتب معلومات حول حصان البحر')
+          || userInput.includes('أكتب معلومات عن حصان البحر')
+          || userInput.includes('ماذا تعرف عن حصان البحر')
+        || userInput.includes('أحصنة البحار')
+    
+       || userInput.includes('أحصنة البحر')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/seahorse.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">حصان البحر، المعروف أيضًا باسم فرس البحر، هو جنس من الأسماك الصغيرة التي تعيش في المياه الاستوائية والمتوسطة الضحلة. يتميز حصان البحر برأسه الطويل الذي يشبه رأس الحصان، وذيله الذي يلتف حول الأعشاب البحرية أو الشعاب المرجانية¹. إليك بعض المعلومات الإضافية: يتراوح طول حصان البحر من 1.5 سم إلى 30 سم، ويزن من 2 جرام إلى 30 جرامًا يفضل حصان البحر العيش في المناطق المحمية من البحار، مثل أرياف حشائش البحر والشعاب المرجانية يعيش الذكر في متر مربع واحد فقط من منطقته، بينما تتوزع الإناث على مدى أكبر منه بمائة مرة تقريبًا </div>'  ;
+ 
+       
+       
+       
+       
+       
+           
+          } else if (userInput.includes('حيوان الفقمة')
+          
+          
+         || userInput.includes('فقمة')
+          || userInput.includes('الفقمة')
+          || userInput.includes('ماهي الفقمة')
+          || userInput.includes('أكتب معلومات حول الفقمة')
+          || userInput.includes('أكتب معلومات حول حيوان الفقمة')
+          || userInput.includes('أكتب معلومات عن الفقمة')
+    
+       || userInput.includes('أكتب معلومات عن حيوان الفقمة')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/seal.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> حيوان الفقمة، المعروف أيضًا باسم أسد البحر، يعد من الكائنات البحرية المميزة - يصل وزن الذكور إلى حوالي 3855 كيلوغرامًا، بينما يبلغ وزن الإناث حوالي 907 كيلوغرام. يصل طول الذكور إلى حوالي 6 أمتار، بينما يصل طول الإناث إلى 3 أمتار تعيش الفقمة في المياه الباردة والمعتدلة، وتوجد بكثرة في المناطق القطبية مثل القطب الشمالي والجنوبي.</div>'  ;
+ 
+       
+       
+       
+       
+       
+           
+          } else if (userInput.includes('البطريق')
+          
+          
+         || userInput.includes('بطريق')
+          || userInput.includes('حيوان البطريق')
+          || userInput.includes('البطاريقبطاريق')
+          || userInput.includes('ماهو البطريق')
+          || userInput.includes('ماهو حيوان البطريق')
+          || userInput.includes('أكتب أهم معلومات حول البطريق')
+             || userInput.includes('أكتب  معلومات حول البطريق')
+     || userInput.includes('أكتب معلومات عن البطاريق')
+       || userInput.includes('أكتب معلومات عن البطريق')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/penguin.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">حسنًا! حيوان البطريق هو من الطيور المائية التي لا تطير. ينتمي إلى عائلة البطريقيات ويعيش في نصف الكرة الجنوبي. هناك قليل من طيور البطريق التي تعيش في المناطق المعتدلة، ونوع واحد فقط يعيش في منطقة خط الاستواء، وهو ما يعرف ببطريق غالاباغوس. يزن حيوان البطريق ما بين 1.5 كيلو وحتى 14 كيلو، ويبلغ طوله ما بين 43 سم إلى 122 سم. أما بالنسبة للعمر، فيعيش البطريق من 6 إلى 30 عامًا. يعيش حيوان البطريق في الماء ويستخدم أجنحته للغوص وصيد الأسماك والمأكولات البحرية الأخرى. إنه الطائر الوحيد الذي يتجول على الأرض ويغوص تحت الماء</div>'  ;
+ 
+       
+       
+       
+       
+       
+       
+           
+          } else if (userInput.includes('سمك الأنقليس')
+          
+          
+         || userInput.includes('سمكة الأنقليس')
+          || userInput.includes('ماهي سمك الأنقليس')
+          || userInput.includes('أكتب معلومات حول سمكة الأنقليس')
+          || userInput.includes('أكتب معلومات عن سمكة الأنقليس')
+       
+       || userInput.includes('أسماك الأنقليس')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/eel.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">سمك الحنكليس الكهربائي  هو سمك طويل ورفيع يمكنه إحداث تفريغ كهربائي قوي ويُعتبر واحدًا من أقوى الكائنات القادرة على توليد تيار كهربائي يستخدم تفريغه الكهربائي للكشف عن الأشياء تحت الماء ولشل حركة فرائسته وهو يعيش في الأنهار الطينية مثل نهري الأمازون والأورينوكو يولّد تفريغات كهربائية قوية تصل إلى 600 فولت ويتغذى على البرمائيات والأسماك الصغيرة </div>'  ;
+ 
+       
+       
+       
+       
+       
+          } else if (userInput.includes('الحوت الأزرق')
+          
+          
+         || userInput.includes('الحيتان الزرقاء')
+          || userInput.includes('ماهو الحوت الأزرق')
+          || userInput.includes('حوت أزرق')
+          || userInput.includes('ماهي الحيتان الزرقاء')
+          || userInput.includes('أكتب أهم المعلومات حول الحوت الأزرق')
+          || userInput.includes('أكتب معلومات حول الحيتان الزرقاء')
+          
+          || userInput.includes('أكتب معلومات عن الحوت الازرق')
+          || userInput.includes('أكتب معلومات عن الحيتان الزرقاء')
+       
+     || userInput.includes('حيتان زرقاء')
+       || userInput.includes('حوت أزرق')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/whale.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الحوت الأزرق هو أكبر حيوان على كوكب الأرض بطول 34 مترًا ما يعادل ,100 قدمًا, وبوزن يزيد عن 150,000 كيلوجرامًا. يُعد الحوت الأزرق أكبر الحيوانات المعروفة على الإطلاق²³. جسمه طويل ونحيل، ملوّن بعدة ألوان متدرجة، رمادي مزرق على الظهر وأفتح لونًا في الجانب السفلي. يتراوح عمره بين 35 و80 عامًا، ويقطع مسافات طويلة تصل إلى آلاف الكيلومترات في سبيل البحث عن الطعام والدفء </div>'  ;
+ 
+       
+       
+       
+       
+       
+          } else if (userInput.includes('الأخطبوط')
+          
+          
+         || userInput.includes('أخطبوت')
+          || userInput.includes('الأخطوبوتات')
+          || userInput.includes('حيوان الأخطبوت')
+          || userInput.includes('ماهو حيوان الأخطبوت')
+          || userInput.includes('ماهو الأخطبوت')
+          || userInput.includes('أكتب أهم المعلومات حول الأخطبوت')
+           || userInput.includes('أكتب معلومات حول الأخطبوت')
+            || userInput.includes('أكتب معلومات عن الأخطبوت')
+    
+       || userInput.includes('ماهي الأخطبوتات')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/octopus.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">أخطبوط هو كائن بحري يعيش في المحيطات والبحار. يتميز بثمانية أذرع، رؤوس بصلية الشكل، وثلاثة قلوب </div>'  ;
+ 
+       
+       
+       
+       
+       
+          } else if (userInput.includes('الدولفين')
+          
+          
+         || userInput.includes('الدلافين')
+          || userInput.includes('دلافين')
+          || userInput.includes('دولفين')
+          || userInput.includes('حيوان الدولفين')
+          || userInput.includes('ماهو الدولفين')
+          || userInput.includes('أكتب أهم المعلومات حول الدلافين')
+             || userInput.includes('أكتب أهم المعلومات عن الدلافين')
+             
+              || userInput.includes('أكتب أهم المعلومات حول الدولفين')
+             || userInput.includes('أكتب أهم المعلومات عن الدولفين')
+         
+    
+       || userInput.includes('ماهي الدلافين')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/dolphin.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">الدولفين هو كائن بحري مذهل ينتمي إلى عائلة الحيتان ذات الأسنان هناك أكثر من 40 نوعًا من الدلافين ومعظمها لونه رمادي الدلافين من الحيوانات البحرية الودودة وذكاؤها مذهل. تستخدم الصفير للتواصل مع بعضها </div>'  ;
+ 
+       
+       
+       
+       
+       
+          } else if (userInput.includes('سمكة القرش')
+          
+          
+         || userInput.includes('القرش')
+          || userInput.includes('القروش')
+          || userInput.includes('قرش')
+          || userInput.includes('قروش')
+          || userInput.includes('أسماك القرش')
+          || userInput.includes('ماهي سمكة القرش')
+             || userInput.includes('ماهو القرش')
+                || userInput.includes('أكتب أهم المعلومات حول أسماك القرش')
+                  || userInput.includes('أكتب أهم المعلومات حول  القرش')
+                    || userInput.includes('أكتب  المعلومات حول أسماك القرش')
+                      || userInput.includes('أكتب  المعلومات حول  القرش')
+                        || userInput.includes('أكتب أهم المعلومات حول  القروش')
+                          || userInput.includes('أكتب  المعلومات حول  القروش')
+    
+            || userInput.includes('أكتب أهم المعلومات عن أسماك القرش')
+                  || userInput.includes('أكتب أهم المعلومات عن  القرش')
+                    || userInput.includes('أكتب  المعلومات حول عن القرش')
+                      || userInput.includes('أكتب  المعلومات عن  القرش')
+                        || userInput.includes('أكتب أهم المعلومات عن القروش')
+                          || userInput.includes('أكتب  المعلومات عن  القروش')               
+                          
+       || userInput.includes('القرش')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/sharks.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">سمك القرش هو رتبة عليا من أسماك الخيشوم الغضروفية  يتميز سمك القرش بهيكل عظمي غضروفي، حيث يكون جسمه مكونًا من غضروف مرن بدلاً من العظام الصلبة يتنفس من خلال سلسلة من خمس إلى سبع فتحات خيشومية على جانبي جسمه سمك القرش يعيش في المحيطات ، ويعتبر مفترسًا علويًا في سلسلة الغذاء البحرية </div>'  ;
+ 
+       
+       
+       
+       
+       
+          } else if (userInput.includes('سلمون')
+          
+          
+         || userInput.includes('أسماك السلمون')
+          || userInput.includes('سمك السلمون')
+          || userInput.includes('سمكة السلمون')
+          || userInput.includes('فوائد السلمون')
+          || userInput.includes('ماهو السلمون')
+          || userInput.includes('ماهي أسماك السلمون')
+           || userInput.includes('ماهو سمك السلمون')
+          || userInput.includes('أكتب معلومات حول السلمون')
+          || userInput.includes('أكتب معلومات حول سمك السلمون')
+          
+           || userInput.includes('أكتب معلومات عن السلمون')
+          || userInput.includes('أكتب معلومات عن سمك السلمون')
+       
+          
+    
+       || userInput.includes('سمكة سلمون')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/salmon.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">يحتوي على الأوميغا-3 بكميات كبيرة، بالإضافة إلى الكالسيوم والفيتامين د </div>'  ;
+ 
+       
+       
+       
+       
+       
+          } else if (userInput.includes('سمك السردين')
+          
+          
+         || userInput.includes('أسماك السردين')
+          || userInput.includes('السردين')
+          || userInput.includes('سردين')
+          || userInput.includes('ماهو السردين')
+          || userInput.includes('ماهو سمك السردين')
+          || userInput.includes('ماهي أسماك السردين')
+          
+               
+         || userInput.includes('أكتب أهم المعلومات حول سمك السردين')
+           || userInput.includes('أكتب أهم المعلومات عن سمك السردين')
+           
+            || userInput.includes('أكتب المعلومات حول سمك السردين')
+           || userInput.includes('أكتب المعلومات عن سمك السردين')
+           
+               || userInput.includes('أكتب أهم المعلومات حول السردين')
+           || userInput.includes('أكتب أهم المعلومات عن السردين')
+           
+            || userInput.includes('أكتب المعلومات حول السردين')
+           || userInput.includes('أكتب المعلومات عن السردين')
+           
+       
+    
+       || userInput.includes('سمك سردين')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/sardines.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> السمك غني بالفيتامينات والمعادن، ويمكن تناوله بالكامل، بما في ذلك العظام والجلد </div>'  ;
+ 
+       
+       
+       
+       
+       
+       
+          } else if (userInput.includes('سمك')
+          
+          
+         || userInput.includes('السمك')
+          || userInput.includes('أسماك')
+          || userInput.includes('سمكة')
+          || userInput.includes('الأسماك')
+          || userInput.includes('ماهو السمك')
+          || userInput.includes('ماهي الأسماك')
+          
+           || userInput.includes('أكتب أهم المعلومات حول السمك')
+                || userInput.includes('أكتب أهم المعلومات عن السمك')
+                
+                    || userInput.includes('أكتب المعلومات حول السمك')
+                || userInput.includes('أكتب المعلومات عن السمك')
+                
+          || userInput.includes('أكتب أهم المعلومات حول الأسماك')
+                || userInput.includes('أكتب أهم المعلومات عن الأسماك')
+                
+                    || userInput.includes('أكتب المعلومات حول الأسماك')
+                || userInput.includes('أكتب المعلومات عن الأسماك')
+    
+       || userInput.includes('ماهي فوائد تناول السمك')) {
+     
+       botMessage.innerHTML = '<img src="imagerussia/fish.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> السمك غني بالفيتامينات والمعادن، ويمكن تناوله بالكامل، بما في ذلك العظام والجلد </div>'  ;
+ 
+       
+       
+       
+       
+       
+          } else if (userInput.includes('التونة')
+          
+          
+         || userInput.includes('تونة')
+          || userInput.includes('ماهي التونة')
+          || userInput.includes('أسماك التونة')
+          || userInput.includes('ماهي أسماك التونة')
+          || userInput.includes('ماهو سمك التونة')
+          || userInput.includes('أكتب معلومات حول سمك التونة')
+           || userInput.includes('أكتب معلومات عن سمك التونة')
+             || userInput.includes('أكتب أهم معلومات حول سمك التونة')
+           || userInput.includes('أكتب أهم معلومات عن سمك التونة')
+    
+             || userInput.includes('أكتب معلومات حول أسماك التونة')
+           || userInput.includes('أكتب معلومات عن أسماك التونة')
+             || userInput.includes('أكتب أهم معلومات حول أسماك التونة')
+           || userInput.includes('أكتب أهم معلومات عن أسماك التونة')
+           
+       || userInput.includes('أسماك تونة')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/tuna.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">سمك التونة قليل السعرات الحرارية وغني بالبروتين والفيتامينات، لكن ينصح بعدم تناوله بكثرة </div>'  ;
+ 
+       
+       
+  
 
           
   
