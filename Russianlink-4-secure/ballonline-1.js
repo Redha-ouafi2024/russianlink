@@ -12077,6 +12077,58 @@ if (userInput.includes('123') || userInput.includes('show me a picture')) {
        
        
        
+
+  
+       
+           } else if (userInput.includes('radio japan')
+          
+          
+          || userInput.includes('japan radio')
+          || userInput.includes('راديو اليابان')
+    || userInput.includes('الراديو الياباني')
+    || userInput.includes('اذاعة اليابان')
+       || userInput.includes('إذاعة اليابان')) {
+     
+       botMessage.innerHTML = '<div class="row"><audio controls alt="audio/mp3"class="music-player" style="width:200px;"><source src = "https://kathy.torontocast.com/kawaii" type = "audio/mp3"></audio>Radio Japan </div>'  ;
+ 
+       
+       
+       
+              
+     
+        
+         } else if (userInput.includes('radio russia')
+          
+          
+          || userInput.includes('russia radio')
+          || userInput.includes('راديو روسيا')
+    || userInput.includes('الراديو الروسي')
+    || userInput.includes('اذاعة روسيا')
+       || userInput.includes('إذاعة روسيا')) {
+     
+       botMessage.innerHTML = '<div class="row"><audio controls alt="audio/mp3"class="music-player" style="width:200px;"><source src = "https://listen.rusongs.ru/ru-aac-48" type = "audio/mp3"></audio>Radio Russia </div>'  ;
+ 
+       
+       
+       
+       
+           } else if (userInput.includes('radio usa')
+          
+          
+          || userInput.includes('usa radio')
+           || userInput.includes('america radio')
+            || userInput.includes('radio america')
+          || userInput.includes('راديو امريكا')
+    || userInput.includes('الراديو الامريكي')
+    || userInput.includes('اذاعة امريكا')
+     || userInput.includes('راديو امريكا')
+    || userInput.includes('الراديو الامريكي')
+    || userInput.includes('اذاعة امريكا')
+      || userInput.includes('إذاعة امريكا')
+       || userInput.includes('إذاعة أمريكا')) {
+     
+       botMessage.innerHTML = '<div class="row"><audio controls alt="audio/mp3"class="music-player" style="width:200px;"><source src = "https://live.miamiglobalradio.com/radio/8000/radio.mp3" type = "audio/mp3"></audio>Radio usa </div>'  ;
+ 
        
 
 
