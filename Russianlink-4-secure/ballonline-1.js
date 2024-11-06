@@ -24306,6 +24306,1751 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
 
 
 
+      
+      
+      
+       
+          } else if (userInput.includes('الحرب العالمية الأولى')
+        
+          || userInput.includes('حرب عالمية أولى')
+          || userInput.includes('الحرب العالمية')
+           || userInput.includes('الحرب العالمية 1')
+          
+                      
+         
+          || userInput.includes('أكتب أهم المعلومات حول الحرب العالمية الأولى')
+          || userInput.includes('أكتب معلومات حول الحرب العالمية الأولى')
+          
+          || userInput.includes('أكتب أهم معلومات عن الحرب العالمية الأولى')
+          || userInput.includes('أكتب معلومات عن الحرب العالمية الأولى')
+          
+          
+          
+              
+          || userInput.includes('متى بدأت الحرب العالمية الأولى')
+        
+            || userInput.includes('أخبرني ماذا تعرف حول الحرب العالمية الأولى')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الحرب العالمية الأولى')
+       
+      
+           
+          || userInput.includes('ماهي الحرب العالمية الأولى')
+          
+         || userInput.includes('ماهي الحرب العالمية الأولى')
+          
+            
+    
+       || userInput.includes('متى بدأت الحرب العالمية')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/warworld1.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">  </div>'  ;
+ 
+      
+      
+      
+      
+      
+      
+      
+      
+       
+          } else if (userInput.includes('الحرب العالمية الثانية')
+        
+          || userInput.includes('حرب عالمية ثانية')
+       
+                      
+         
+          || userInput.includes('أكتب أهم المعلومات حول الحرب العالمية الثانية')
+          || userInput.includes('أكتب معلومات حول الحرب العالمية الثانية')
+          
+          || userInput.includes('أكتب أهم معلومات عن الحرب العالمية الثانية')
+          || userInput.includes('أكتب معلومات عن الحرب العالمية الثانية')
+          
+          
+          
+        
+            || userInput.includes('أخبرني ماذا تعرف حول الحرب العالمية الثانية')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الحرب العالمية الثانية')
+         
+      
+           
+          || userInput.includes('ماهي الحرب العالمية الثانية')
+          
+           
+       
+          
+            
+    
+       || userInput.includes('متى بدأت الحرب العالمية الثانية')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/warworld2.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"></div>'  ;
+ 
+      
+      
+       
+       
+       
+       
+          } else if (userInput.includes('الحرب الباردة')
+        
+          || userInput.includes('حرب باردة')
+          || userInput.includes('حرب الباردة')
+          
+                      
+         
+          || userInput.includes('أكتب أهم المعلومات حول الحرب الباردة')
+          || userInput.includes('أكتب معلومات حول الحرب الباردة')
+          
+          || userInput.includes('أكتب أهم معلومات عن الحرب الباردة')
+          || userInput.includes('أكتب معلومات عن الحرب الباردة')
+          
+          
+          
+              
+         
+            || userInput.includes('أخبرني ماذا تعرف حول الحرب الباردة')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الحرب الباردة')
+            || userInput.includes('أخبرني ماذا تعرف عن الحرب الباردة')
+      
+           
+          || userInput.includes('ماهي الحرب الباردة')
+          
+     
+          
+            
+    
+       || userInput.includes('متى بدأت الحرب الباردة')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/couldwar.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> </div>'  ;
+     
+     
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+      
+       
+          } else if (userInput.includes('الثورة الصناعية')
+        
+          || userInput.includes('ثورة صناعية')
+         
+     
+         
+          || userInput.includes('أكتب أهم المعلومات حول الثورة الصناعية')
+          || userInput.includes('أكتب معلومات حول الثورة الصناعية')
+          
+          || userInput.includes('أكتب أهم معلومات عن الثورة الصناعية')
+          || userInput.includes('أكتب معلومات عن الثورة الصناعية')
+          
+          
+              
+        
+            || userInput.includes('أخبرني ماذا تعرف حول الثورة الصناعية')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الثورة الصناعية')
+           
+           
+          || userInput.includes('ماهي الثورة الصناعية')
+          
+     
+            
+    
+       || userInput.includes('متى بدأت الثورة الصناعية')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/indestrial.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">  النعامة هي أكبر طائر في العالم، وتشتهر بحجمها الكبير وسرعتها وقدرتها الفائقة على العدو.    </div>'  ;
+ 
+        
+       
+       
+       
+      
+      
+       
+       
+          } else if (userInput.includes('النهضة الأوروبية')
+        
+          || userInput.includes('نهضة أوروبية')
+         
+          
+                      
+         
+          || userInput.includes('أكتب أهم المعلومات حول النهضة الأوروبية')
+          || userInput.includes('أكتب معلومات حول النهضة الأوروبية')
+          
+          || userInput.includes('أكتب أهم معلومات عن النهضة الأوروبية')
+          || userInput.includes('أكتب معلومات عن النهضة الأوروبية')
+          
+          
+          
+              
+         
+            || userInput.includes('أخبرني ماذا تعرف حول النهضة الأوروبية')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن النهضة الأوروبية')
+            || userInput.includes('أخبرني ماذا تعرف عن النهضة الأوروبية')
+      
+           
+          || userInput.includes('ماهي النهضة الأوروبية')
+          
+     
+          
+            
+    
+       || userInput.includes('متى بدأت النهضة الأوروبية')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/eurorise.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> </div>'  ;
+     
+     
+       
+       
+       
+       
+     
+       
+       
+          } else if (userInput.includes('العصور الوسطى')
+        
+         
+          
+                      
+         
+          || userInput.includes('أكتب أهم المعلومات حول العصور الوسطى')
+          || userInput.includes('أكتب معلومات حول العصور الوسطى')
+          
+          || userInput.includes('أكتب أهم معلومات عن العصور الوسطى')
+          || userInput.includes('أكتب معلومات عن العصور الوسطى')
+          
+          
+          
+              
+         
+            || userInput.includes('أخبرني ماذا تعرف حول العصور الوسطى')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن العصور الوسطى')
+            || userInput.includes('أخبرني ماذا تعرف عن العصور الوسطى')
+      
+           
+          || userInput.includes('ماهي العصور الوسطى')
+          
+     
+          
+            
+    
+       || userInput.includes('عصور الوسطى')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/darkages.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> </div>'  ;
+     
+       
+      
+      
+       
+       
+          } else if (userInput.includes('الحروب الصليبية')
+        
+         
+          
+                      
+         
+          || userInput.includes('أكتب أهم المعلومات حول الحروب الصليبية')
+          || userInput.includes('أكتب معلومات حول الحروب الصليبية')
+          
+          || userInput.includes('أكتب أهم معلومات عن الحروب الصليبية')
+          || userInput.includes('أكتب معلومات عن العصور الوسطى')
+          
+          
+          
+              
+         
+            || userInput.includes('أخبرني ماذا تعرف حول الحروب الصليبية')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الحروب الصليبية')
+            || userInput.includes('أخبرني ماذا تعرف عن الحروب الصليبية')
+      
+           
+          || userInput.includes('ماهي الحروب الصليبية')
+          
+       || userInput.includes('حروب صليبية')
+          
+            
+    
+       || userInput.includes('متى بدأت الحروب الصليبية')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/christianwar.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> </div>'  ;
+     
+       
+      
+   
+       
+       
+          } else if (userInput.includes('الحضارة الرومانية')
+        
+         
+           || userInput.includes('الرومان')
+            || userInput.includes('رومان')
+                      
+          || userInput.includes('الرومانيون')
+          || userInput.includes('الرومانين')
+          || userInput.includes('العصر الروماني')
+          
+          || userInput.includes('أكتب أهم المعلومات حول الحضارة الرومانية')
+          || userInput.includes('أكتب معلومات حول الحضارة الرومانية')
+          
+          || userInput.includes('أكتب أهم معلومات عن الحضارة الرومانية')
+          || userInput.includes('أكتب معلومات عن الحضارة الرومانية')
+          
+          
+          
+              
+         
+            || userInput.includes('أخبرني ماذا تعرف حول الحضارة الرومانية')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الحضارة الرومانية')
+            || userInput.includes('أخبرني ماذا تعرف عن الحضارة الرومانية')
+      
+           
+          || userInput.includes('ماهي الحضارة الرومانية')
+          
+       || userInput.includes('حضارة الرومانية')
+          
+            
+    
+       || userInput.includes('متى بدأت الحضارة الرومانية')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/romanian.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> </div>'  ;
+     
+       
+         
+       
+       
+       
+       
+          } else if (userInput.includes('الحضارة الفرعونية')
+        
+         
+           || userInput.includes('الفراعنة')
+                      
+          || userInput.includes('فراعنة')
+          || userInput.includes('الفرعون')
+          || userInput.includes('العصر الفرعوني')
+          
+          || userInput.includes('أكتب أهم المعلومات حول الحضارة الفرعونية')
+          || userInput.includes('أكتب معلومات حول الحضارة الفرعونية')
+          
+          || userInput.includes('أكتب أهم معلومات عن الحضارة الفرعونية')
+          || userInput.includes('أكتب معلومات عن الحضارة الفرعونية')
+          
+          
+          
+              
+         
+            || userInput.includes('أخبرني ماذا تعرف حول الحضارة الفرعونية')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الحضارة الفرعونية')
+            || userInput.includes('أخبرني ماذا تعرف عن الحضارة الفرعونية')
+      
+           
+          || userInput.includes('ماهي الحضارة الفرعونية')
+          
+       || userInput.includes('حضارة الفراعنة')
+          
+            
+    
+       || userInput.includes('متى بدأت الحضارة الفرعونية')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/piramid.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> </div>'  ;
+     
+       
+         
+       
+         
+     
+          } else if (userInput.includes('مخترع التلفاز')
+        
+         
+           || userInput.includes('من هو مخترع التلفاز')
+           
+            || userInput.includes('من الذي اخترع التلفاز')
+             || userInput.includes('من الذي إخترع التلفاز')
+              || userInput.includes('في أي عام أخترع التلفاز')
+               || userInput.includes('في أي عام تم  إختراع التلفاز')
+                || userInput.includes('متى تم إختراع التلفاز')
+                  || userInput.includes('متى أخترع التلفاز')
+           
+            || userInput.includes('من هو أول من إخترع التلفاز')
+             || userInput.includes('من هو أول من اخترع التلفاز')
+             || userInput.includes('من هو مخترع التلفزيون')
+           
+            || userInput.includes('مخترع التلفزيون')
+               || userInput.includes('التلفاز')
+                      
+              || userInput.includes('التلفزة')
+                  || userInput.includes('تلفزة')
+                      
+          || userInput.includes('التلفزيون')
+          || userInput.includes('تلفزيون')
+        
+          
+          || userInput.includes('أكتب أهم المعلومات حول التلفاز')
+          || userInput.includes('أكتب معلومات حول التلفاز')
+          
+          || userInput.includes('أكتب أهم معلومات عن التلفاز')
+          || userInput.includes('أكتب معلومات عن التلفاز')
+          
+          
+          
+              
+         
+            || userInput.includes('أخبرني ماذا تعرف حول التلفاز')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن التلفاز')
+            || userInput.includes('أخبرني ماذا تعرف عن التلفاز')
+      
+            || userInput.includes('ماهي التلفزة')
+          || userInput.includes('ماهو التلفاز')
+          
+       || userInput.includes('ماهو التلفزيون')
+          
+            
+    
+       || userInput.includes('التلفزيون')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/tv1.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"><img src="imagerussia/tv2.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"> التلفاز </div>'  ;
+     
+         
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+     
+          } else if (userInput.includes('مخترع الهاتف')
+        
+         
+           || userInput.includes('من هو مخترع الهاتف')
+           
+            || userInput.includes('من الذي اخترع الهاتف')
+             || userInput.includes('من الذي إخترع الهاتف')
+              || userInput.includes('في أي عام أخترع الهاتف')
+               || userInput.includes('في أي عام تم  إختراع الهاتف')
+                || userInput.includes('متى تم إختراع الهاتف')
+                  || userInput.includes('متى أخترع الهاتف')
+           
+            || userInput.includes('من هو أول من إخترع الهاتف')
+             || userInput.includes('من هو أول من اخترع الهاتف')
+             || userInput.includes('من هو مخترع الهاتف')
+           
+            || userInput.includes('مخترع هاتف')
+               || userInput.includes('الهاتف')
+                      
+              || userInput.includes('هاتف')
+                  || userInput.includes('الهواتف')
+                      
+          || userInput.includes('هواتف')
+      
+    
+          
+          || userInput.includes('أكتب أهم المعلومات حول الهاتف')
+          || userInput.includes('أكتب معلومات حول الهاتف')
+          
+          || userInput.includes('أكتب أهم معلومات عن الهاتف')
+          || userInput.includes('أكتب معلومات عن الهاتف')
+          
+          
+          
+              
+         
+            || userInput.includes('أخبرني ماذا تعرف حول الهاتف')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الهواتف')
+            || userInput.includes('أخبرني ماذا تعرف عن الهاتف')
+      
+            || userInput.includes('ماهي الهواتف')
+          || userInput.includes('ماهو الهاتف')
+          
+       || userInput.includes('ماهو الهاتف')
+          
+            
+    
+       || userInput.includes('الهواتف')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/tele1.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"><img src="imagerussia/tele2.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"> الهاتف </div>'  ;
+     
+           
+       
+       
+       
+       
+      
+       
+       
+     
+          } else if (userInput.includes('مخترع الهاتف النقال')
+        
+         
+           || userInput.includes('من هو مخترع الهاتف النقال')
+           
+            || userInput.includes('من الذي اخترع الهاتف النقال')
+             || userInput.includes('من الذي إخترع الهاتف النقال')
+              || userInput.includes('في أي عام أخترع الهاتف النقال')
+               || userInput.includes('في أي عام تم  إختراع الهاتف النقال')
+                || userInput.includes('متى تم إختراع الهاتف النقال')
+                  || userInput.includes('متى أخترع الهاتف النقال')
+           
+            || userInput.includes('من هو أول من إخترع الهاتف النقال')
+             || userInput.includes('من هو أول من اخترع الهاتف النقال')
+             || userInput.includes('من هو مخترع الهاتف النقال')
+           
+            || userInput.includes('مخترع الجوال')
+               || userInput.includes('الجوال')
+                      
+              || userInput.includes('ماهو الهاتف الجوال')
+                  || userInput.includes('من هو مخترع الجوال')
+                      
+          || userInput.includes('من هو مخترع الهاتف الجوال')
+      
+    
+          
+          || userInput.includes('أكتب أهم المعلومات حول الهاتف النقال')
+          || userInput.includes('أكتب معلومات حول الهاتف النقال')
+          
+          || userInput.includes('أكتب أهم معلومات عن الهاتف النقال')
+          || userInput.includes('أكتب معلومات عن الهاتف النقال')
+          
+          
+          
+              
+         
+            || userInput.includes('أخبرني ماذا تعرف حول الهاتف النقال')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الجوال')
+            || userInput.includes('أخبرني ماذا تعرف عن الجوال')
+      
+            || userInput.includes('ماهي الجوالات')
+          || userInput.includes('ماهو الجوال')
+          
+       || userInput.includes('ماهو الهاتف النقال')
+          
+            
+    
+       || userInput.includes('الهاتف الجوال')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/mobile1.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"><img src="imagerussia/mobile2.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"> الهاتف النقال </div>'  ;
+     
+           
+       
+        
+       
+         
+     
+          } else if (userInput.includes('مخترع جهاز الراديو')
+        
+         
+           || userInput.includes('من هو مخترع جهاز الراديو')
+           
+            || userInput.includes('من الذي اخترع جهاز الراديو')
+             || userInput.includes('من الذي إخترع جهاز الراديو')
+              || userInput.includes('في أي عام أخترع جهاز الراديو')
+               || userInput.includes('في أي عام تم  إختراع جهاز الراديو')
+                || userInput.includes('متى تم إختراع جهاز الراديو')
+                  || userInput.includes('متى أخترع جهاز الراديو')
+           
+            || userInput.includes('من هو أول من إخترع جهاز الراديو')
+             || userInput.includes('من هو أول من اخترع جهاز الراديو')
+             || userInput.includes('من هو مخترع جهاز الراديو')
+           
+            || userInput.includes('مخترع جهاز راديو')
+               || userInput.includes('جهاز الراديو')
+                      
+              || userInput.includes('جهاز راديو')
+                  || userInput.includes('الإذاعة')
+                      
+          || userInput.includes('اذاعة')
+          || userInput.includes('الإذاعة')
+        
+          
+          || userInput.includes('أكتب أهم المعلومات حول جهاز الراديو')
+          || userInput.includes('أكتب معلومات حول جهاز الراديو')
+          
+          || userInput.includes('أكتب أهم معلومات عن جهاز الراديو')
+          || userInput.includes('أكتب معلومات عن جهاز الراديو')
+          
+          
+          
+              
+         
+            || userInput.includes('أخبرني ماذا تعرف حول جهاز الراديو')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن جهاز الراديو')
+            || userInput.includes('أخبرني ماذا تعرف عن جهاز الراديو')
+      
+            || userInput.includes('ماهي الإذاعة')
+          || userInput.includes('ماهو الراديو')
+          
+       || userInput.includes('ماهو راديو')
+          
+            
+    
+       || userInput.includes('البث الإذاعي')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/radio1.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"><img src="imagerussia/radio2.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"> الراديو </div>'  ;
+     
+         
+       
+       
+       
+       
+     
+          } else if (userInput.includes('مخترع الثلاجة')
+        
+         
+           || userInput.includes('من هو مخترع الثلاجة')
+           
+            || userInput.includes('من الذي اخترع الثلاجة')
+             || userInput.includes('من الذي إخترع الثلاجة')
+              || userInput.includes('في أي عام أخترع الثلاجة')
+               || userInput.includes('في أي عام تم  إختراع الثلاجة')
+                || userInput.includes('متى تم إختراع الثلاجة')
+                  || userInput.includes('متى أخترع الثلاجة')
+           
+            || userInput.includes('من هو أول من إخترع الثلاجة')
+             || userInput.includes('من هو أول من اخترع الثلاجة')
+             || userInput.includes('من هو مخترع الثلاجة')
+           
+            || userInput.includes('مخترع الثلاجة')
+               || userInput.includes('الثلاجة')
+                      
+              || userInput.includes('ثلاجة')
+                  || userInput.includes('الثلاجة')
+                      
+          || userInput.includes('البراد')
+          || userInput.includes('الثلاجة')
+        
+          
+          || userInput.includes('أكتب أهم المعلومات حول الثلاجة')
+          || userInput.includes('أكتب معلومات حول الثلاجة')
+          
+          || userInput.includes('أكتب أهم معلومات عن الثلاجة')
+          || userInput.includes('أكتب معلومات عن الثلاجة')
+          
+          
+          
+              
+         
+            || userInput.includes('أخبرني ماذا تعرف حول الثلاجة')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الثلاجة')
+            || userInput.includes('أخبرني ماذا تعرف عن الثلاجة')
+      
+            || userInput.includes('ماهي الثلاجة')
+          || userInput.includes('ماهو البراد')
+          
+       || userInput.includes('ماهي ثلاجة')
+          
+            
+    
+       || userInput.includes('الثلاجة')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/fridg1.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"><img src="imagerussia/fridg2.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"> الثلاجة </div>'  ;
+     
+         
+       
+       
+       
+       
+      
+       
+     
+          } else if (userInput.includes('مخترع مكيف الهواء')
+        
+         
+           || userInput.includes('من هو مخترع مكيف الهواء')
+           
+            || userInput.includes('من الذي اخترع مكيف الهواء')
+             || userInput.includes('من الذي إخترع مكيف الهواء')
+              || userInput.includes('في أي عام أخترع مكيف الهواء')
+               || userInput.includes('في أي عام تم  إختراع مكيف الهواء')
+                || userInput.includes('متى تم إختراع مكيف الهواء')
+                  || userInput.includes('متى أخترع مكيف الهواء')
+           
+            || userInput.includes('من هو أول من إخترع مكيف الهواء')
+             || userInput.includes('من هو أول من اخترع مكيف الهواء')
+             || userInput.includes('من هو مخترع مكيف الهواء')
+           
+            || userInput.includes('مخترع مكيف الهواء')
+               || userInput.includes('مكيف الهواء')
+                      
+              || userInput.includes('مكيف هواء')
+                  || userInput.includes('مكيفات الهواء')
+                      
+          || userInput.includes('المكيف الهوائي')
+          || userInput.includes('مكيف هوائي')
+        
+          
+          || userInput.includes('أكتب أهم المعلومات حول مكيف الهواء')
+          || userInput.includes('أكتب معلومات حول مكيف الهواء')
+          
+          || userInput.includes('أكتب أهم معلومات عن مكيف الهواء')
+          || userInput.includes('أكتب معلومات عن مكيف الهواء')
+          
+          
+          
+              
+         
+            || userInput.includes('أخبرني ماذا تعرف حول مكيف الهواء')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن مكيف الهواء')
+            || userInput.includes('أخبرني ماذا تعرف عن مكيف الهواء')
+      
+            || userInput.includes('ماهي المكيفات الهوائية')
+          || userInput.includes('ماهو مكيف الهواء')
+          
+       || userInput.includes('ماهي مكيفات الهواء')
+          
+            
+    
+       || userInput.includes('مكيف هواء')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/clim1.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"><img src="imagerussia/clim2.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"> مكيف الهواء </div>'  ;
+     
+         
+       
+       
+          } else if (userInput.includes('مخترع ألة غسل الملابس')
+        
+         
+           || userInput.includes('من هو مخترع آلة غسل الملابس')
+           
+            || userInput.includes('من الذي اخترع آلة غسل الملابس')
+             || userInput.includes('من الذي إخترع آلة غسل الملابس')
+              || userInput.includes('في أي عام أخترع آلة غسل الملابس')
+               || userInput.includes('في أي عام تم  إختراع آلة غسل الملابس')
+                || userInput.includes('متى تم إختراع آلة غسل الملابس')
+                  || userInput.includes('متى أخترع آلة غسل الملابس')
+           
+            || userInput.includes('من هو أول من إخترع آلة غسل الملابس')
+             || userInput.includes('من هو أول من اخترع آلة غسل الملابس')
+             || userInput.includes('من هو مخترع آلة غسل الملابس')
+           
+            || userInput.includes('مخترع آلة غسل الملابس')
+               || userInput.includes('آلة غسل الملابس')
+                      
+              || userInput.includes('ألة غسل الملابس')
+                  || userInput.includes('آلة غسل الملابس')
+                      
+          || userInput.includes('ألة غسل ملابس')
+          || userInput.includes('آلة غسل الملابس')
+        
+          
+          || userInput.includes('أكتب أهم المعلومات حول آلة غسل الملابس')
+          || userInput.includes('أكتب معلومات حول آلة غسل الملابس')
+          
+          || userInput.includes('أكتب أهم معلومات عن آلة غسل الملابس')
+          || userInput.includes('أكتب معلومات عن آلة غسل الملابس')
+          
+          
+          
+              
+         
+            || userInput.includes('أخبرني ماذا تعرف حول آلة غسل الملابس')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن آلة غسل الملابس')
+            || userInput.includes('أخبرني ماذا تعرف عن آلة غسل الملابس')
+      
+            || userInput.includes('ماهي آلة غسل الملابس')
+          || userInput.includes('ماهي ألة غسل الملابس')
+          
+       || userInput.includes('ماهي آلة غسل الملابس')
+          
+            
+    
+       || userInput.includes('ألة غسل ملابس')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/washing1.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"><img src="imagerussia/washing2.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"> آلة غسل الملابس </div>'  ;
+     
+         
+       
+        
+          } else if (userInput.includes('مخترع المكنسة الكهربائية')
+        
+         
+           || userInput.includes('من هو مخترع المكنسة الكهربائية')
+           
+            || userInput.includes('من الذي اخترع المكنسة الكهربائية')
+             || userInput.includes('من الذي إخترع المكنسة الكهربائية')
+              || userInput.includes('في أي عام أخترع المكنسة الكهربائية')
+               || userInput.includes('في أي عام تم  إختراع المكنسة الكهربائية')
+                || userInput.includes('متى تم إختراع المكنسة الكهربائية')
+                  || userInput.includes('متى أخترع المكنسة الكهربائية')
+           
+            || userInput.includes('من هو أول من إخترع المكنسة الكهربائية')
+             || userInput.includes('من هو أول من اخترع المكنسة الكهربائية')
+             || userInput.includes('من هو مخترع المكنسة الكهربائية')
+           
+            || userInput.includes('مخترع المكنسة الكهربائية')
+               || userInput.includes('المكنسة الكهربائية')
+                      
+              || userInput.includes('المكنسة الكهربائية')
+                  || userInput.includes('المكنسة الكهربائية')
+                      
+          || userInput.includes('مكنسة كهربائية')
+          || userInput.includes('المكانس الكهربائية')
+        
+          
+          || userInput.includes('أكتب أهم المعلومات حول المكنسة الكهربائية')
+          || userInput.includes('أكتب معلومات حول المكنسة الكهربائية')
+          
+          || userInput.includes('أكتب أهم معلومات عن المكنسة الكهربائية')
+          || userInput.includes('أكتب معلومات عن المكنسة الكهربائية')
+          
+          
+          
+              
+         
+            || userInput.includes('أخبرني ماذا تعرف حول المكنسة الكهربائية')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن المكنسة الكهربائية')
+            || userInput.includes('أخبرني ماذا تعرف عن المكنسة الكهربائية')
+      
+            || userInput.includes('ماهي المكانس الكهربائية')
+          || userInput.includes('ماهي مكنسة كهربائية')
+          
+       || userInput.includes('ماهي المكنسة الكهربائية')
+          
+            
+    
+       || userInput.includes('مكانس كهربائية')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/clean1.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"><img src="imagerussia/clean2.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"> المكنسة الكهربائية </div>'  ;
+     
+         
+       
+       
+       
+       
+       
+       
+       
+       
+       
+      
+       
+     
+          } else if (userInput.includes('مخترع الطائرة')
+        
+         
+           || userInput.includes('من هو مخترع الطائرة')
+           
+            || userInput.includes('من الذي اخترع الطائرة')
+             || userInput.includes('من الذي إخترع الطائرة')
+              || userInput.includes('في أي عام أخترع الطائرة')
+               || userInput.includes('في أي عام تم  إختراع الطائرة')
+                || userInput.includes('متى تم إختراع الطائرة')
+                  || userInput.includes('متى أخترع الطائرة')
+           
+            || userInput.includes('من هو أول من إخترع الطائرة')
+             || userInput.includes('من هو أول من اخترع الطائرة')
+             || userInput.includes('من هو مخترع الطائرة')
+           
+            || userInput.includes('مخترع الطائرة')
+               || userInput.includes('الطائرة')
+                      
+              || userInput.includes('الطيارة')
+                  || userInput.includes('طائرات')
+                      
+          || userInput.includes('الطائرات')
+          || userInput.includes('طائرة')
+        
+          
+          || userInput.includes('أكتب أهم المعلومات حول الطائرة')
+          || userInput.includes('أكتب معلومات حول الطائرة')
+          
+          || userInput.includes('أكتب أهم معلومات عن الطائرة')
+          || userInput.includes('أكتب معلومات عن الطائرة')
+          
+          
+          
+              
+         
+            || userInput.includes('أخبرني ماذا تعرف حول الطائرة')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الطائرة')
+            || userInput.includes('أخبرني ماذا تعرف عن الطائرة')
+      
+            || userInput.includes('ماهي الطائرة')
+          || userInput.includes('ماهي طائرة')
+          
+       || userInput.includes('ماهي الطائرة')
+          
+            
+    
+       || userInput.includes('الطائرة')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/airplan1.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"><img src="imagerussia/airplan2.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"> الطائرة </div>'  ;
+     
+         
+       
+        
+       
+       
+       
+       
+       
+       
+     
+          } else if (userInput.includes('مخترع الدراجة الهوائية')
+        
+         
+           || userInput.includes('من هو مخترع الدراجة الهوائية')
+           
+            || userInput.includes('من الذي اخترع الدراجة الهوائية')
+             || userInput.includes('من الذي إخترع الدراجة الهوائية')
+              || userInput.includes('في أي عام أخترع الدراجة الهوائية')
+               || userInput.includes('في أي عام تم  إختراع الدراجة الهوائية')
+                || userInput.includes('متى تم إختراع الدراجة الهوائية')
+                  || userInput.includes('متى أخترع الدراجة الهوائية')
+           
+            || userInput.includes('من هو أول من إخترع الدراجة الهوائية')
+             || userInput.includes('من هو أول من اخترع الدراجة الهوائية')
+             || userInput.includes('من هو مخترع الدراجة الهوائية')
+           
+            || userInput.includes('مخترع الدراجة الهوائية')
+               || userInput.includes('الدراجة الهوائية')
+                      
+              || userInput.includes('دراجة هوائية')
+                  || userInput.includes('الدراجات الهوائية')
+                      
+          || userInput.includes('دراجات هوائية')
+          || userInput.includes('الدراجة الهوائية')
+        
+          
+          || userInput.includes('أكتب أهم المعلومات حول الدراجة الهوائية')
+          || userInput.includes('أكتب معلومات حول الدراجة الهوائية')
+          
+          || userInput.includes('أكتب أهم معلومات عن الدراجة الهوائية')
+          || userInput.includes('أكتب معلومات عن الدراجة الهوائية')
+          
+          
+          
+              
+         
+            || userInput.includes('أخبرني ماذا تعرف حول الدراجة الهوائية')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الدراجة الهوائية')
+            || userInput.includes('أخبرني ماذا تعرف عن الدراجة الهوائية')
+      
+            || userInput.includes('ماهي دراجة هوائية')
+          || userInput.includes('ماهي الدراجة الهوائية')
+          
+       || userInput.includes('ماهي الدراجات الهوائية')
+          
+            
+    
+       || userInput.includes('الدراجة الهوائية')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/vtt1.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"><img src="imagerussia/vtt2.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"> الدراجة الهوائية </div>'  ;
+     
+         
+       
+       
+       
+       
+       
+       
+     
+          } else if (userInput.includes('مخترع الدراجة النارية')
+        
+         
+           || userInput.includes('من هو مخترع الدراجة النارية')
+           
+            || userInput.includes('من الذي اخترع الدراجة النارية')
+             || userInput.includes('من الذي إخترع الدراجة النارية')
+              || userInput.includes('في أي عام أخترع الدراجة النارية')
+               || userInput.includes('في أي عام تم  إختراع الدراجة النارية')
+                || userInput.includes('متى تم إختراع الدراجة النارية')
+                  || userInput.includes('متى أخترع الدراجة النارية')
+           
+            || userInput.includes('من هو أول من إخترع الدراجة النارية')
+             || userInput.includes('من هو أول من اخترع الدراجة النارية')
+             || userInput.includes('من هو مخترع الدراجة النارية')
+           
+            || userInput.includes('مخترع الدراجة النارية')
+               || userInput.includes('الدراجة النارية')
+                      
+              || userInput.includes('دراجة نارية')
+                  || userInput.includes('الدراجات النارية')
+                      
+          || userInput.includes('دراجات نارية')
+          || userInput.includes('الدراجة النارية')
+        
+          
+          || userInput.includes('أكتب أهم المعلومات حول الدراجة النارية')
+          || userInput.includes('أكتب معلومات حول الدراجة النارية')
+          
+          || userInput.includes('أكتب أهم معلومات عن الدراجة النارية')
+          || userInput.includes('أكتب معلومات عن الدراجة النارية')
+          
+          
+          
+              
+         
+            || userInput.includes('أخبرني ماذا تعرف حول الدراجة النارية')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الدراجة النارية')
+            || userInput.includes('أخبرني ماذا تعرف عن الدراجة النارية')
+      
+            || userInput.includes('ماهي الدراجة النارية')
+          || userInput.includes('ماهي دراجة نارية')
+          
+       || userInput.includes('ماهي الدراجات النارية')
+          
+            
+    
+       || userInput.includes('الدراجة النارية')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/moto1.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"><img src="imagerussia/moto2.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"> الدراجة النارية </div>'  ;
+     
+         
+       
+       
+    
+       
+       
+     
+          } else if (userInput.includes('مخترع السيارة')
+        
+         
+           || userInput.includes('من هو مخترع السيارة')
+           
+            || userInput.includes('من الذي اخترع السيارة')
+             || userInput.includes('من الذي إخترع السيارة')
+              || userInput.includes('في أي عام أخترع السيارة')
+               || userInput.includes('في أي عام تم  إختراع السيارة')
+                || userInput.includes('متى تم إختراع السيارة')
+                  || userInput.includes('متى أخترع السيارة')
+           
+            || userInput.includes('من هو أول من إخترع السيارة')
+             || userInput.includes('من هو أول من اخترع السيارة')
+             || userInput.includes('من هو مخترع السيارة')
+           
+            || userInput.includes('مخترع السيارة')
+               || userInput.includes('السيارة')
+                      
+              || userInput.includes('سيارة')
+                  || userInput.includes('السيارات')
+                      
+          || userInput.includes('سيارات')
+          || userInput.includes('السيارة')
+        
+          
+          || userInput.includes('أكتب أهم المعلومات حول السيارة')
+          || userInput.includes('أكتب معلومات حول السيارة')
+          
+          || userInput.includes('أكتب أهم معلومات عن السيارة')
+          || userInput.includes('أكتب معلومات عن السيارة')
+          
+          
+          
+              
+         
+            || userInput.includes('أخبرني ماذا تعرف حول السيارة')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن السيارة')
+            || userInput.includes('أخبرني ماذا تعرف عن السيارة')
+      
+            || userInput.includes('ماهي السيارة')
+          || userInput.includes('ماهي السيارات')
+          
+       || userInput.includes('ماهي سيارة')
+          
+            
+    
+       || userInput.includes('السيارة')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/car1.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"><img src="imagerussia/car2.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"> السيارة </div>'  ;
+     
+         
+       
+       
+       
+          
+       
+       
+     
+          } else if (userInput.includes('مخترع الكاميرا')
+        
+         
+           || userInput.includes('من هو مخترع الكاميرا')
+           
+            || userInput.includes('من الذي اخترع الكاميرا')
+             || userInput.includes('من الذي إخترع الكاميرا')
+              || userInput.includes('في أي عام أخترع الكاميرا')
+               || userInput.includes('في أي عام تم  إختراع الكاميرا')
+                || userInput.includes('متى تم إختراع الكاميرا')
+                  || userInput.includes('متى أخترع الكاميرا')
+           
+            || userInput.includes('من هو أول من إخترع الكاميرا')
+             || userInput.includes('من هو أول من اخترع الكاميرا')
+             || userInput.includes('من هو مخترع الكاميرا')
+           
+            || userInput.includes('مخترع الكاميرا')
+               || userInput.includes('الكاميرا')
+                      
+              || userInput.includes('كاميرات المراقبة')
+                  || userInput.includes('كاميرات')
+                      
+          || userInput.includes('الكاميرات')
+          || userInput.includes('كاميرا')
+          
+         || userInput.includes('الكاميرة')
+          
+          || userInput.includes('أكتب أهم المعلومات حول الكاميرا')
+          || userInput.includes('أكتب معلومات حول الكاميرا')
+          
+          || userInput.includes('أكتب أهم معلومات عن الكاميرا')
+          || userInput.includes('أكتب معلومات عن الكاميرا')
+          
+          
+          
+              
+         
+            || userInput.includes('أخبرني ماذا تعرف حول الكاميرا')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الكاميرا')
+            || userInput.includes('أخبرني ماذا تعرف عن الكاميرا')
+      
+            || userInput.includes('ماهي الكاميرة')
+          || userInput.includes('ماهي الكاميرات')
+          
+       || userInput.includes('ماهي كاميرا')
+          
+            
+    
+       || userInput.includes('الكاميرا')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/camera1.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"><img src="imagerussia/camera2.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"> الكاميرا </div>'  ;
+     
+         
+       
+       
+     
+       
+     
+          } else if (userInput.includes('مخترع آلة التصوير الفوتوغرافي')
+        
+         
+           || userInput.includes('من هو مخترع آلة التصوير الفوتوغرافي')
+           
+            || userInput.includes('من الذي اخترع آلة التصوير الفوتوغرافي')
+             || userInput.includes('من الذي إخترع آلة التصوير الفوتوغرافي')
+              || userInput.includes('في أي عام أخترع آلة التصوير الفوتوغرافي')
+               || userInput.includes('في أي عام تم  إختراع آلة التصوير الفوتوغرافي')
+                || userInput.includes('متى تم إختراع آلة التصوير الفوتوغرافي')
+                  || userInput.includes('متى أخترع آلة التصوير الفوتوغرافي')
+           
+            || userInput.includes('من هو أول من إخترع آلة التصوير الفوتوغرافي')
+             || userInput.includes('من هو أول من اخترع آلة التصوير الفوتوغرافي')
+             || userInput.includes('من هو مخترع آلة التصوير الفوتوغرافي')
+           
+            || userInput.includes('مخترع آلة التصوير الفوتوغرافي')
+               || userInput.includes('آلة التصوير الفوتوغرافي')
+                      
+              || userInput.includes('آلة تصوير فوتوغرافي')
+                  || userInput.includes('آلة التصوير الفوتوغرافي')
+                      
+          || userInput.includes('آلة التصوير')
+          || userInput.includes('ألة التصوير الفوتوغرافي')
+        
+          
+          || userInput.includes('أكتب أهم المعلومات حول آلة التصوير الفوتوغرافي')
+          || userInput.includes('أكتب معلومات حول آلة التصوير الفوتوغرافي')
+          
+          || userInput.includes('أكتب أهم معلومات عن آلة التصوير الفوتوغرافي')
+          || userInput.includes('أكتب معلومات عن آلة التصوير الفوتوغرافي')
+          
+          
+          
+              
+         
+            || userInput.includes('أخبرني ماذا تعرف حول آلة التصوير الفوتوغرافي')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن آلة التصوير الفوتوغرافي')
+            || userInput.includes('أخبرني ماذا تعرف عن آلة التصوير الفوتوغرافي')
+      
+            || userInput.includes('ماهي آلة التصوير الفوتوغرافي')
+          || userInput.includes('ماهي ألة التصوير الفوتوغرافي')
+          
+       || userInput.includes('ماهي آلة التصوير الفوتوغرافي')
+          
+            
+    
+       || userInput.includes('ألة تصوير فوتوغرافي')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/cam1.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"><img src="imagerussia/cam2.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"> آلة التصوير الفوتوغرافي </div>'  ;
+     
+           
+       
+       
+       
+      
+       
+       
+     
+          } else if (userInput.includes('مخترع جهاز آي بود')
+        
+         
+           || userInput.includes('من هو مخترع جهاز آي بود')
+           
+            || userInput.includes('من الذي اخترع جهاز آي بود')
+             || userInput.includes('من الذي إخترع جهاز آي بود')
+              || userInput.includes('في أي عام أخترع جهاز آي بود')
+               || userInput.includes('في أي عام تم  إختراع جهاز آي بود')
+                || userInput.includes('متى تم إختراع جهاز آي بود')
+                  || userInput.includes('متى أخترع جهاز آي بود')
+           
+            || userInput.includes('من هو أول من إخترع جهاز آي بود')
+             || userInput.includes('من هو أول من اخترع جهاز آي بود')
+             || userInput.includes('من هو مخترع جهاز آي بود')
+           
+            || userInput.includes('مخترع جهاز آي بود')
+               || userInput.includes('جهاز آي بود')
+                      
+              || userInput.includes('آي بود')
+                  || userInput.includes('الآي بود')
+                      
+          || userInput.includes('جهاز آي بود')
+          || userInput.includes('جهاز الأي بود')
+        
+          
+          || userInput.includes('أكتب أهم المعلومات حول جهاز آي بود')
+          || userInput.includes('أكتب معلومات حول جهاز آي بود')
+          
+          || userInput.includes('أكتب أهم معلومات عن جهاز آي بود')
+          || userInput.includes('أكتب معلومات عن جهاز آي بود')
+          
+          
+          
+              
+         
+            || userInput.includes('أخبرني ماذا تعرف حول جهاز آي بود')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن جهاز آي بود')
+            || userInput.includes('أخبرني ماذا تعرف عن جهاز آي بود')
+      
+            || userInput.includes('ماهو جهاز الأي بود')
+          || userInput.includes('ماهو جهاز أي بود')
+          
+       || userInput.includes('ماهو جهاز آي بود')
+          
+            
+    
+       || userInput.includes('جهاز أي بود')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/ipod1.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"><img src="imagerussia/ipod2.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"> جهاز آي بود </div>'  ;
+     
+         
+       
+       
+       
+       
+     
+          } else if (userInput.includes('مخترع السكوتر')
+        
+         
+           || userInput.includes('من هو مخترع السكوتر')
+           
+            || userInput.includes('من الذي اخترع السكوتر')
+             || userInput.includes('من الذي إخترع السكوتر')
+              || userInput.includes('في أي عام أخترع السكوتر')
+               || userInput.includes('في أي عام تم  إختراع السكوتر')
+                || userInput.includes('متى تم إختراع السكوتر')
+                  || userInput.includes('متى أخترع السكوتر')
+           
+            || userInput.includes('من هو أول من إخترع السكوتر')
+             || userInput.includes('من هو أول من اخترع السكوتر')
+             || userInput.includes('من هو مخترع السكوتر')
+           
+            || userInput.includes('مخترع السكوتر')
+               || userInput.includes('سكوتر')
+                      
+              || userInput.includes('السكوتر')
+                  || userInput.includes('السكوتر')
+                      
+          || userInput.includes('دراجة السكوتر')
+          || userInput.includes('السكوتر')
+        
+          
+          || userInput.includes('أكتب أهم المعلومات حول السكوتر')
+          || userInput.includes('أكتب معلومات حول السكوتر')
+          
+          || userInput.includes('أكتب أهم معلومات عن السكوتر')
+          || userInput.includes('أكتب معلومات عن السكوتر')
+          
+          
+          
+              
+         
+            || userInput.includes('أخبرني ماذا تعرف حول السكوتر')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن السكوتر')
+            || userInput.includes('أخبرني ماذا تعرف عن السكوتر')
+      
+            || userInput.includes('ماهي السكوتر')
+          || userInput.includes('ماهو السكوتر')
+          
+       || userInput.includes('ماهو سكوتر')
+          
+            
+    
+       || userInput.includes('السكوتر')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/scooter1.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"><img src="imagerussia/scooter2.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"> السكوتر </div>'  ;
+     
+         
+       
+       
+       
+        
+        
+       
+       
+     
+          } else if (userInput.includes('مخترع جهاز الووكمان')
+        
+         
+           || userInput.includes('من هو مخترع جهاز الووكمان')
+           
+            || userInput.includes('من الذي اخترع جهاز الووكمان')
+             || userInput.includes('من الذي إخترع جهاز الووكمان')
+              || userInput.includes('في أي عام أخترع جهاز الووكمان')
+               || userInput.includes('في أي عام تم  إختراع جهاز الووكمان')
+                || userInput.includes('متى تم إختراع جهاز الووكمان')
+                  || userInput.includes('متى أخترع جهاز الووكمان')
+           
+            || userInput.includes('من هو أول من إخترع جهاز الووكمان')
+             || userInput.includes('من هو أول من اخترع جهاز الووكمان')
+             || userInput.includes('من هو مخترع جهاز الووكمان')
+           
+            || userInput.includes('مخترع جهاز الووكمان')
+               || userInput.includes('جهاز الووكمان')
+                      
+              || userInput.includes('جهاز الولكمان')
+                  || userInput.includes('جهاز ولكمان')
+                      
+          || userInput.includes('الولكمان')
+          || userInput.includes('ولكمان')
+        
+          
+          || userInput.includes('أكتب أهم المعلومات حول جهاز الووكمان')
+          || userInput.includes('أكتب معلومات حول جهاز الووكمان')
+          
+          || userInput.includes('أكتب أهم معلومات عن جهاز الووكمان')
+          || userInput.includes('أكتب معلومات عن جهاز الووكمان')
+          
+          
+          
+              
+         
+            || userInput.includes('أخبرني ماذا تعرف حول جهاز الووكمان')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن جهاز الووكمان')
+            || userInput.includes('أخبرني ماذا تعرف عن جهاز الووكمان')
+      
+            || userInput.includes('ماهو الووكمان')
+          || userInput.includes('ماهو جهاز الووكمان')
+          
+       || userInput.includes('ماهو جهاز الولكمان')
+              || userInput.includes('ماهو الولكمان')
+            
+    
+       || userInput.includes('جهاز الولكمان')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/fridg1.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"><img src="imagerussia/fridg2.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"> الووكمان </div>'  ;
+     
+         
+       
+       
+       
+    
+      
+       
+     
+          } else if (userInput.includes('مخترع مشغل الأقراص المدمجة')
+        
+         
+           || userInput.includes('من هو مخترع مشغل الأقراص المدمجة')
+           
+            || userInput.includes('من الذي اخترع مشغل الأقراص المدمجة')
+             || userInput.includes('من الذي إخترع مشغل الأقراص المدمجة')
+              || userInput.includes('في أي عام أخترع مشغل الأقراص المدمجة')
+               || userInput.includes('في أي عام تم  إختراع مشغل الأقراص المدمجة')
+                || userInput.includes('متى تم إختراع مشغل الأقراص المدمجة')
+                  || userInput.includes('متى أخترع مشغل الأقراص المدمجة')
+           
+            || userInput.includes('من هو أول من إخترع مشغل الأقراص المدمجة')
+             || userInput.includes('من هو أول من اخترع مشغل الأقراص المدمجة')
+             || userInput.includes('من هو مخترع مشغل الأقراص المدمجة')
+           
+            || userInput.includes('مخترع مشغل الأقراص المدمجة')
+               || userInput.includes('القرص المدمج')
+                      
+              || userInput.includes('مشغل الأقراص المدمجة')
+                  || userInput.includes('قرص مدمج')
+                      
+          || userInput.includes('الأقراص المدمجة')
+             || userInput.includes('قرص الفيديو المدمج')
+          || userInput.includes('أقراص مدمجة')
+          
+              || userInput.includes('cd')
+          || userInput.includes('vcd')
+        
+            || userInput.includes('cdroom')
+             || userInput.includes('cd-room')
+          || userInput.includes('cd room')
+        
+          
+          || userInput.includes('أكتب أهم المعلومات حول مشغل الأقراص المدمجة')
+          || userInput.includes('أكتب معلومات حول مشغل الأقراص المدمجة')
+          
+          || userInput.includes('أكتب أهم معلومات عن مشغل الأقراص المدمجة')
+          || userInput.includes('أكتب معلومات عن مشغل الأقراص المدمجة')
+          
+          
+          
+              
+         
+            || userInput.includes('أخبرني ماذا تعرف حول مشغل الأقراص المدمجة')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن مشغل الأقراص المدمجة')
+            || userInput.includes('أخبرني ماذا تعرف عن مشغل الأقراص المدمجة')
+      
+            || userInput.includes('ماهو القرص المدمج')
+          || userInput.includes('ماهو مشغل الأقراص المدمجة')
+          
+       || userInput.includes('ماهي الأقراص المدمجة')
+          
+            
+    
+       || userInput.includes('القرص المدمج')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/cd1.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"><img src="imagerussia/cd2.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"> الأقراص المدمجة CD-ROOM </div>'  ;
+     
+         
+       
+       
+       
+       
+     
+          } else if (userInput.includes('mp3')
+        
+       
+    
+       || userInput.includes('mp3')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/mp31.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"><img src="imagerussia/mp32.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"> mp3 </div>'  ;
+     
+         
+       
+       
+       
+       
+       
+     
+          } else if (userInput.includes('dvd')
+        
+       
+    
+       || userInput.includes('قرص الفيديو الرقمي')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/dvd1.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"><img src="imagerussia/dvd2.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"> dvd </div>'  ;
+     
+         
+       
+       
+       
+       
+     
+          } else if (userInput.includes('قرص الشعاع الأزرق')
+        
+       
+    
+       || userInput.includes('blue ray disc')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/blueray1.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"><img src="imagerussia/blueray2.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"> blue ray disc , قرص الشعاع الأزرق </div>'  ;
+     
+         
+       
+       
+       
+       
+       
+       
+     
+          } else if (userInput.includes('xbox')
+        
+       
+    
+       || userInput.includes('xbox')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/xbox1.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"><img src="imagerussia/xbox2.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"> xbox </div>'  ;
+     
+         
+       
+       
+     
+          } else if (userInput.includes('مخترع الآتاري')
+        
+         
+           || userInput.includes('من هو مخترع الآتاري')
+           
+            || userInput.includes('من الذي اخترع الآتاري')
+             || userInput.includes('من الذي إخترع الآتاري')
+              || userInput.includes('في أي عام أخترع الآتاري')
+               || userInput.includes('في أي عام تم  إختراع الآتاري')
+                || userInput.includes('متى تم إختراع الآتاري')
+                  || userInput.includes('متى أخترع الآتاري')
+           
+            || userInput.includes('من هو أول من إخترع الآتاري')
+             || userInput.includes('من هو أول من اخترع الآتاري')
+             || userInput.includes('من هو مخترع الآتاري')
+           
+            || userInput.includes('مخترع الآتاري')
+               || userInput.includes('جهاز الآتاري')
+                      
+              || userInput.includes('جهاز الأتاري')
+                  || userInput.includes('الآتاري')
+                      
+          || userInput.includes('الأتاري')
+          || userInput.includes('آتاري')
+        
+          
+          || userInput.includes('أكتب أهم المعلومات حول الآتاري')
+          || userInput.includes('أكتب معلومات حول الآتاري')
+          
+          || userInput.includes('أكتب أهم معلومات عن الآتاري')
+          || userInput.includes('أكتب معلومات عن الآتاري')
+          
+          
+          
+              
+         
+            || userInput.includes('أخبرني ماذا تعرف حول الآتاري')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن الآتاري')
+            || userInput.includes('أخبرني ماذا تعرف عن الآتاري')
+      
+            || userInput.includes('ماهي الآتاري')
+          || userInput.includes('ماهو جهاز الآتاري')
+          
+       || userInput.includes('ماهو جهاز الأتاري')
+          
+            
+    
+       || userInput.includes('جهاز أتاري')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/atari1.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"><img src="imagerussia/atari2.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"> جهاز الآتاري </div>'  ;
+     
+         
+       
+       
+       
+       
+       
+     
+          } else if (userInput.includes('مخترع البلايستيشن')
+        
+         
+           || userInput.includes('من هو مخترع البلايستيشن')
+           
+            || userInput.includes('من الذي اخترع البلايستيشن')
+             || userInput.includes('من الذي إخترع البلايستيشن')
+              || userInput.includes('في أي عام أخترع البلايستيشن')
+               || userInput.includes('في أي عام تم  إختراع البلايستيشن')
+                || userInput.includes('متى تم إختراع البلايستيشن')
+                  || userInput.includes('متى أخترع البلايستيشن')
+           
+            || userInput.includes('من هو أول من إخترع البلايستيشن')
+             || userInput.includes('من هو أول من اخترع البلايستيشن')
+             || userInput.includes('من هو مخترع البلايستيشن')
+           
+            || userInput.includes('مخترع البلايستيشن')
+               || userInput.includes('البلايستيشن')
+                      
+              || userInput.includes('بلايستيشن')
+                  || userInput.includes('جهاز بلايستيشن')
+                      
+          || userInput.includes('جهاز البلايستيشن')
+          || userInput.includes('أجهزة البلايستيشن')
+        
+          
+          || userInput.includes('أكتب أهم المعلومات حول البلايستيشن')
+          || userInput.includes('أكتب معلومات حول البلايستيشن')
+          
+          || userInput.includes('أكتب أهم معلومات عن البلايستيشن')
+          || userInput.includes('أكتب معلومات عن البلايستيشن')
+          
+          
+          
+              
+         
+            || userInput.includes('أخبرني ماذا تعرف حول البلايستيشن')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن البلايستيشن')
+            || userInput.includes('أخبرني ماذا تعرف عن البلايستيشن')
+      
+            || userInput.includes('ماهي البلايستيشن')
+          || userInput.includes('ماهو البلايستيشن')
+          
+       || userInput.includes('ماهو جهاز البلايستيشن')
+          
+            
+    
+       || userInput.includes('البلايستيشن')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/playstation1.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"><img src="imagerussia/playstation2.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"> البلايستيشن </div>'  ;
+     
+         
+       
+       
+       
+       
+       
+     
+          } else if (userInput.includes('مخترع القمر الصناعي')
+        
+         
+           || userInput.includes('من هو مخترع القمر الصناعي')
+           
+            || userInput.includes('من الذي اخترع القمر الصناعي')
+             || userInput.includes('من الذي إخترع القمر الصناعي')
+              || userInput.includes('في أي عام أخترع القمر الصناعي')
+               || userInput.includes('في أي عام تم  إختراع القمر الصناعي')
+                || userInput.includes('متى تم إختراع القمر الصناعي')
+                  || userInput.includes('متى أخترع القمر الصناعي')
+           
+            || userInput.includes('من هو أول من إخترع القمر الصناعي')
+             || userInput.includes('من هو أول من اخترع القمر الصناعي')
+             || userInput.includes('من هو مخترع القمر الصناعي')
+           
+            || userInput.includes('مخترع القمر الصناعي')
+               || userInput.includes('ماهو قمر صناعي')
+                      
+              || userInput.includes('القمر الصناعي')
+                  || userInput.includes('قمر صناعي')
+                      
+          || userInput.includes('الأقمار الصناعية')
+          || userInput.includes('أقمار صناعية')
+        
+          
+          || userInput.includes('أكتب أهم المعلومات حول القمر الصناعي')
+          || userInput.includes('أكتب معلومات حول القمر الصناعي')
+          
+          || userInput.includes('أكتب أهم معلومات عن القمر الصناعي')
+          || userInput.includes('أكتب معلومات عن القمر الصناعي')
+          
+          
+          
+              
+         
+            || userInput.includes('أخبرني ماذا تعرف حول القمر الصناعي')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن القمر الصناعي')
+            || userInput.includes('أخبرني ماذا تعرف عن القمر الصناعي')
+      
+            || userInput.includes('ماهي الأقمار الصناعية')
+          || userInput.includes('ماهو القمر الصناعي')
+          
+       || userInput.includes('ماهي أقمار الصناعية')
+          
+            
+    
+       || userInput.includes('القمر الصناعي')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/sat1.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"><img src="imagerussia/sat2.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"> القمر الصناعي </div>'  ;
+     
+         
+       
+       
+       
+       
+       
+     
+          } else if (userInput.includes('مخترع البلوتوث')
+        
+         
+           || userInput.includes('من هو مخترع البلوتوث')
+           
+            || userInput.includes('من الذي اخترع البلوتوث')
+             || userInput.includes('من الذي إخترع البلوتوث')
+              || userInput.includes('في أي عام أخترع البلوتوث')
+               || userInput.includes('في أي عام تم  إختراع البلوتوث')
+                || userInput.includes('متى تم إختراع البلوتوث')
+                  || userInput.includes('متى أخترع البلوتوث')
+           
+            || userInput.includes('من هو أول من إخترع البلوتوث')
+             || userInput.includes('من هو أول من اخترع البلوتوث')
+             || userInput.includes('من هو مخترع البلوتوث')
+           
+            || userInput.includes('مخترع البلوتوث')
+               || userInput.includes('أجهزة بلوتوث')
+                      
+              || userInput.includes('بلوتوث')
+                  || userInput.includes('البلوتوث')
+                      
+          || userInput.includes('جهاز البلوتوث')
+          || userInput.includes('أجهزة البلوتوث')
+        
+          
+          || userInput.includes('أكتب أهم المعلومات حول البلوتوث')
+          || userInput.includes('أكتب معلومات حول البلوتوث')
+          
+          || userInput.includes('أكتب أهم معلومات عن البلوتوث')
+          || userInput.includes('أكتب معلومات عن البلوتوث')
+          
+          
+          
+              
+         
+            || userInput.includes('أخبرني ماذا تعرف حول البلوتوث')
+          
+           || userInput.includes('أخبرني ماذا تعرف عن البلوتوث')
+            || userInput.includes('أخبرني ماذا تعرف عن البلوتوث')
+      
+            || userInput.includes('ماهو جهاز البلوتوث')
+          || userInput.includes('ماهو البلوتوث')
+          
+       || userInput.includes('ماهو بلوتوث')
+          
+            
+    
+       || userInput.includes('جهاز بلوتوث')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/bluetooth1.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"><img src="imagerussia/bluetooth2.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"> البلوتوث </div>'  ;
+     
+         
+       
+       
+        
+                     
+
+
 
                       
      
