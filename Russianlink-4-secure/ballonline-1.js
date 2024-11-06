@@ -22269,8 +22269,6 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
           || userInput.includes('الطنان')
           || userInput.includes('طائر طنان')
             || userInput.includes('طائر الطنان')
-            || userInput.includes('السنونو')
-           || userInput.includes('حمائم')
           
                       
          
@@ -24305,7 +24303,7 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
 
 
 
-
+      
       
       
       
@@ -24343,7 +24341,7 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
     
        || userInput.includes('متى بدأت الحرب العالمية')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="imagerussia/warworld1.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">  </div>'  ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/warworld.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> الحرب العالمية الأولى </div>'  ;
  
       
       
@@ -24384,7 +24382,7 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
     
        || userInput.includes('متى بدأت الحرب العالمية الثانية')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="imagerussia/warworld2.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"></div>'  ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/warworld2.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> الحرب العالمية الثانية </div>'  ;
  
       
       
@@ -24423,7 +24421,7 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
     
        || userInput.includes('متى بدأت الحرب الباردة')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="imagerussia/couldwar.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> </div>'  ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/couldwar.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> الحرب الباردة </div>'  ;
      
      
        
@@ -24469,7 +24467,7 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
     
        || userInput.includes('متى بدأت الثورة الصناعية')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="imagerussia/indestrial.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">  النعامة هي أكبر طائر في العالم، وتشتهر بحجمها الكبير وسرعتها وقدرتها الفائقة على العدو.    </div>'  ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/industrial.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> الثورة الصناعية </div>'  ;
  
         
        
@@ -24510,7 +24508,7 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
     
        || userInput.includes('متى بدأت النهضة الأوروبية')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="imagerussia/eurorise.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> </div>'  ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/eurorise.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> النهضة الأوروبية </div>'  ;
      
      
        
@@ -24550,7 +24548,7 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
     
        || userInput.includes('عصور الوسطى')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="imagerussia/darkages.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> </div>'  ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/darkages.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> العصور الوسطى </div>'  ;
      
        
       
@@ -24587,7 +24585,7 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
     
        || userInput.includes('متى بدأت الحروب الصليبية')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="imagerussia/christianwar.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> </div>'  ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/crusades.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> الحروب الصليبية </div>'  ;
      
        
       
@@ -24628,7 +24626,7 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
     
        || userInput.includes('متى بدأت الحضارة الرومانية')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="imagerussia/romanian.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> </div>'  ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/romanian.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> الحضارة الرومانية </div>'  ;
      
        
          
@@ -24669,7 +24667,7 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
     
        || userInput.includes('متى بدأت الحضارة الفرعونية')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="imagerussia/piramid.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> </div>'  ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/pyramid.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;"> الحضارة الفرعونية </div>'  ;
      
        
          
@@ -25203,7 +25201,7 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
     
        || userInput.includes('الطائرة')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="imagerussia/airplan1.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"><img src="imagerussia/airplan2.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"> الطائرة </div>'  ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/airplane1.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"><img src="imagerussia/airplane2.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"> الطائرة </div>'  ;
      
          
        
@@ -25265,7 +25263,7 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
     
        || userInput.includes('الدراجة الهوائية')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="imagerussia/vtt1.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"><img src="imagerussia/vtt2.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"> الدراجة الهوائية </div>'  ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/bike1.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"><img src="imagerussia/bike2.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"> الدراجة الهوائية </div>'  ;
      
          
        
@@ -25682,7 +25680,7 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
     
        || userInput.includes('جهاز الولكمان')) {
      
-       botMessage.innerHTML = '<div class="row"><img src="imagerussia/fridg1.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"><img src="imagerussia/fridg2.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"> الووكمان </div>'  ;
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/walkman1.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"><img src="imagerussia/walkman2.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"> الووكمان </div>'  ;
      
          
        
@@ -25799,6 +25797,16 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
        
        
        
+     
+          } else if (userInput.includes('النينتاندو')
+        
+        || userInput.includes('nintendo')
+    
+       || userInput.includes('نينتاندو')) {
+     
+       botMessage.innerHTML = '<div class="row"><img src="imagerussia/nintendo1.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"><img src="imagerussia/nintendo2.jpg"style="width:100px;height:100px;margin:auto;border-radius:0px;"> النينتاندو </div>'  ;
+     
+         
        
        
        
@@ -26047,9 +26055,11 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
          
        
        
-        
-                     
 
+
+                   
+      
+        
 
 
                       
