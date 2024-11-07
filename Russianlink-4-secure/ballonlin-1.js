@@ -7068,7 +7068,7 @@
 
 
 
-            "افتراضي": ["ملاحضة قم بصياغة السؤال بشكل أفضل أو قم بكتابة الكلمة التي تبحث عنها",]
+            "افتراضي": ["ملاحظة قم بصياغة السؤال بشكل صحيح أو قم بكتابة الكلمة التي تبحث عنها",]
         };
 
    
@@ -7078,7 +7078,7 @@
 
 
       var questionCount = {};
-        var repeatedMessage = "توقف عن تكرار الكلام!";
+        var repeatedMessage = "";
         var userName = '';
         var userImage = '';
     
@@ -14371,7 +14371,7 @@
             possibleMatches.sort((a, b) => b.matchCount - a.matchCount);
             var matchIndex = repeatCount % possibleMatches.length;
 
-            return possibleMatches.length > 0 ? possibleMatches[matchIndex].article : "ملاحضة : أكتب سؤالك بشكل أفضل أو اكتب الكلمة التي تبحث عنها";
+            return possibleMatches.length > 0 ? possibleMatches[matchIndex].article : "";
         }
 
         // دالة لمعالجة الرسالة وإظهارها
@@ -14452,7 +14452,7 @@
                     questionCount[match] = 0;
                 }
 
-                if (questionCount[match] < 4) {
+                if (questionCount[match] < 8) {
                     var responseArray = responses[match];
                     var response = responseArray[questionCount[match] % responseArray.length];
                     responseMessages.push(response);
@@ -14482,11 +14482,101 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
      
      
 
+    
+       } else if (userInput.includes('قرآن')
+        || userInput.includes('القرآن الكريم')
+         || userInput.includes('سور قرآنية')
+          || userInput.includes('القرآن')) {
+    botMessage.innerHTML = 'سورة القصص, سورة المائدة ,سورة البقرة ,سورة يوسف, سورة هود'  ;
+
+    
           
      
 
+    
+       } else if (userInput.includes('سورة القصص')
       
+          || userInput.includes('القصص')) {
+    botMessage.innerHTML = '<audio controls alt="audio/mp3"style="width:200px;"><source src = "kases.mp3" type = "audio/mp3">سورة القصص</audio> '  ;
 
+    
+      
+    
+    
+    
+       } else if (userInput.includes('أغاني دينية')
+       
+         || userInput.includes('الأغاني')
+         
+          || userInput.includes('أغاني')
+          
+           || userInput.includes('الأغاني الدينية')
+      
+          || userInput.includes('إبتهالات')) {
+    botMessage.innerHTML = '<audio controls alt="audio/mp3"style="width:200px;"><source src = "kases5.mp3" type = "audio/mp3">إبتهالات</audio> '  ;
+
+    
+    
+    
+    
+    
+       } else if (userInput.includes('أغاني دينية')
+       
+         || userInput.includes('الأغاني')
+         
+          || userInput.includes('أغاني')
+          
+           || userInput.includes('الأغاني الدينية')
+      
+          || userInput.includes('إبتهالات')) {
+    botMessage.innerHTML = '<audio controls alt="audio/mp3"style="width:200px;"><source src = "kases6.mp3" type = "audio/mp3">إبتهالات</audio> '  ;
+
+    
+    
+    
+    
+       } else if (userInput.includes('قناة الراديو')
+       
+         || userInput.includes('قناة راديو')
+         
+          || userInput.includes('قنوات الراديو')
+          
+         
+      
+          || userInput.includes('راديو')) {
+    botMessage.innerHTML = 'إذاعة روسيا أو إذاعة اليابان أو إذاعة أمريكا'  ;
+
+    
+    
+    
+       } else if (userInput.includes('سورة يوسف')
+      
+          || userInput.includes('يوسف')) {
+    botMessage.innerHTML = '<audio controls alt="audio/mp3"style="width:200px;"><source src = "kases1.mp3" type = "audio/mp3">سورة يوسف</audio> '  ;
+
+        
+
+    
+       } else if (userInput.includes('سورة هود')
+      
+          || userInput.includes('هود')) {
+    botMessage.innerHTML = '<audio controls alt="audio/mp3"style="width:200px;"><source src = "kases2.mp3" type = "audio/mp3">سورة هود</audio> '  ;
+
+        
+      
+       } else if (userInput.includes('سورة البقرة')
+      
+          || userInput.includes('البقرة')) {
+    botMessage.innerHTML = '<audio controls alt="audio/mp3"style="width:200px;"><source src = "kases3.mp3" type = "audio/mp3">سورة البقرة</audio> '  ;
+
+
+      
+       } else if (userInput.includes('سورة المائدة')
+      
+          || userInput.includes('المائدة')) {
+    botMessage.innerHTML = '<audio controls alt="audio/mp3"style="width:200px;"><source src = "kases4.mp3" type = "audio/mp3">سورة المائدة</audio> '  ;
+
+    
 
      } else if (userInput.includes('الجدول الدوري للعناصر')|| userInput.includes('البترول')|| userInput.includes('الغازات')|| userInput.includes('الغاز')|| userInput.includes('الفضة')|| userInput.includes('الذهب')|| userInput.includes('الحديد')|| userInput.includes('اليورانيوم')|| userInput.includes('النحاس') || userInput.includes('المعادن')|| userInput.includes('الجدول الدوري') || userInput.includes('الذرة')|| userInput.includes('الطاقة النووية')|| userInput.includes('الصوت')|| userInput.includes('الذرات') || userInput.includes('علم الذرة')) {
     botMessage.innerHTML = 'لا أجوبة , قام فريقنا بحجب بعض المقالات العلمية الخاصة بالكمياء و العناصر ' ;
@@ -16700,6 +16790,7 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
           
           || userInput.includes('japan radio')
           || userInput.includes('راديو اليابان')
+           || userInput.includes('قناة راديو اليابان')
     || userInput.includes('الراديو الياباني')
     || userInput.includes('اذاعة اليابان')
        || userInput.includes('إذاعة اليابان')) {
@@ -16716,6 +16807,7 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
           
           
           || userInput.includes('russia radio')
+           || userInput.includes('قناة راديو روسيا')
           || userInput.includes('راديو روسيا')
     || userInput.includes('الراديو الروسي')
     || userInput.includes('اذاعة روسيا')
@@ -16734,6 +16826,7 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
            || userInput.includes('america radio')
             || userInput.includes('radio america')
           || userInput.includes('راديو امريكا')
+           || userInput.includes('قناة راديو روسيا')
     || userInput.includes('الراديو الامريكي')
     || userInput.includes('اذاعة امريكا')
      || userInput.includes('راديو امريكا')
