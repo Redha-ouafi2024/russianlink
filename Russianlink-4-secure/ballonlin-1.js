@@ -14343,7 +14343,7 @@
 
         // دالة لاستخراج الكلمات الرئيسية
         function extractKeywords(question) {
-            var stopWords =  ["و", "في", "من", "على", "إلى", "عن", "أن", "ل", "ب", "نحن", "هن", "الحال", "الأحوال", "الأمور", "أمورك", "كما", "ليس", "عندنا", "كيف", "كان", "متى", "أين", "ماذا", "أنا", "أنت", "أنتما", "أنتم", "أنتن", "هو", "هي", "هم", "حتى", "ذلك", "الاسم", "اسمك", "إسمك", "اللقب", "الإسم", "شكر", "شكرا", "العفو", "السلام", "عليك", "عليكم", "كم", "كذلك", "ماهو", "ماهي", "مع", "بواسطة",  "اسمك", "لكم", "لي", "لها", "ماسمك", "ما اسمك", "السمك",  ];
+            var stopWords =  ["و", "في", "من", "على", "إلى", "عن", "أن", "ل", "ب", "نحن", "هن", "الحال", "الأحوال", "الأمور", "أمورك", "كما", "ليس", "عندنا", "كيف", "كان", "متى", "أين", "ماذا", "أنا", "أنت", "أنتما", "أنتم", "أنتن", "هو", "هي", "هم", "حتى", "ذلك", "الاسم", "اسمك", "إسمك", "اللقب", "الإسم", "شكر", "شكرا", "العفو", "السلام", "عليك", "عليكم", "كم", "كذلك", "ماهو", "ماهي", "مع", "بواسطة",  "قناة", "لكم", "لي", "لها", "قناة راديو", "سورة قرآنية", "السمك", "اذاعة", "إذاعة", "سور", "سورة", "سور قرآنية", "أغاني",  ];
             return question
                 .split(" ")
                 .filter(word => word.length > 2 && !stopWords.includes(word));
@@ -14541,7 +14541,9 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
          
           || userInput.includes('قنوات الراديو')
           
-         
+           || userInput.includes('إذاعة')
+           
+            || userInput.includes('اذاعة')
       
           || userInput.includes('راديو')) {
     botMessage.innerHTML = 'إذاعة روسيا أو إذاعة اليابان أو إذاعة أمريكا'  ;
@@ -16789,10 +16791,13 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
           
           
           || userInput.includes('japan radio')
+           || userInput.includes('Radio japan')
+          
           || userInput.includes('راديو اليابان')
            || userInput.includes('قناة راديو اليابان')
     || userInput.includes('الراديو الياباني')
     || userInput.includes('اذاعة اليابان')
+     || userInput.includes('إذاعة اليابان')
        || userInput.includes('إذاعة اليابان')) {
      
        botMessage.innerHTML = '<div class="row"><audio controls alt="audio/mp3"class="music-player" style="width:200px;"><source src = "https://kathy.torontocast.com/kawaii" type = "audio/mp3"></audio>Radio Japan </div>'  ;
@@ -16807,6 +16812,7 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
           
           
           || userInput.includes('russia radio')
+            || userInput.includes('Radio russia')
            || userInput.includes('قناة راديو روسيا')
           || userInput.includes('راديو روسيا')
     || userInput.includes('الراديو الروسي')
@@ -16823,6 +16829,9 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
           
           
           || userInput.includes('usa radio')
+           || userInput.includes('Radio america')
+             || userInput.includes('Radio usa')
+           
            || userInput.includes('america radio')
             || userInput.includes('radio america')
           || userInput.includes('راديو امريكا')
@@ -16831,6 +16840,7 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
     || userInput.includes('اذاعة امريكا')
      || userInput.includes('راديو امريكا')
     || userInput.includes('الراديو الامريكي')
+     || userInput.includes('إذاعة أمريكا')
     || userInput.includes('اذاعة امريكا')
       || userInput.includes('إذاعة امريكا')
        || userInput.includes('إذاعة أمريكا')) {
