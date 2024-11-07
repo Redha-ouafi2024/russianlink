@@ -16,9 +16,12 @@
 
             "كيف حالك": ["أنا بخير، شكرًا لسؤالك", "بخير", "لابأس"],
 
-            "ما اسمك": ["اسمي ballonline.", "Riva.", "ballonline"],
+            "ما اسمك": ["اسمي Rivabot.", "rivabot", "Riva"],
 
+ "شكرا": ["شكرا على زيارتكم لصفحتناً", "أهلاً وسهلاً",],
+   "شكرا لك": ["شكرا على زيارتكم لصفحتناً", "أهلاً وسهلاً",],
 
+      "شكرا جزيلا": ["شكرا على زيارتكم لصفحتناً", "أهلاً وسهلاً",],
 
     "hello": ["Welcome", "Hello", "How are you?", "What's wrong with you?"],
       "hi": ["hi", "Hello", "How are you?", "What's wrong with you?"],
@@ -14346,7 +14349,7 @@
 
         // دالة لاستخراج الكلمات الرئيسية
         function extractKeywords(question) {
-            var stopWords = ["و", "في", "من", "على", "إلى", "عن", "أن", "ل", "ب"];
+            var stopWords =  ["و", "في", "من", "على", "إلى", "عن", "أن", "ل", "ب", "نحن", "هن", "الحال", "الأحوال", "الأمور", "أمورك", "كما", "ليس", "عندنا", "كيف", "كان", "متى", "أين", "ماذا", "أنا", "أنت", "أنتما", "أنتم", "أنتن", "هو", "هي", "هم", "حتى", "ذلك", "الاسم", "اسمك", "إسمك", "اللقب", "الإسم", "شكر", "شكرا", "العفو", "السلام", "عليك", "عليكم", "كم", "كذلك", "ماهو", "ماهي", "مع", "بواسطة",  "", "لكم", "لي", "لها", "ماسمك", "ما اسمك", "ماهو اسمك",  ];
             return question
                 .split(" ")
                 .filter(word => word.length > 2 && !stopWords.includes(word));
@@ -14895,7 +14898,7 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
      || userInput.includes('riva wafi')) {
      
      
-    botMessage.innerHTML = '<div class="row"><img src="riva123.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">Riva</div>'  ;
+    botMessage.innerHTML = '<div class="row"><img src="rivaouafi123.jpg"style="width:150px;height:150px;margin:auto;border-radius:0px;">Riva</div>'  ;
 
 
 
@@ -17313,7 +17316,7 @@ if (userInput.includes('12341263') || userInput.includes('show me a picture')) {
        
        
        
-          } else if (userInput.includes('سمك')
+          } else if (userInput.includes('السمكة')
           
           
          || userInput.includes('السمك')
